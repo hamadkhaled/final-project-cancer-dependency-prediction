@@ -1,0 +1,1705 @@
+scheme,fold,ModelID,OncotreeLineage,PatientID,row_index
+lineage_blocked,0,ACH-000004,Myeloid,PT-q4K2cp,1
+lineage_blocked,0,ACH-000005,Myeloid,PT-q4K2cp,2
+lineage_blocked,0,ACH-000012,Lung,PT-NdspH5,6
+lineage_blocked,0,ACH-000015,Lung,PT-ffwajI,9
+lineage_blocked,0,ACH-000021,Lung,PT-9p1WQv,13
+lineage_blocked,0,ACH-000029,Lung,PT-NdspH5,19
+lineage_blocked,0,ACH-000030,Lung,PT-nDRyc6,20
+lineage_blocked,0,ACH-000035,Lung,PT-5LVIPg,21
+lineage_blocked,0,ACH-000045,Myeloid,PT-zb7Sx0,28
+lineage_blocked,0,ACH-000074,Myeloid,PT-FJahu6,35
+lineage_blocked,0,ACH-000076,Myeloid,PT-Ugji7b,37
+lineage_blocked,0,ACH-000096,Kidney,PT-ABKGjf,48
+lineage_blocked,0,ACH-000113,Myeloid,PT-OA9fna,55
+lineage_blocked,0,ACH-000143,Lung,PT-1M8cz3,69
+lineage_blocked,0,ACH-000146,Myeloid,PT-Sv45MF,72
+lineage_blocked,0,ACH-000159,Kidney,PT-T2g8EU,79
+lineage_blocked,0,ACH-000168,Myeloid,PT-FTVcJW,84
+lineage_blocked,0,ACH-000187,Lung,PT-bfVDxm,90
+lineage_blocked,0,ACH-000189,Kidney,PT-yDBvIq,92
+lineage_blocked,0,ACH-000190,Myeloid,PT-YCDBvf,93
+lineage_blocked,0,ACH-000195,Myeloid,PT-ZJgxZb,96
+lineage_blocked,0,ACH-000198,Myeloid,PT-FYT6ze,97
+lineage_blocked,0,ACH-000234,Kidney,PT-A9d4DI,120
+lineage_blocked,0,ACH-000250,Kidney,PT-66upm1,129
+lineage_blocked,0,ACH-000251,Lung,PT-l5gD1h,130
+lineage_blocked,0,ACH-000257,Lung,PT-7LsK3v,133
+lineage_blocked,0,ACH-000261,Lung,PT-9jciof,137
+lineage_blocked,0,ACH-000262,Kidney,PT-BYKJeS,138
+lineage_blocked,0,ACH-000263,Myeloid,PT-uzWVHa,139
+lineage_blocked,0,ACH-000264,Lung,PT-T9nCW5,140
+lineage_blocked,0,ACH-000272,Kidney,PT-cSAYbR,142
+lineage_blocked,0,ACH-000290,Lung,PT-DzY90c,152
+lineage_blocked,0,ACH-000292,Lung,PT-x8fAhk,154
+lineage_blocked,0,ACH-000295,Myeloid,PT-PfwDZx,156
+lineage_blocked,0,ACH-000299,Myeloid,PT-OEqvYu,157
+lineage_blocked,0,ACH-000311,Lung,PT-6IoG5q,163
+lineage_blocked,0,ACH-000313,Kidney,PT-Hd1kAu,165
+lineage_blocked,0,ACH-000317,Kidney,PT-ARX9yV,168
+lineage_blocked,0,ACH-000326,Myeloid,PT-mEKuqA,176
+lineage_blocked,0,ACH-000336,Myeloid,PT-0F4qCF,183
+lineage_blocked,0,ACH-000337,Lung,PT-0fXDWz,184
+lineage_blocked,0,ACH-000343,Lung,PT-6ukZx4,187
+lineage_blocked,0,ACH-000355,Lung,PT-TQn0DO,194
+lineage_blocked,0,ACH-000362,Myeloid,PT-H3wdRq,198
+lineage_blocked,0,ACH-000373,Myeloid,PT-8qF7hQ,207
+lineage_blocked,0,ACH-000375,Kidney,PT-U7nXm3,209
+lineage_blocked,0,ACH-000378,Lung,PT-svCGFs,212
+lineage_blocked,0,ACH-000385,Kidney,PT-uqel7p,215
+lineage_blocked,0,ACH-000387,Myeloid,PT-JUL0sC,216
+lineage_blocked,0,ACH-000390,Lung,PT-gDZo34,218
+lineage_blocked,0,ACH-000395,Lung,PT-mQfWto,221
+lineage_blocked,0,ACH-000406,Myeloid,PT-ZwaNYv,227
+lineage_blocked,0,ACH-000411,Kidney,PT-Kwk2bU,231
+lineage_blocked,0,ACH-000416,Lung,PT-YdBNCw,233
+lineage_blocked,0,ACH-000431,Lung,PT-5l8uJX,240
+lineage_blocked,0,ACH-000433,Kidney,PT-0UOmyW,241
+lineage_blocked,0,ACH-000438,Lung,PT-DJtGj2,244
+lineage_blocked,0,ACH-000444,Lung,PT-IpPvfc,246
+lineage_blocked,0,ACH-000448,Lung,PT-3icxN1,248
+lineage_blocked,0,ACH-000454,Lung,PT-u7ecNk,251
+lineage_blocked,0,ACH-000463,Lung,PT-gfHIRD,256
+lineage_blocked,0,ACH-000481,Lung,PT-CazMr1,270
+lineage_blocked,0,ACH-000484,Kidney,PT-BHz6vU,272
+lineage_blocked,0,ACH-000487,Myeloid,PT-fzbPIv,274
+lineage_blocked,0,ACH-000496,Lung,PT-5umTu0,278
+lineage_blocked,0,ACH-000498,Myeloid,PT-pWs9uO,279
+lineage_blocked,0,ACH-000510,Lung,PT-7qWq2K,287
+lineage_blocked,0,ACH-000511,Lung,PT-R4QjAn,288
+lineage_blocked,0,ACH-000514,Lung,PT-Jj10yy,289
+lineage_blocked,0,ACH-000515,Lung,PT-BuE22y,290
+lineage_blocked,0,ACH-000521,Lung,PT-hEuGfg,294
+lineage_blocked,0,ACH-000525,Lung,PT-NNs10U,297
+lineage_blocked,0,ACH-000528,Lung,PT-id2eBb,299
+lineage_blocked,0,ACH-000533,Kidney,PT-x2jmX9,301
+lineage_blocked,0,ACH-000551,Myeloid,PT-y8u0p3,311
+lineage_blocked,0,ACH-000557,Myeloid,PT-CVf0Wr,314
+lineage_blocked,0,ACH-000559,Lung,PT-xIjoai,315
+lineage_blocked,0,ACH-000585,Lung,PT-HU0uli,323
+lineage_blocked,0,ACH-000587,Lung,PT-HkdFKw,324
+lineage_blocked,0,ACH-000589,Lung,PT-KKsvGZ,326
+lineage_blocked,0,ACH-000596,Lung,PT-9Zamyo,330
+lineage_blocked,0,ACH-000602,Myeloid,PT-JpUzYa,333
+lineage_blocked,0,ACH-000607,Kidney,PT-UnVDKb,335
+lineage_blocked,0,ACH-000627,Lung,PT-Rd3J4D,345
+lineage_blocked,0,ACH-000639,Lung,PT-PkJ80f,351
+lineage_blocked,0,ACH-000649,Kidney,PT-4QH2lI,355
+lineage_blocked,0,ACH-000662,Lung,PT-S1tr6I,363
+lineage_blocked,0,ACH-000665,Lung,PT-41lHFE,366
+lineage_blocked,0,ACH-000666,Lung,PT-ELrBOm,367
+lineage_blocked,0,ACH-000667,Lung,PT-uY17tx,368
+lineage_blocked,0,ACH-000681,Lung,PT-cqv92I,373
+lineage_blocked,0,ACH-000684,Kidney,PT-wbA1oa,376
+lineage_blocked,0,ACH-000698,Lung,PT-ERlBcq,382
+lineage_blocked,0,ACH-000700,Lung,PT-o9axOH,384
+lineage_blocked,0,ACH-000706,Lung,PT-srkn4o,387
+lineage_blocked,0,ACH-000709,Kidney,PT-TF1Jzt,388
+lineage_blocked,0,ACH-000718,Lung,PT-8wDCNH,393
+lineage_blocked,0,ACH-000747,Lung,PT-CmsNht,407
+lineage_blocked,0,ACH-000749,Lung,PT-d1NyBL,409
+lineage_blocked,0,ACH-000766,Lung,PT-wZGKqJ,418
+lineage_blocked,0,ACH-000767,Lung,PT-1nXRn7,419
+lineage_blocked,0,ACH-000769,Lung,PT-U2PG43,421
+lineage_blocked,0,ACH-000770,Myeloid,PT-7N6azV,422
+lineage_blocked,0,ACH-000781,Lung,PT-CKs1VS,428
+lineage_blocked,0,ACH-000785,Lung,PT-AOPcW9,432
+lineage_blocked,0,ACH-000790,Lung,PT-EI5eP1,434
+lineage_blocked,0,ACH-000791,Lung,PT-sAWSgy,435
+lineage_blocked,0,ACH-000792,Kidney,PT-FrUuvH,436
+lineage_blocked,0,ACH-000800,Lung,PT-RmrNlb,440
+lineage_blocked,0,ACH-000826,Lung,PT-nAjtb0,453
+lineage_blocked,0,ACH-000837,Lung,PT-9eMhTl,462
+lineage_blocked,0,ACH-000840,Lung,PT-1JVU53,465
+lineage_blocked,0,ACH-000841,Lung,PT-lYuNel,466
+lineage_blocked,0,ACH-000843,Lung,PT-gQzNzd,467
+lineage_blocked,0,ACH-000845,Lung,PT-LL5Hxl,468
+lineage_blocked,0,ACH-000853,Lung,PT-FGrsoV,473
+lineage_blocked,0,ACH-000858,Lung,PT-obWM4y,476
+lineage_blocked,0,ACH-000861,Lung,PT-ExToNn,478
+lineage_blocked,0,ACH-000866,Lung,PT-l2795j,480
+lineage_blocked,0,ACH-000867,Lung,PT-3nyeTa,481
+lineage_blocked,0,ACH-000869,Lung,PT-JylhbS,482
+lineage_blocked,0,ACH-000871,Lung,PT-IG35r8,483
+lineage_blocked,0,ACH-000872,Lung,PT-CXILSG,484
+lineage_blocked,0,ACH-000878,Lung,PT-WMdXaj,486
+lineage_blocked,0,ACH-000888,Lung,PT-JWHrxe,492
+lineage_blocked,0,ACH-000890,Lung,PT-Np75OL,494
+lineage_blocked,0,ACH-000894,Lung,PT-RPtiPJ,495
+lineage_blocked,0,ACH-000900,Lung,PT-rWMXJp,499
+lineage_blocked,0,ACH-000901,Lung,PT-gBcBSy,500
+lineage_blocked,0,ACH-000907,Kidney,PT-20TYLm,504
+lineage_blocked,0,ACH-000912,Lung,PT-wNpw5y,507
+lineage_blocked,0,ACH-000921,Lung,PT-jKAU6d,513
+lineage_blocked,0,ACH-000924,Lung,PT-4qxYZb,515
+lineage_blocked,0,ACH-000929,Lung,PT-29i6JV,517
+lineage_blocked,0,ACH-000945,Lung,PT-0uFhp8,528
+lineage_blocked,0,ACH-000975,Lung,PT-gNoIDb,548
+lineage_blocked,0,ACH-000983,Myeloid,PT-AcI1bM,554
+lineage_blocked,0,ACH-001036,Myeloid,PT-XYdNvp,567
+lineage_blocked,0,ACH-001075,Lung,PT-nKyqod,573
+lineage_blocked,0,ACH-001129,Myeloid,PT-ej13Dz,579
+lineage_blocked,0,ACH-001295,Eye,PT-KinR5m,604
+lineage_blocked,0,ACH-001398,Kidney,PT-Xr379n,623
+lineage_blocked,0,ACH-001421,Eye,PT-WBS2Hf,626
+lineage_blocked,0,ACH-001574,Myeloid,PT-H3wdRq,649
+lineage_blocked,0,ACH-001577,Myeloid,PT-wizE6v,650
+lineage_blocked,0,ACH-001618,Myeloid,PT-Oev2PO,657
+lineage_blocked,0,ACH-001647,Myeloid,PT-8Jr4Fd,664
+lineage_blocked,0,ACH-001656,Myeloid,PT-YKJPHt,666
+lineage_blocked,0,ACH-002014,Eye,PT-5vJu3k,716
+lineage_blocked,0,ACH-002015,Eye,PT-N7xRpa,717
+lineage_blocked,0,ACH-002016,Eye,PT-MucJf6,718
+lineage_blocked,0,ACH-002018,Eye,PT-5vJu3k,719
+lineage_blocked,0,ACH-002035,Lung,PT-5NWbnb,731
+lineage_blocked,0,ACH-002051,Lung,PT-K31XId,741
+lineage_blocked,0,ACH-002052,Lung,PT-0531Uw,742
+lineage_blocked,0,ACH-002060,Myeloid,PT-DWKd8J,745
+lineage_blocked,0,ACH-002061,Myeloid,PT-y8u0p3,746
+lineage_blocked,0,ACH-002077,Lung,PT-qVbV4Q,752
+lineage_blocked,0,ACH-002463,Eye,PT-JWRsco,767
+lineage_blocked,0,ACH-002464,Eye,PT-JWRsco,768
+lineage_blocked,0,ACH-002465,Eye,PT-JWRsco,769
+lineage_blocked,0,ACH-002475,Myeloid,PT-gjpFPM,772
+lineage_blocked,0,ACH-002490,Lung,PT-0a2F5a,776
+lineage_blocked,0,ACH-002522,Lung,PT-7B82nW,783
+lineage_blocked,0,ACH-002526,Lung,PT-z0Yk96,786
+lineage_blocked,0,ACH-002528,Kidney,PT-Zod1Nb,787
+lineage_blocked,0,ACH-002531,Lung,PT-GWa6kp,788
+lineage_blocked,0,ACH-002533,Kidney,PT-wkGMuS,789
+lineage_blocked,0,ACH-002650,Lung,PT-6fwwV7,794
+lineage_blocked,0,ACH-002687,Eye,PT-VBCF1O,806
+lineage_blocked,0,ACH-002709,Myeloid,PT-92FgnG,813
+lineage_blocked,0,ACH-002925,Eye,PT-abxYPP,830
+lineage_blocked,0,ACH-002926,Eye,PT-vu5jnE,831
+lineage_blocked,0,ACH-003012,Lung,PT-cqv92I,833
+lineage_blocked,0,ACH-003273,Myeloid,PT-44yhk7,847
+lineage_blocked,1,ACH-000011,Bladder/Urinary Tract,PT-AR7W9o,5
+lineage_blocked,1,ACH-000018,Bladder/Urinary Tract,PT-Mi0cKz,11
+lineage_blocked,1,ACH-000024,Lymphoid,PT-codP7n,16
+lineage_blocked,1,ACH-000053,Lymphoid,PT-nECHHn,31
+lineage_blocked,1,ACH-000070,Lymphoid,PT-0yrZJC,34
+lineage_blocked,1,ACH-000077,Lymphoid,PT-brIUSU,38
+lineage_blocked,1,ACH-000078,Peripheral Nervous System,PT-Vot01h,39
+lineage_blocked,1,ACH-000090,Prostate,PT-j0lUB5,44
+lineage_blocked,1,ACH-000099,Peripheral Nervous System,PT-JpfhsL,51
+lineage_blocked,1,ACH-000101,Lymphoid,PT-6Sunyd,52
+lineage_blocked,1,ACH-000120,Peripheral Nervous System,PT-6jhjWI,59
+lineage_blocked,1,ACH-000127,Bladder/Urinary Tract,PT-Mi0cKz,61
+lineage_blocked,1,ACH-000133,Fibroblast,PT-PvBEqK,64
+lineage_blocked,1,ACH-000141,Biliary Tract,PT-iqSI4n,67
+lineage_blocked,1,ACH-000142,Bladder/Urinary Tract,PT-Er9zxL,68
+lineage_blocked,1,ACH-000151,Lymphoid,PT-t7KWtB,75
+lineage_blocked,1,ACH-000167,Lymphoid,PT-ghtKEp,83
+lineage_blocked,1,ACH-000174,Thyroid,PT-dTkV2T,87
+lineage_blocked,1,ACH-000182,Ampulla of Vater,PT-n4Jzz1,88
+lineage_blocked,1,ACH-000183,Lymphoid,PT-T1yBnE,89
+lineage_blocked,1,ACH-000191,Thyroid,PT-Lc6cyf,94
+lineage_blocked,1,ACH-000203,Peripheral Nervous System,PT-9PJrBN,100
+lineage_blocked,1,ACH-000204,Lymphoid,PT-gN5ZVQ,101
+lineage_blocked,1,ACH-000206,Lymphoid,PT-vEZ2Aw,102
+lineage_blocked,1,ACH-000226,Lymphoid,PT-ktST3K,114
+lineage_blocked,1,ACH-000227,Peripheral Nervous System,PT-N9Xbr1,115
+lineage_blocked,1,ACH-000233,Lymphoid,PT-zshCzw,119
+lineage_blocked,1,ACH-000259,Peripheral Nervous System,PT-S07K7h,135
+lineage_blocked,1,ACH-000260,Peripheral Nervous System,PT-7WPGtR,136
+lineage_blocked,1,ACH-000310,Peripheral Nervous System,PT-2Urqss,162
+lineage_blocked,1,ACH-000312,Peripheral Nervous System,PT-k4Daz3,164
+lineage_blocked,1,ACH-000315,Lymphoid,PT-lrPA2x,166
+lineage_blocked,1,ACH-000334,Lymphoid,PT-mgfMcU,181
+lineage_blocked,1,ACH-000338,Lymphoid,PT-khOMVk,185
+lineage_blocked,1,ACH-000341,Peripheral Nervous System,PT-I4N9IW,186
+lineage_blocked,1,ACH-000345,Peripheral Nervous System,PT-LZIxuV,189
+lineage_blocked,1,ACH-000363,Lymphoid,PT-35DpVF,199
+lineage_blocked,1,ACH-000365,Lymphoid,PT-I24dRR,201
+lineage_blocked,1,ACH-000366,Peripheral Nervous System,PT-lIgcxS,202
+lineage_blocked,1,ACH-000371,Lymphoid,PT-B4jW32,206
+lineage_blocked,1,ACH-000377,Ampulla of Vater,PT-gf9GtH,211
+lineage_blocked,1,ACH-000402,Lymphoid,PT-ieu86J,224
+lineage_blocked,1,ACH-000405,Lymphoid,PT-2VMIkL,226
+lineage_blocked,1,ACH-000456,Thyroid,PT-UFvK3A,253
+lineage_blocked,1,ACH-000461,Biliary Tract,PT-1PHTgt,255
+lineage_blocked,1,ACH-000473,Bladder/Urinary Tract,PT-ESM25t,263
+lineage_blocked,1,ACH-000486,Bladder/Urinary Tract,PT-W6AZYO,273
+lineage_blocked,1,ACH-000490,Cervix,PT-Ag8pMW,276
+lineage_blocked,1,ACH-000522,Bladder/Urinary Tract,PT-sPPqcj,295
+lineage_blocked,1,ACH-000541,Lymphoid,PT-K9dsbf,304
+lineage_blocked,1,ACH-000545,Bladder/Urinary Tract,PT-LSFu4z,307
+lineage_blocked,1,ACH-000547,Bladder/Urinary Tract,PT-Tid1hK,308
+lineage_blocked,1,ACH-000576,Lymphoid,PT-EvS9IW,318
+lineage_blocked,1,ACH-000583,Lymphoid,PT-Lrf7XT,322
+lineage_blocked,1,ACH-000588,Lymphoid,PT-wXGfqR,325
+lineage_blocked,1,ACH-000593,Bladder/Urinary Tract,PT-SQ6fkx,328
+lineage_blocked,1,ACH-000653,Lymphoid,PT-vA8rQh,358
+lineage_blocked,1,ACH-000654,Lymphoid,PT-WEYO1e,359
+lineage_blocked,1,ACH-000664,Lymphoid,PT-jm7IYN,365
+lineage_blocked,1,ACH-000697,Lymphoid,PT-T19rUu,381
+lineage_blocked,1,ACH-000714,Lymphoid,PT-KR5FTA,391
+lineage_blocked,1,ACH-000716,Thyroid,PT-EhboSJ,392
+lineage_blocked,1,ACH-000720,Bladder/Urinary Tract,PT-ACqBkd,395
+lineage_blocked,1,ACH-000724,Bladder/Urinary Tract,PT-B0Dqk6,397
+lineage_blocked,1,ACH-000753,Bladder/Urinary Tract,PT-Jv3gwf,410
+lineage_blocked,1,ACH-000754,Lymphoid,PT-Pi0OS5,411
+lineage_blocked,1,ACH-000763,Lymphoid,PT-wvxTew,416
+lineage_blocked,1,ACH-000773,Lymphoid,PT-vEVB0H,424
+lineage_blocked,1,ACH-000782,Lymphoid,PT-IjgcRg,429
+lineage_blocked,1,ACH-000802,Bladder/Urinary Tract,PT-YqLKaW,442
+lineage_blocked,1,ACH-000804,Peripheral Nervous System,PT-dk8yt2,443
+lineage_blocked,1,ACH-000817,Lymphoid,PT-pWj35D,449
+lineage_blocked,1,ACH-000829,Lymphoid,PT-h5fVs5,455
+lineage_blocked,1,ACH-000834,Bladder/Urinary Tract,PT-oxE5Td,459
+lineage_blocked,1,ACH-000838,Lymphoid,PT-CmSm57,463
+lineage_blocked,1,ACH-000839,Bladder/Urinary Tract,PT-l3KlxJ,464
+lineage_blocked,1,ACH-000874,Lymphoid,PT-eEEvwF,485
+lineage_blocked,1,ACH-000889,Lymphoid,PT-xlEnkN,493
+lineage_blocked,1,ACH-000896,Bladder/Urinary Tract,PT-bDT6oy,496
+lineage_blocked,1,ACH-000903,Thyroid,PT-ZSsyUS,501
+lineage_blocked,1,ACH-000905,Bladder/Urinary Tract,PT-nC0LDL,502
+lineage_blocked,1,ACH-000914,Lymphoid,PT-zrYGap,509
+lineage_blocked,1,ACH-000922,Lymphoid,PT-0mdkef,514
+lineage_blocked,1,ACH-000937,Lymphoid,PT-UEq5KV,522
+lineage_blocked,1,ACH-000938,Lymphoid,PT-rgsUoa,523
+lineage_blocked,1,ACH-000944,Lymphoid,PT-grWxm0,527
+lineage_blocked,1,ACH-000953,Lymphoid,PT-Zkuf8L,533
+lineage_blocked,1,ACH-000956,Prostate,PT-FFSOW0,534
+lineage_blocked,1,ACH-000960,Lymphoid,PT-N5YXV2,538
+lineage_blocked,1,ACH-000973,Bladder/Urinary Tract,PT-P31KFG,546
+lineage_blocked,1,ACH-000976,Biliary Tract,PT-z66Tka,549
+lineage_blocked,1,ACH-000977,Prostate,PT-tY34fU,550
+lineage_blocked,1,ACH-000979,Prostate,PT-05dldv,552
+lineage_blocked,1,ACH-000981,Lymphoid,PT-zhUnhJ,553
+lineage_blocked,1,ACH-000995,Lymphoid,PT-lj83Ht,559
+lineage_blocked,1,ACH-001111,Lymphoid,PT-glFbpW,576
+lineage_blocked,1,ACH-001119,Lymphoid,PT-eHvuQ3,577
+lineage_blocked,1,ACH-001134,Lymphoid,PT-YD7WB8,580
+lineage_blocked,1,ACH-001183,Bladder/Urinary Tract,PT-ESM25t,583
+lineage_blocked,1,ACH-001188,Peripheral Nervous System,PT-ombRgU,585
+lineage_blocked,1,ACH-001197,Lymphoid,PT-3YIeN9,590
+lineage_blocked,1,ACH-001300,Peripheral Nervous System,PT-ZhCETu,605
+lineage_blocked,1,ACH-001301,Peripheral Nervous System,PT-9ShVj5,606
+lineage_blocked,1,ACH-001302,Peripheral Nervous System,PT-37DeSd,607
+lineage_blocked,1,ACH-001303,Peripheral Nervous System,PT-IFd9cu,608
+lineage_blocked,1,ACH-001306,Thyroid,PT-Dn9adW,609
+lineage_blocked,1,ACH-001307,Thyroid,PT-1llqWx,610
+lineage_blocked,1,ACH-001333,Cervix,PT-9q6tDV,613
+lineage_blocked,1,ACH-001334,Cervix,PT-ERAmPK,614
+lineage_blocked,1,ACH-001336,Cervix,PT-QAGzTB,615
+lineage_blocked,1,ACH-001338,Peripheral Nervous System,PT-cvCz0R,616
+lineage_blocked,1,ACH-001344,Peripheral Nervous System,PT-smWXLD,617
+lineage_blocked,1,ACH-001354,Peripheral Nervous System,PT-6gsVP1,619
+lineage_blocked,1,ACH-001366,Peripheral Nervous System,PT-jZHQTi,620
+lineage_blocked,1,ACH-001400,Vulva/Vagina,PT-2KkY6l,624
+lineage_blocked,1,ACH-001401,Adrenal Gland,PT-7a0mgm,625
+lineage_blocked,1,ACH-001422,Prostate,PT-EhPRzn,627
+lineage_blocked,1,ACH-001465,Peripheral Nervous System,PT-7eVJ3u,634
+lineage_blocked,1,ACH-001481,Peripheral Nervous System,PT-GWiky5,635
+lineage_blocked,1,ACH-001494,Biliary Tract,PT-KZb32w,636
+lineage_blocked,1,ACH-001502,Testis,PT-xmuA7w,637
+lineage_blocked,1,ACH-001528,Thyroid,PT-1Qm9m0,641
+lineage_blocked,1,ACH-001533,Lymphoid,PT-04HLfu,643
+lineage_blocked,1,ACH-001548,Peripheral Nervous System,PT-TA4RrC,646
+lineage_blocked,1,ACH-001578,Testis,PT-OqrZ3f,651
+lineage_blocked,1,ACH-001619,Biliary Tract,PT-xi87qq,658
+lineage_blocked,1,ACH-001642,Lymphoid,PT-HcsCe7,663
+lineage_blocked,1,ACH-001649,Prostate,PT-iy858F,665
+lineage_blocked,1,ACH-001668,Testis,PT-2w1URA,668
+lineage_blocked,1,ACH-001669,Lymphoid,PT-ffpEbF,669
+lineage_blocked,1,ACH-001674,Peripheral Nervous System,PT-o4jARg,671
+lineage_blocked,1,ACH-001677,Lymphoid,PT-PFlyLY,674
+lineage_blocked,1,ACH-001685,Lymphoid,PT-A1mKo8,676
+lineage_blocked,1,ACH-001707,Lymphoid,PT-XqTlID,684
+lineage_blocked,1,ACH-001709,Lymphoid,PT-scpPOF,685
+lineage_blocked,1,ACH-001735,Lymphoid,PT-IjgcRg,688
+lineage_blocked,1,ACH-001736,Lymphoid,PT-PmkoYV,689
+lineage_blocked,1,ACH-001737,Lymphoid,PT-KaownI,690
+lineage_blocked,1,ACH-001848,Biliary Tract,PT-PUXC1Q,701
+lineage_blocked,1,ACH-001863,Biliary Tract,PT-VWXKPj,702
+lineage_blocked,1,ACH-001993,Lymphoid,PT-22pOAT,710
+lineage_blocked,1,ACH-002019,Cervix,PT-AOzYCt,720
+lineage_blocked,1,ACH-002020,Cervix,PT-3SrUkP,721
+lineage_blocked,1,ACH-002023,Ampulla of Vater,PT-hlvUsv,723
+lineage_blocked,1,ACH-002040,Vulva/Vagina,PT-YbtlK5,733
+lineage_blocked,1,ACH-002041,Thyroid,PT-PqWEZm,734
+lineage_blocked,1,ACH-002055,Lymphoid,PT-tk6NTJ,743
+lineage_blocked,1,ACH-002059,Lymphoid,PT-reOMOW,744
+lineage_blocked,1,ACH-002062,Lymphoid,PT-2hETfh,747
+lineage_blocked,1,ACH-002066,Peripheral Nervous System,PT-coZfvw,748
+lineage_blocked,1,ACH-002080,Peripheral Nervous System,PT-rlExpa,753
+lineage_blocked,1,ACH-002214,Lymphoid,PT-83LwGP,756
+lineage_blocked,1,ACH-002215,Lymphoid,PT-tSpUfL,757
+lineage_blocked,1,ACH-002283,Peripheral Nervous System,PT-x400Sq,758
+lineage_blocked,1,ACH-002291,Testis,PT-4gdieL,759
+lineage_blocked,1,ACH-002478,Lymphoid,PT-pqMaYc,773
+lineage_blocked,1,ACH-002485,Lymphoid,PT-NJ3wbw,774
+lineage_blocked,1,ACH-002500,Lymphoid,PT-GjFsxJ,778
+lineage_blocked,1,ACH-002647,Biliary Tract,PT-O1x5GT,793
+lineage_blocked,1,ACH-002677,Lymphoid,PT-6AFvnc,802
+lineage_blocked,1,ACH-002678,Lymphoid,PT-EV9I7F,803
+lineage_blocked,1,ACH-002693,Peripheral Nervous System,PT-DyxJsT,809
+lineage_blocked,1,ACH-002710,Peripheral Nervous System,PT-nQk25T,814
+lineage_blocked,1,ACH-002799,Peripheral Nervous System,PT-qqzgSc,822
+lineage_blocked,1,ACH-002800,Peripheral Nervous System,PT-WTpRkW,823
+lineage_blocked,1,ACH-002801,Peripheral Nervous System,PT-hmiIEB,824
+lineage_blocked,1,ACH-002922,Peripheral Nervous System,PT-LKZDpW,828
+lineage_blocked,1,ACH-002923,Peripheral Nervous System,PT-22FXN6,829
+lineage_blocked,1,ACH-003590,Lymphoid,PT-JkwieL,851
+lineage_blocked,2,ACH-000001,Ovary/Fallopian Tube,PT-gj46wT,0
+lineage_blocked,2,ACH-000013,Ovary/Fallopian Tube,PT-gj46wT,7
+lineage_blocked,2,ACH-000025,CNS/Brain,PT-nrgozM,17
+lineage_blocked,2,ACH-000036,CNS/Brain,PT-llPs5J,22
+lineage_blocked,2,ACH-000037,Soft Tissue,PT-JfLphU,23
+lineage_blocked,2,ACH-000040,CNS/Brain,PT-5XnRfQ,25
+lineage_blocked,2,ACH-000048,Ovary/Fallopian Tube,PT-EehOTC,29
+lineage_blocked,2,ACH-000054,Soft Tissue,PT-cVfhmE,32
+lineage_blocked,2,ACH-000075,CNS/Brain,PT-59c3mE,36
+lineage_blocked,2,ACH-000095,CNS/Brain,PT-nsjOrX,47
+lineage_blocked,2,ACH-000098,CNS/Brain,PT-HmIANs,50
+lineage_blocked,2,ACH-000116,Ovary/Fallopian Tube,PT-eqFmWE,57
+lineage_blocked,2,ACH-000123,Ovary/Fallopian Tube,PT-hlFfQW,60
+lineage_blocked,2,ACH-000128,CNS/Brain,PT-mUWSlp,62
+lineage_blocked,2,ACH-000132,Ovary/Fallopian Tube,PT-F6NvL5,63
+lineage_blocked,2,ACH-000137,CNS/Brain,PT-WFlL15,65
+lineage_blocked,2,ACH-000145,Soft Tissue,PT-LH2axx,71
+lineage_blocked,2,ACH-000152,CNS/Brain,PT-DK2CQc,76
+lineage_blocked,2,ACH-000160,CNS/Brain,PT-0GrZ0k,80
+lineage_blocked,2,ACH-000169,Soft Tissue,PT-TG4t9c,85
+lineage_blocked,2,ACH-000172,Soft Tissue,PT-o2d0Va,86
+lineage_blocked,2,ACH-000200,CNS/Brain,PT-bkGAPG,98
+lineage_blocked,2,ACH-000211,CNS/Brain,PT-5fvUg8,105
+lineage_blocked,2,ACH-000215,CNS/Brain,PT-G8e35b,107
+lineage_blocked,2,ACH-000217,Liver,PT-YfFi4d,109
+lineage_blocked,2,ACH-000221,Liver,PT-7v9ThA,111
+lineage_blocked,2,ACH-000231,CNS/Brain,PT-nIom71,117
+lineage_blocked,2,ACH-000232,CNS/Brain,PT-88IC1n,118
+lineage_blocked,2,ACH-000237,Ovary/Fallopian Tube,PT-wwKJYr,122
+lineage_blocked,2,ACH-000244,CNS/Brain,PT-9fPvh2,125
+lineage_blocked,2,ACH-000256,Ovary/Fallopian Tube,PT-qexSkk,132
+lineage_blocked,2,ACH-000273,CNS/Brain,PT-qWYBLI,143
+lineage_blocked,2,ACH-000278,Ovary/Fallopian Tube,PT-BexFYH,146
+lineage_blocked,2,ACH-000280,Ovary/Fallopian Tube,PT-S0isOw,148
+lineage_blocked,2,ACH-000291,Ovary/Fallopian Tube,PT-MtLxSF,153
+lineage_blocked,2,ACH-000308,Ovary/Fallopian Tube,PT-cdCVJ4,161
+lineage_blocked,2,ACH-000316,Liver,PT-f7BtKr,167
+lineage_blocked,2,ACH-000323,CNS/Brain,PT-PE7kNG,173
+lineage_blocked,2,ACH-000324,Ovary/Fallopian Tube,PT-CrEQoF,174
+lineage_blocked,2,ACH-000329,CNS/Brain,PT-GKdkIC,177
+lineage_blocked,2,ACH-000361,Liver,PT-sPLV6L,197
+lineage_blocked,2,ACH-000368,CNS/Brain,PT-U0kXHW,204
+lineage_blocked,2,ACH-000370,CNS/Brain,PT-HHIjR4,205
+lineage_blocked,2,ACH-000376,CNS/Brain,PT-O9gP17,210
+lineage_blocked,2,ACH-000389,CNS/Brain,PT-9RF4Fl,217
+lineage_blocked,2,ACH-000393,Liver,PT-saZI6H,220
+lineage_blocked,2,ACH-000420,Liver,PT-zjdwU2,235
+lineage_blocked,2,ACH-000422,Liver,PT-UjP297,237
+lineage_blocked,2,ACH-000437,CNS/Brain,PT-uhtVUf,243
+lineage_blocked,2,ACH-000445,CNS/Brain,PT-N1UIhD,247
+lineage_blocked,2,ACH-000455,CNS/Brain,PT-XOGcZJ,252
+lineage_blocked,2,ACH-000460,Ovary/Fallopian Tube,PT-OIFKmV,254
+lineage_blocked,2,ACH-000464,CNS/Brain,PT-3nLBts,257
+lineage_blocked,2,ACH-000469,CNS/Brain,PT-hzuTX4,260
+lineage_blocked,2,ACH-000471,Liver,PT-6EhW80,262
+lineage_blocked,2,ACH-000475,Liver,PT-fHVhJI,264
+lineage_blocked,2,ACH-000476,Liver,PT-UVxXgl,265
+lineage_blocked,2,ACH-000478,Liver,PT-KvGBYp,267
+lineage_blocked,2,ACH-000479,CNS/Brain,PT-hM3DN4,268
+lineage_blocked,2,ACH-000480,Liver,PT-cw7s0S,269
+lineage_blocked,2,ACH-000483,Liver,PT-YTIYsu,271
+lineage_blocked,2,ACH-000493,Liver,PT-nNGWmq,277
+lineage_blocked,2,ACH-000504,CNS/Brain,PT-YFHa1n,284
+lineage_blocked,2,ACH-000505,Soft Tissue,PT-yLm1aj,285
+lineage_blocked,2,ACH-000520,Ovary/Fallopian Tube,PT-tv8Ku2,293
+lineage_blocked,2,ACH-000524,Ovary/Fallopian Tube,PT-6ZFCGi,296
+lineage_blocked,2,ACH-000527,Ovary/Fallopian Tube,PT-oYazft,298
+lineage_blocked,2,ACH-000537,Liver,PT-CLc6my,303
+lineage_blocked,2,ACH-000542,Ovary/Fallopian Tube,PT-0hMOxQ,305
+lineage_blocked,2,ACH-000570,CNS/Brain,PT-mxsdQX,316
+lineage_blocked,2,ACH-000592,CNS/Brain,PT-ruaWWk,327
+lineage_blocked,2,ACH-000595,CNS/Brain,PT-jhnjmL,329
+lineage_blocked,2,ACH-000608,Ovary/Fallopian Tube,PT-lr2HyG,336
+lineage_blocked,2,ACH-000620,Liver,PT-JMO4rY,340
+lineage_blocked,2,ACH-000622,CNS/Brain,PT-25ATIE,342
+lineage_blocked,2,ACH-000623,CNS/Brain,PT-llEy7t,343
+lineage_blocked,2,ACH-000634,CNS/Brain,PT-FYoibe,349
+lineage_blocked,2,ACH-000655,CNS/Brain,PT-ZQKvHU,360
+lineage_blocked,2,ACH-000657,Ovary/Fallopian Tube,PT-ug3gCf,361
+lineage_blocked,2,ACH-000663,Ovary/Fallopian Tube,PT-kymkHN,364
+lineage_blocked,2,ACH-000671,Liver,PT-TtIXsL,370
+lineage_blocked,2,ACH-000673,CNS/Brain,PT-6DJ7vB,371
+lineage_blocked,2,ACH-000688,Ovary/Fallopian Tube,PT-iVAxAa,377
+lineage_blocked,2,ACH-000696,Ovary/Fallopian Tube,PT-AlUnJX,380
+lineage_blocked,2,ACH-000701,Ovary/Fallopian Tube,PT-ColGZ0,385
+lineage_blocked,2,ACH-000704,Ovary/Fallopian Tube,PT-9pirK7,386
+lineage_blocked,2,ACH-000713,Ovary/Fallopian Tube,PT-FQOeFS,390
+lineage_blocked,2,ACH-000719,Ovary/Fallopian Tube,PT-bnZfQQ,394
+lineage_blocked,2,ACH-000734,Liver,PT-s6JoAb,400
+lineage_blocked,2,ACH-000738,CNS/Brain,PT-8oCN4x,403
+lineage_blocked,2,ACH-000739,Liver,PT-qL6HtY,404
+lineage_blocked,2,ACH-000756,CNS/Brain,PT-cJo3y3,412
+lineage_blocked,2,ACH-000760,CNS/Brain,PT-zboiLS,414
+lineage_blocked,2,ACH-000776,CNS/Brain,PT-DtdDWT,425
+lineage_blocked,2,ACH-000796,Ovary/Fallopian Tube,PT-Tlf0ul,438
+lineage_blocked,2,ACH-000807,CNS/Brain,PT-Yppu5U,445
+lineage_blocked,2,ACH-000811,Ovary/Fallopian Tube,PT-RV3Y6W,448
+lineage_blocked,2,ACH-000819,CNS/Brain,PT-1DyLm0,450
+lineage_blocked,2,ACH-000833,Soft Tissue,PT-lbYOig,458
+lineage_blocked,2,ACH-000835,Soft Tissue,PT-0RBdNq,460
+lineage_blocked,2,ACH-000848,Liver,PT-WkfAGI,471
+lineage_blocked,2,ACH-000887,CNS/Brain,PT-Wth0p2,491
+lineage_blocked,2,ACH-000906,Ovary/Fallopian Tube,PT-rH0cpo,503
+lineage_blocked,2,ACH-000936,Ovary/Fallopian Tube,PT-AiIzwN,521
+lineage_blocked,2,ACH-000947,Ovary/Fallopian Tube,PT-MsM9mi,530
+lineage_blocked,2,ACH-000966,Ovary/Fallopian Tube,PT-bGFaJu,542
+lineage_blocked,2,ACH-001020,CNS/Brain,PT-WLHxY0,563
+lineage_blocked,2,ACH-001021,Liver,PT-qL6HtY,564
+lineage_blocked,2,ACH-001031,CNS/Brain,PT-nuzviS,566
+lineage_blocked,2,ACH-001053,CNS/Brain,PT-HMzBz8,569
+lineage_blocked,2,ACH-001054,CNS/Brain,PT-HMzBz8,570
+lineage_blocked,2,ACH-001067,CNS/Brain,PT-0woxaX,572
+lineage_blocked,2,ACH-001096,Soft Tissue,PT-BarDvA,574
+lineage_blocked,2,ACH-001099,Soft Tissue,PT-FynJTm,575
+lineage_blocked,2,ACH-001128,Soft Tissue,PT-u43maP,578
+lineage_blocked,2,ACH-001151,Ovary/Fallopian Tube,PT-u4FBpq,581
+lineage_blocked,2,ACH-001164,Soft Tissue,PT-VJQa5v,582
+lineage_blocked,2,ACH-001184,Soft Tissue,PT-4E3Ck9,584
+lineage_blocked,2,ACH-001196,Soft Tissue,PT-9a1vbV,589
+lineage_blocked,2,ACH-001211,Soft Tissue,PT-ZmNOms,592
+lineage_blocked,2,ACH-001232,CNS/Brain,PT-Qe9Gjx,595
+lineage_blocked,2,ACH-001274,Soft Tissue,PT-IfpyhV,597
+lineage_blocked,2,ACH-001277,Soft Tissue,PT-yyLDZV,599
+lineage_blocked,2,ACH-001278,Ovary/Fallopian Tube,PT-ZkKui4,600
+lineage_blocked,2,ACH-001279,Ovary/Fallopian Tube,PT-z5pG5i,601
+lineage_blocked,2,ACH-001280,Soft Tissue,PT-u27nif,602
+lineage_blocked,2,ACH-001318,Liver,PT-E7izN5,611
+lineage_blocked,2,ACH-001322,Soft Tissue,PT-NzxvhN,612
+lineage_blocked,2,ACH-001349,CNS/Brain,PT-S14wo4,618
+lineage_blocked,2,ACH-001433,Soft Tissue,PT-rJIZ1y,631
+lineage_blocked,2,ACH-001606,CNS/Brain,PT-jZhsXq,652
+lineage_blocked,2,ACH-001608,CNS/Brain,PT-NaLtZ9,653
+lineage_blocked,2,ACH-001609,CNS/Brain,PT-OT2kJe,654
+lineage_blocked,2,ACH-001610,CNS/Brain,PT-WoVaBP,655
+lineage_blocked,2,ACH-001611,CNS/Brain,PT-62G0ep,656
+lineage_blocked,2,ACH-001622,CNS/Brain,PT-D5Ft7E,659
+lineage_blocked,2,ACH-001623,CNS/Brain,PT-QBDrgb,660
+lineage_blocked,2,ACH-001624,CNS/Brain,PT-dDtvIC,661
+lineage_blocked,2,ACH-001670,CNS/Brain,PT-SJ98Vo,670
+lineage_blocked,2,ACH-001702,Soft Tissue,PT-vslXtO,683
+lineage_blocked,2,ACH-001711,CNS/Brain,PT-lzKK9W,686
+lineage_blocked,2,ACH-001740,Soft Tissue,PT-vvfjiZ,691
+lineage_blocked,2,ACH-001745,Soft Tissue,PT-s7RWi4,692
+lineage_blocked,2,ACH-001750,Soft Tissue,PT-Hk36HO,693
+lineage_blocked,2,ACH-001765,Soft Tissue,PT-BN67ox,694
+lineage_blocked,2,ACH-001791,Soft Tissue,PT-lRwItD,695
+lineage_blocked,2,ACH-001793,Soft Tissue,PT-TTxLCZ,696
+lineage_blocked,2,ACH-001799,Soft Tissue,PT-VjYY7b,697
+lineage_blocked,2,ACH-001802,Soft Tissue,PT-JmLeEs,698
+lineage_blocked,2,ACH-001804,Soft Tissue,PT-0lPf2W,699
+lineage_blocked,2,ACH-002048,Soft Tissue,PT-oslMHT,740
+lineage_blocked,2,ACH-002070,CNS/Brain,PT-kM7sLu,751
+lineage_blocked,2,ACH-002486,Ovary/Fallopian Tube,PT-pyZjZu,775
+lineage_blocked,2,ACH-002523,Liver,PT-0yqjae,784
+lineage_blocked,2,ACH-002524,Ovary/Fallopian Tube,PT-itoB60,785
+lineage_blocked,2,ACH-002680,CNS/Brain,PT-UACtvx,804
+lineage_blocked,2,ACH-002681,CNS/Brain,PT-2QAfke,805
+lineage_blocked,2,ACH-002708,Soft Tissue,PT-03AcoW,812
+lineage_blocked,2,ACH-002782,Soft Tissue,PT-z4CfZ2,818
+lineage_blocked,2,ACH-002784,Soft Tissue,PT-ucxyns,819
+lineage_blocked,2,ACH-002785,Soft Tissue,PT-6sPicj,820
+lineage_blocked,2,ACH-002792,Soft Tissue,PT-wrg9dD,821
+lineage_blocked,2,ACH-002806,CNS/Brain,PT-k6klta,825
+lineage_blocked,2,ACH-003065,CNS/Brain,PT-eRqT4h,835
+lineage_blocked,2,ACH-003177,Soft Tissue,PT-72jDHL,838
+lineage_blocked,2,ACH-003180,Soft Tissue,PT-EMnXLI,840
+lineage_blocked,2,ACH-003184,Soft Tissue,PT-21NMVa,841
+lineage_blocked,2,ACH-003186,Soft Tissue,PT-DbN4gj,843
+lineage_blocked,2,ACH-003189,Soft Tissue,PT-eY3uqu,844
+lineage_blocked,2,ACH-003190,Soft Tissue,PT-8LUb74,845
+lineage_blocked,3,ACH-000014,Skin,PT-fp8PeY,8
+lineage_blocked,3,ACH-000017,Breast,PT-8CE6ah,10
+lineage_blocked,3,ACH-000019,Breast,PT-viJKnw,12
+lineage_blocked,3,ACH-000022,Pancreas,PT-lVglGI,14
+lineage_blocked,3,ACH-000023,Pancreas,PT-lVglGI,15
+lineage_blocked,3,ACH-000028,Breast,PT-viJKnw,18
+lineage_blocked,3,ACH-000042,Pancreas,PT-QOpMVz,27
+lineage_blocked,3,ACH-000060,Pancreas,PT-9JMXWA,33
+lineage_blocked,3,ACH-000085,Pancreas,PT-FnO2p8,41
+lineage_blocked,3,ACH-000093,Pancreas,PT-X8PfQy,46
+lineage_blocked,3,ACH-000097,Breast,PT-k1TO7o,49
+lineage_blocked,3,ACH-000108,Pancreas,PT-GEVVKA,53
+lineage_blocked,3,ACH-000111,Breast,PT-yKJqsn,54
+lineage_blocked,3,ACH-000114,Pancreas,PT-SNQPtX,56
+lineage_blocked,3,ACH-000118,Pancreas,PT-jYcdmK,58
+lineage_blocked,3,ACH-000139,Pancreas,PT-rXQo6a,66
+lineage_blocked,3,ACH-000147,Breast,PT-9WkxWW,73
+lineage_blocked,3,ACH-000148,Breast,PT-sW6DWH,74
+lineage_blocked,3,ACH-000155,Pancreas,PT-qPqCUF,78
+lineage_blocked,3,ACH-000163,Head and Neck,PT-llVV5F,81
+lineage_blocked,3,ACH-000164,Pancreas,PT-cHU83i,82
+lineage_blocked,3,ACH-000188,Head and Neck,PT-Iz4kXj,91
+lineage_blocked,3,ACH-000207,Head and Neck,PT-5QKbtV,103
+lineage_blocked,3,ACH-000212,Breast,PT-y6HadC,106
+lineage_blocked,3,ACH-000219,Skin,PT-3FxmoJ,110
+lineage_blocked,3,ACH-000222,Pancreas,PT-y5xucl,112
+lineage_blocked,3,ACH-000223,Breast,PT-Vntr9y,113
+lineage_blocked,3,ACH-000228,Head and Neck,PT-HX0QLG,116
+lineage_blocked,3,ACH-000235,Pancreas,PT-zLTXv3,121
+lineage_blocked,3,ACH-000238,Head and Neck,PT-Kf5TA3,123
+lineage_blocked,3,ACH-000243,Pancreas,PT-dLpuzD,124
+lineage_blocked,3,ACH-000248,Breast,PT-8CE6ah,127
+lineage_blocked,3,ACH-000258,Breast,PT-XTyUEa,134
+lineage_blocked,3,ACH-000265,Pancreas,PT-o1wR3t,141
+lineage_blocked,3,ACH-000276,Breast,PT-S4bLNM,144
+lineage_blocked,3,ACH-000277,Breast,PT-osxHUh,145
+lineage_blocked,3,ACH-000281,Pancreas,PT-aIUMLY,149
+lineage_blocked,3,ACH-000288,Breast,PT-hgWgpg,151
+lineage_blocked,3,ACH-000304,Skin,PT-JAyPtz,159
+lineage_blocked,3,ACH-000307,Pancreas,PT-rg0sYD,160
+lineage_blocked,3,ACH-000320,Pancreas,PT-tXqEg0,171
+lineage_blocked,3,ACH-000322,Skin,PT-czDcsE,172
+lineage_blocked,3,ACH-000330,Breast,PT-ykXL80,178
+lineage_blocked,3,ACH-000332,Pancreas,PT-Lio3jT,180
+lineage_blocked,3,ACH-000348,Skin,PT-xMEDHc,190
+lineage_blocked,3,ACH-000352,Breast,PT-jBpXJh,192
+lineage_blocked,3,ACH-000354,Pancreas,PT-MDCOET,193
+lineage_blocked,3,ACH-000374,Breast,PT-UPBMOO,208
+lineage_blocked,3,ACH-000401,Skin,PT-hf4hbl,223
+lineage_blocked,3,ACH-000415,Head and Neck,PT-Typnjw,232
+lineage_blocked,3,ACH-000417,Pancreas,PT-9CcA8P,234
+lineage_blocked,3,ACH-000441,Skin,PT-wx4HmM,245
+lineage_blocked,3,ACH-000450,Skin,PT-tIdwwm,249
+lineage_blocked,3,ACH-000468,Pancreas,PT-Ej6iPJ,259
+lineage_blocked,3,ACH-000477,Skin,PT-A0Pe6P,266
+lineage_blocked,3,ACH-000500,Head and Neck,PT-7wjU8J,281
+lineage_blocked,3,ACH-000502,Pancreas,PT-HGOuqa,282
+lineage_blocked,3,ACH-000503,Head and Neck,PT-9uZV0s,283
+lineage_blocked,3,ACH-000517,Pancreas,PT-V7OSXp,292
+lineage_blocked,3,ACH-000535,Pancreas,PT-xfjEoE,302
+lineage_blocked,3,ACH-000548,Head and Neck,PT-p0K5QM,309
+lineage_blocked,3,ACH-000550,Skin,PT-Wg8rkx,310
+lineage_blocked,3,ACH-000554,Breast,PT-i8kZN9,313
+lineage_blocked,3,ACH-000573,Breast,PT-aOGEYV,317
+lineage_blocked,3,ACH-000579,Skin,PT-KoNkGk,319
+lineage_blocked,3,ACH-000580,Skin,PT-Dlqu1U,320
+lineage_blocked,3,ACH-000599,Pancreas,PT-cDj854,331
+lineage_blocked,3,ACH-000601,Pancreas,PT-EzM7Ui,332
+lineage_blocked,3,ACH-000614,Skin,PT-Zy2EsL,337
+lineage_blocked,3,ACH-000618,Head and Neck,PT-BJe5Qe,339
+lineage_blocked,3,ACH-000621,Breast,PT-ER2PWK,341
+lineage_blocked,3,ACH-000624,Breast,PT-j1ziCB,344
+lineage_blocked,3,ACH-000630,Head and Neck,PT-uty9xg,346
+lineage_blocked,3,ACH-000632,Skin,PT-CeiJLF,347
+lineage_blocked,3,ACH-000652,Pancreas,PT-ETHfq8,357
+lineage_blocked,3,ACH-000661,Skin,PT-VxRt2m,362
+lineage_blocked,3,ACH-000668,Breast,PT-3DyHhv,369
+lineage_blocked,3,ACH-000676,Skin,PT-iObwE0,372
+lineage_blocked,3,ACH-000682,Head and Neck,PT-Svdo1R,374
+lineage_blocked,3,ACH-000699,Breast,PT-8MisfZ,383
+lineage_blocked,3,ACH-000711,Breast,PT-K0vetf,389
+lineage_blocked,3,ACH-000721,Breast,PT-tXW4rS,396
+lineage_blocked,3,ACH-000725,Breast,PT-gUhFHU,398
+lineage_blocked,3,ACH-000732,Head and Neck,PT-mK3rFG,399
+lineage_blocked,3,ACH-000735,Head and Neck,PT-M3R2ei,401
+lineage_blocked,3,ACH-000740,Head and Neck,PT-T4PL7e,405
+lineage_blocked,3,ACH-000762,Head and Neck,PT-M2rHki,415
+lineage_blocked,3,ACH-000768,Breast,PT-pYG6Rc,420
+lineage_blocked,3,ACH-000771,Head and Neck,PT-59aO2P,423
+lineage_blocked,3,ACH-000778,Head and Neck,PT-XJviYz,427
+lineage_blocked,3,ACH-000783,Breast,PT-dK1tBm,430
+lineage_blocked,3,ACH-000788,Skin,PT-ZSJTWI,433
+lineage_blocked,3,ACH-000799,Skin,PT-mZ69Vl,439
+lineage_blocked,3,ACH-000801,Skin,PT-1I8hCi,441
+lineage_blocked,3,ACH-000805,Skin,PT-SscYEx,444
+lineage_blocked,3,ACH-000810,Skin,PT-1TshCj,447
+lineage_blocked,3,ACH-000822,Skin,PT-n2hnAf,452
+lineage_blocked,3,ACH-000827,Skin,PT-L3eOYW,454
+lineage_blocked,3,ACH-000832,Head and Neck,PT-JCJHPr,457
+lineage_blocked,3,ACH-000836,Head and Neck,PT-ZS5SNw,461
+lineage_blocked,3,ACH-000846,Head and Neck,PT-tolPHE,469
+lineage_blocked,3,ACH-000849,Breast,PT-58loXx,472
+lineage_blocked,3,ACH-000856,Breast,PT-PgOEtc,475
+lineage_blocked,3,ACH-000859,Breast,PT-603OA3,477
+lineage_blocked,3,ACH-000881,Skin,PT-9PTPLm,489
+lineage_blocked,3,ACH-000882,Skin,PT-MRf5jM,490
+lineage_blocked,3,ACH-000899,Skin,PT-j60QIc,498
+lineage_blocked,3,ACH-000910,Breast,PT-TFQ2Kc,505
+lineage_blocked,3,ACH-000915,Skin,PT-Jc7cdo,510
+lineage_blocked,3,ACH-000934,Breast,PT-0VWXIm,519
+lineage_blocked,3,ACH-000968,Skin,PT-z7yLU0,543
+lineage_blocked,3,ACH-001190,Skin,PT-IHNbDy,586
+lineage_blocked,3,ACH-001227,Head and Neck,PT-k3C7C0,593
+lineage_blocked,3,ACH-001228,Head and Neck,PT-k3C7C0,594
+lineage_blocked,3,ACH-001239,Skin,PT-JAyPtz,596
+lineage_blocked,3,ACH-001385,Head and Neck,PT-a3pn8l,621
+lineage_blocked,3,ACH-001393,Breast,PT-Zd61pI,622
+lineage_blocked,3,ACH-001442,Skin,PT-QwG6Ej,632
+lineage_blocked,3,ACH-001508,Head and Neck,PT-SHOmTE,638
+lineage_blocked,3,ACH-001509,Head and Neck,PT-jrbPZG,639
+lineage_blocked,3,ACH-001543,Head and Neck,PT-1EAB3W,644
+lineage_blocked,3,ACH-001641,Head and Neck,PT-4X1Phg,662
+lineage_blocked,3,ACH-001662,Breast,PT-v3hnay,667
+lineage_blocked,3,ACH-001675,Head and Neck,PT-6uEn4i,672
+lineage_blocked,3,ACH-001676,Head and Neck,PT-41SYJa,673
+lineage_blocked,3,ACH-001683,Breast,PT-toAH2F,675
+lineage_blocked,3,ACH-001691,Head and Neck,PT-km3C7x,677
+lineage_blocked,3,ACH-001694,Head and Neck,PT-GgnlK1,678
+lineage_blocked,3,ACH-001695,Head and Neck,PT-Rb8OWd,679
+lineage_blocked,3,ACH-001696,Head and Neck,PT-YWwuRp,680
+lineage_blocked,3,ACH-001699,Head and Neck,PT-uhmv08,681
+lineage_blocked,3,ACH-001701,Head and Neck,PT-CvPqts,682
+lineage_blocked,3,ACH-001972,Skin,PT-Czk2qo,703
+lineage_blocked,3,ACH-001975,Skin,PT-IBpd8U,704
+lineage_blocked,3,ACH-001982,Skin,PT-6BEu4D,706
+lineage_blocked,3,ACH-001986,Skin,PT-EpCvHQ,707
+lineage_blocked,3,ACH-001990,Skin,PT-PCXcZ8,708
+lineage_blocked,3,ACH-002001,Skin,PT-3FxmoJ,711
+lineage_blocked,3,ACH-002002,Skin,PT-3FxmoJ,712
+lineage_blocked,3,ACH-002003,Skin,PT-3FxmoJ,713
+lineage_blocked,3,ACH-002004,Skin,PT-Zu8A8i,714
+lineage_blocked,3,ACH-002005,Skin,PT-4QtR2m,715
+lineage_blocked,3,ACH-002029,Head and Neck,PT-rJXazG,728
+lineage_blocked,3,ACH-002030,Head and Neck,PT-f3QT3w,729
+lineage_blocked,3,ACH-002039,Pancreas,PT-mXNlfw,732
+lineage_blocked,3,ACH-002042,Head and Neck,PT-vhf9cn,735
+lineage_blocked,3,ACH-002043,Head and Neck,PT-gB4Jfi,736
+lineage_blocked,3,ACH-002044,Head and Neck,PT-v9ccBc,737
+lineage_blocked,3,ACH-002045,Head and Neck,PT-a3mx1w,738
+lineage_blocked,3,ACH-002084,Skin,PT-Qsi22o,754
+lineage_blocked,3,ACH-002399,Breast,PT-iW8GZP,760
+lineage_blocked,3,ACH-002400,Breast,PT-iW8GZP,761
+lineage_blocked,3,ACH-002401,Breast,PT-iW8GZP,762
+lineage_blocked,3,ACH-002458,Skin,PT-czDcsE,765
+lineage_blocked,3,ACH-002460,Skin,PT-czDcsE,766
+lineage_blocked,3,ACH-002499,Breast,PT-j6UudO,777
+lineage_blocked,3,ACH-002508,Skin,PT-SogXKU,779
+lineage_blocked,3,ACH-002510,Skin,PT-6g2PcW,780
+lineage_blocked,3,ACH-002511,Skin,PT-iI63vt,781
+lineage_blocked,3,ACH-002512,Skin,PT-YwNqCa,782
+lineage_blocked,3,ACH-002672,Pancreas,PT-yBlD98,801
+lineage_blocked,3,ACH-002711,Head and Neck,PT-Jn4RNo,815
+lineage_blocked,3,ACH-002847,Skin,PT-AFnHpd,827
+lineage_blocked,3,ACH-002928,Skin,PT-M9rUlw,832
+lineage_blocked,4,ACH-000007,Bowel,PT-NOXwpH,3
+lineage_blocked,4,ACH-000009,Bowel,PT-puKIyc,4
+lineage_blocked,4,ACH-000039,Bone,PT-wGDMGe,24
+lineage_blocked,4,ACH-000041,Bone,PT-3yDaRJ,26
+lineage_blocked,4,ACH-000052,Bone,PT-IAac7b,30
+lineage_blocked,4,ACH-000082,Bone,PT-noCCE4,40
+lineage_blocked,4,ACH-000086,Pleura,PT-nZJ0Fu,42
+lineage_blocked,4,ACH-000087,Bone,PT-VA04Md,43
+lineage_blocked,4,ACH-000092,Pleura,PT-GaubVg,45
+lineage_blocked,4,ACH-000144,Esophagus/Stomach,PT-n15ylb,70
+lineage_blocked,4,ACH-000153,Pleura,PT-TexA3V,77
+lineage_blocked,4,ACH-000192,Uterus,PT-Vhzgp5,95
+lineage_blocked,4,ACH-000202,Bowel,PT-UB7otW,99
+lineage_blocked,4,ACH-000210,Bone,PT-L8aHyf,104
+lineage_blocked,4,ACH-000216,Esophagus/Stomach,PT-Y4syw7,108
+lineage_blocked,4,ACH-000247,Esophagus/Stomach,PT-JKf5mS,126
+lineage_blocked,4,ACH-000249,Bowel,PT-hYUBUD,128
+lineage_blocked,4,ACH-000253,Bowel,PT-BLAWlD,131
+lineage_blocked,4,ACH-000279,Bone,PT-BpX01U,147
+lineage_blocked,4,ACH-000286,Bowel,PT-eQWzKj,150
+lineage_blocked,4,ACH-000293,Uterus,PT-tjaCAG,155
+lineage_blocked,4,ACH-000302,Uterus,PT-SeH5WZ,158
+lineage_blocked,4,ACH-000318,Esophagus/Stomach,PT-8hgOdH,169
+lineage_blocked,4,ACH-000319,Pleura,PT-5z2CJx,170
+lineage_blocked,4,ACH-000325,Esophagus/Stomach,PT-Du1wuZ,175
+lineage_blocked,4,ACH-000331,Pleura,PT-ThvuiE,179
+lineage_blocked,4,ACH-000335,Pleura,PT-MFqmhR,182
+lineage_blocked,4,ACH-000344,Esophagus/Stomach,PT-KDacEe,188
+lineage_blocked,4,ACH-000350,Bowel,PT-j0XD5z,191
+lineage_blocked,4,ACH-000356,Esophagus/Stomach,PT-cE9wYI,195
+lineage_blocked,4,ACH-000359,Bone,PT-qWqYVi,196
+lineage_blocked,4,ACH-000364,Bone,PT-WN1oZd,200
+lineage_blocked,4,ACH-000367,Pleura,PT-hfcpvz,203
+lineage_blocked,4,ACH-000381,Bowel,PT-3aeu41,213
+lineage_blocked,4,ACH-000383,Esophagus/Stomach,PT-MSH6ZN,214
+lineage_blocked,4,ACH-000391,Bone,PT-APr9xS,219
+lineage_blocked,4,ACH-000397,Uterus,PT-lpuBPT,222
+lineage_blocked,4,ACH-000403,Bowel,PT-cabct5,225
+lineage_blocked,4,ACH-000407,Uterus,PT-iaJKdg,228
+lineage_blocked,4,ACH-000408,Esophagus/Stomach,PT-Tt9e9T,229
+lineage_blocked,4,ACH-000410,Bone,PT-mOrUlf,230
+lineage_blocked,4,ACH-000421,Bowel,PT-M67oxD,236
+lineage_blocked,4,ACH-000424,Bone,PT-BIG8te,238
+lineage_blocked,4,ACH-000427,Esophagus/Stomach,PT-e4bHZ8,239
+lineage_blocked,4,ACH-000435,Uterus,PT-HWnYva,242
+lineage_blocked,4,ACH-000452,Esophagus/Stomach,PT-xIsO4O,250
+lineage_blocked,4,ACH-000466,Esophagus/Stomach,PT-IGNlGv,258
+lineage_blocked,4,ACH-000470,Bowel,PT-XPa83T,261
+lineage_blocked,4,ACH-000488,Esophagus/Stomach,PT-wdkGZi,275
+lineage_blocked,4,ACH-000499,Bone,PT-m8xCzo,280
+lineage_blocked,4,ACH-000507,Esophagus/Stomach,PT-6nN2YI,286
+lineage_blocked,4,ACH-000516,Bone,PT-gEiUjw,291
+lineage_blocked,4,ACH-000532,Bowel,PT-663aNr,300
+lineage_blocked,4,ACH-000544,Esophagus/Stomach,PT-SDTBu5,306
+lineage_blocked,4,ACH-000552,Bowel,PT-sF39aT,312
+lineage_blocked,4,ACH-000581,Esophagus/Stomach,PT-NDi54R,321
+lineage_blocked,4,ACH-000605,Esophagus/Stomach,PT-4Pwq3T,334
+lineage_blocked,4,ACH-000616,Esophagus/Stomach,PT-8WpAkT,338
+lineage_blocked,4,ACH-000633,Esophagus/Stomach,PT-zUYVjw,348
+lineage_blocked,4,ACH-000637,Esophagus/Stomach,PT-bnLm4Y,350
+lineage_blocked,4,ACH-000645,Pleura,PT-igc1W1,352
+lineage_blocked,4,ACH-000647,Esophagus/Stomach,PT-bxGrwa,353
+lineage_blocked,4,ACH-000648,Pleura,PT-pVwyuS,354
+lineage_blocked,4,ACH-000651,Bowel,PT-IPboWn,356
+lineage_blocked,4,ACH-000683,Bowel,PT-O04gFy,375
+lineage_blocked,4,ACH-000693,Esophagus/Stomach,PT-mOm35A,378
+lineage_blocked,4,ACH-000694,Esophagus/Stomach,PT-bNO06l,379
+lineage_blocked,4,ACH-000736,Esophagus/Stomach,PT-2GXHBV,402
+lineage_blocked,4,ACH-000746,Esophagus/Stomach,PT-dpLnUY,406
+lineage_blocked,4,ACH-000748,Bone,PT-OexHxF,408
+lineage_blocked,4,ACH-000758,Esophagus/Stomach,PT-T2KFTw,413
+lineage_blocked,4,ACH-000764,Esophagus/Stomach,PT-dxw7SI,417
+lineage_blocked,4,ACH-000777,Esophagus/Stomach,PT-kporZQ,426
+lineage_blocked,4,ACH-000784,Esophagus/Stomach,PT-YTdWR1,431
+lineage_blocked,4,ACH-000793,Esophagus/Stomach,PT-xOmD9v,437
+lineage_blocked,4,ACH-000809,Esophagus/Stomach,PT-zFPWWq,446
+lineage_blocked,4,ACH-000820,Bowel,PT-EteVig,451
+lineage_blocked,4,ACH-000831,Uterus,PT-cmj7jX,456
+lineage_blocked,4,ACH-000847,Esophagus/Stomach,PT-dAMXIu,470
+lineage_blocked,4,ACH-000855,Esophagus/Stomach,PT-8JwTBr,474
+lineage_blocked,4,ACH-000865,Esophagus/Stomach,PT-zNE9qB,479
+lineage_blocked,4,ACH-000879,Uterus,PT-wMzIqz,487
+lineage_blocked,4,ACH-000880,Esophagus/Stomach,PT-VHRCrj,488
+lineage_blocked,4,ACH-000898,Esophagus/Stomach,PT-lvKDUW,497
+lineage_blocked,4,ACH-000911,Esophagus/Stomach,PT-BTCHFg,506
+lineage_blocked,4,ACH-000913,Uterus,PT-6MnPg3,508
+lineage_blocked,4,ACH-000917,Esophagus/Stomach,PT-2HckVI,511
+lineage_blocked,4,ACH-000919,Esophagus/Stomach,PT-Iu2j9I,512
+lineage_blocked,4,ACH-000928,Uterus,PT-C2kgmR,516
+lineage_blocked,4,ACH-000932,Esophagus/Stomach,PT-3F7Xgi,518
+lineage_blocked,4,ACH-000935,Bowel,PT-snQqpb,520
+lineage_blocked,4,ACH-000939,Uterus,PT-b2KmUs,524
+lineage_blocked,4,ACH-000941,Uterus,PT-YZF57N,525
+lineage_blocked,4,ACH-000943,Bowel,PT-9E5O4L,526
+lineage_blocked,4,ACH-000946,Uterus,PT-ANEQ4x,529
+lineage_blocked,4,ACH-000948,Esophagus/Stomach,PT-VDIRwk,531
+lineage_blocked,4,ACH-000950,Bowel,PT-6USEGU,532
+lineage_blocked,4,ACH-000957,Bowel,PT-FXUrcz,535
+lineage_blocked,4,ACH-000958,Bowel,PT-EB6qeM,536
+lineage_blocked,4,ACH-000959,Bowel,PT-ulmNPq,537
+lineage_blocked,4,ACH-000961,Uterus,PT-P06fLR,539
+lineage_blocked,4,ACH-000963,Bowel,PT-c4ZGOD,540
+lineage_blocked,4,ACH-000965,Uterus,PT-de7J0H,541
+lineage_blocked,4,ACH-000969,Bowel,PT-ue72rD,544
+lineage_blocked,4,ACH-000971,Bowel,PT-2Roqq2,545
+lineage_blocked,4,ACH-000974,Uterus,PT-cgXnS7,547
+lineage_blocked,4,ACH-000978,Uterus,PT-bmKWJL,551
+lineage_blocked,4,ACH-000985,Bowel,PT-KI0Di1,555
+lineage_blocked,4,ACH-000986,Bowel,PT-EoHcfh,556
+lineage_blocked,4,ACH-000988,Uterus,PT-blqauC,557
+lineage_blocked,4,ACH-000994,Uterus,PT-9r7KW8,558
+lineage_blocked,4,ACH-000996,Uterus,PT-GnDRP6,560
+lineage_blocked,4,ACH-000997,Bowel,PT-i0VYNQ,561
+lineage_blocked,4,ACH-001001,Bone,PT-epgMPc,562
+lineage_blocked,4,ACH-001029,Bone,PT-NX1XUV,565
+lineage_blocked,4,ACH-001038,Bone,PT-Wd5HrW,568
+lineage_blocked,4,ACH-001061,Bowel,PT-i0VYNQ,571
+lineage_blocked,4,ACH-001192,Bone,PT-MPUfgI,587
+lineage_blocked,4,ACH-001193,Bone,PT-zjZ0Ko,588
+lineage_blocked,4,ACH-001205,Bone,PT-eQaQl0,591
+lineage_blocked,4,ACH-001275,Bone,PT-WqcWC9,598
+lineage_blocked,4,ACH-001283,Bone,PT-yXtSGR,603
+lineage_blocked,4,ACH-001428,Bone,PT-XQvpFQ,628
+lineage_blocked,4,ACH-001430,Bone,PT-uuajSv,629
+lineage_blocked,4,ACH-001431,Bone,PT-VGGhv1,630
+lineage_blocked,4,ACH-001461,Bowel,PT-3wMRZS,633
+lineage_blocked,4,ACH-001526,Bone,PT-JCLa8x,640
+lineage_blocked,4,ACH-001530,Uterus,PT-hB4ARO,642
+lineage_blocked,4,ACH-001547,Pleura,PT-xjKkQm,645
+lineage_blocked,4,ACH-001560,Pleura,PT-B0HUMd,647
+lineage_blocked,4,ACH-001562,Pleura,PT-9C9m7Z,648
+lineage_blocked,4,ACH-001715,Bone,PT-fcGStb,687
+lineage_blocked,4,ACH-001814,Bone,PT-2XpRTn,700
+lineage_blocked,4,ACH-001977,Pleura,PT-YF5RFe,705
+lineage_blocked,4,ACH-001992,Pleura,PT-nrQ0Fm,709
+lineage_blocked,4,ACH-002021,Uterus,PT-UGz23U,722
+lineage_blocked,4,ACH-002024,Bowel,PT-2Stxl0,724
+lineage_blocked,4,ACH-002025,Bowel,PT-mIVrGc,725
+lineage_blocked,4,ACH-002026,Uterus,PT-cgXnS7,726
+lineage_blocked,4,ACH-002027,Uterus,PT-vIwQtl,727
+lineage_blocked,4,ACH-002033,Pleura,PT-zLKvmC,730
+lineage_blocked,4,ACH-002046,Uterus,PT-SKC9qY,739
+lineage_blocked,4,ACH-002067,Bone,PT-EcVEYs,749
+lineage_blocked,4,ACH-002069,Bone,PT-3pqp8N,750
+lineage_blocked,4,ACH-002142,Bone,PT-3yhqod,755
+lineage_blocked,4,ACH-002433,Bone,PT-k1gvKS,763
+lineage_blocked,4,ACH-002446,Esophagus/Stomach,PT-i9nBPr,764
+lineage_blocked,4,ACH-002470,Bone,PT-873wzV,770
+lineage_blocked,4,ACH-002471,Bone,PT-UbzBsY,771
+lineage_blocked,4,ACH-002535,Bowel,PT-W0h0s9,790
+lineage_blocked,4,ACH-002538,Bowel,PT-WkPESC,791
+lineage_blocked,4,ACH-002544,Esophagus/Stomach,PT-3szZZM,792
+lineage_blocked,4,ACH-002654,Bowel,PT-anuBoi,795
+lineage_blocked,4,ACH-002659,Bowel,PT-btmPL5,796
+lineage_blocked,4,ACH-002660,Bowel,PT-iZtOKB,797
+lineage_blocked,4,ACH-002662,Bowel,PT-iwSeHI,798
+lineage_blocked,4,ACH-002664,Bowel,PT-FT4DA3,799
+lineage_blocked,4,ACH-002669,Bowel,PT-53ZOQS,800
+lineage_blocked,4,ACH-002688,Bone,PT-A4Rqd9,807
+lineage_blocked,4,ACH-002690,Bone,PT-6Xf1w4,808
+lineage_blocked,4,ACH-002705,Esophagus/Stomach,PT-qcon1I,810
+lineage_blocked,4,ACH-002706,Esophagus/Stomach,PT-qcon1I,811
+lineage_blocked,4,ACH-002778,Bone,PT-iPKVUD,816
+lineage_blocked,4,ACH-002780,Bone,PT-wlbuKV,817
+lineage_blocked,4,ACH-002834,Bone,PT-EcUHFc,826
+lineage_blocked,4,ACH-003064,Bone,PT-57BDo9,834
+lineage_blocked,4,ACH-003171,Bone,PT-i9JRNE,836
+lineage_blocked,4,ACH-003176,Bone,PT-VbQDpc,837
+lineage_blocked,4,ACH-003178,Bone,PT-or8OCW,839
+lineage_blocked,4,ACH-003185,Bone,PT-McNlZE,842
+lineage_blocked,4,ACH-003191,Bone,PT-B8KJKw,846
+lineage_blocked,4,ACH-003410,Bone,PT-Dz7ENW,848
+lineage_blocked,4,ACH-003573,Bone,PT-s4DSO4,849
+lineage_blocked,4,ACH-003587,Bone,PT-g8kcwe,850
+patient_grouped,0,ACH-000011,Bladder/Urinary Tract,PT-AR7W9o,5
+patient_grouped,0,ACH-000012,Lung,PT-NdspH5,6
+patient_grouped,0,ACH-000029,Lung,PT-NdspH5,19
+patient_grouped,0,ACH-000030,Lung,PT-nDRyc6,20
+patient_grouped,0,ACH-000035,Lung,PT-5LVIPg,21
+patient_grouped,0,ACH-000052,Bone,PT-IAac7b,30
+patient_grouped,0,ACH-000074,Myeloid,PT-FJahu6,35
+patient_grouped,0,ACH-000077,Lymphoid,PT-brIUSU,38
+patient_grouped,0,ACH-000095,CNS/Brain,PT-nsjOrX,47
+patient_grouped,0,ACH-000096,Kidney,PT-ABKGjf,48
+patient_grouped,0,ACH-000108,Pancreas,PT-GEVVKA,53
+patient_grouped,0,ACH-000113,Myeloid,PT-OA9fna,55
+patient_grouped,0,ACH-000144,Esophagus/Stomach,PT-n15ylb,70
+patient_grouped,0,ACH-000148,Breast,PT-sW6DWH,74
+patient_grouped,0,ACH-000152,CNS/Brain,PT-DK2CQc,76
+patient_grouped,0,ACH-000155,Pancreas,PT-qPqCUF,78
+patient_grouped,0,ACH-000164,Pancreas,PT-cHU83i,82
+patient_grouped,0,ACH-000190,Myeloid,PT-YCDBvf,93
+patient_grouped,0,ACH-000198,Myeloid,PT-FYT6ze,97
+patient_grouped,0,ACH-000200,CNS/Brain,PT-bkGAPG,98
+patient_grouped,0,ACH-000204,Lymphoid,PT-gN5ZVQ,101
+patient_grouped,0,ACH-000206,Lymphoid,PT-vEZ2Aw,102
+patient_grouped,0,ACH-000216,Esophagus/Stomach,PT-Y4syw7,108
+patient_grouped,0,ACH-000219,Skin,PT-3FxmoJ,110
+patient_grouped,0,ACH-000226,Lymphoid,PT-ktST3K,114
+patient_grouped,0,ACH-000233,Lymphoid,PT-zshCzw,119
+patient_grouped,0,ACH-000249,Bowel,PT-hYUBUD,128
+patient_grouped,0,ACH-000263,Myeloid,PT-uzWVHa,139
+patient_grouped,0,ACH-000273,CNS/Brain,PT-qWYBLI,143
+patient_grouped,0,ACH-000280,Ovary/Fallopian Tube,PT-S0isOw,148
+patient_grouped,0,ACH-000307,Pancreas,PT-rg0sYD,160
+patient_grouped,0,ACH-000316,Liver,PT-f7BtKr,167
+patient_grouped,0,ACH-000324,Ovary/Fallopian Tube,PT-CrEQoF,174
+patient_grouped,0,ACH-000325,Esophagus/Stomach,PT-Du1wuZ,175
+patient_grouped,0,ACH-000331,Pleura,PT-ThvuiE,179
+patient_grouped,0,ACH-000348,Skin,PT-xMEDHc,190
+patient_grouped,0,ACH-000350,Bowel,PT-j0XD5z,191
+patient_grouped,0,ACH-000362,Myeloid,PT-H3wdRq,198
+patient_grouped,0,ACH-000366,Peripheral Nervous System,PT-lIgcxS,202
+patient_grouped,0,ACH-000378,Lung,PT-svCGFs,212
+patient_grouped,0,ACH-000383,Esophagus/Stomach,PT-MSH6ZN,214
+patient_grouped,0,ACH-000389,CNS/Brain,PT-9RF4Fl,217
+patient_grouped,0,ACH-000395,Lung,PT-mQfWto,221
+patient_grouped,0,ACH-000397,Uterus,PT-lpuBPT,222
+patient_grouped,0,ACH-000422,Liver,PT-UjP297,237
+patient_grouped,0,ACH-000424,Bone,PT-BIG8te,238
+patient_grouped,0,ACH-000427,Esophagus/Stomach,PT-e4bHZ8,239
+patient_grouped,0,ACH-000431,Lung,PT-5l8uJX,240
+patient_grouped,0,ACH-000433,Kidney,PT-0UOmyW,241
+patient_grouped,0,ACH-000437,CNS/Brain,PT-uhtVUf,243
+patient_grouped,0,ACH-000441,Skin,PT-wx4HmM,245
+patient_grouped,0,ACH-000445,CNS/Brain,PT-N1UIhD,247
+patient_grouped,0,ACH-000448,Lung,PT-3icxN1,248
+patient_grouped,0,ACH-000454,Lung,PT-u7ecNk,251
+patient_grouped,0,ACH-000463,Lung,PT-gfHIRD,256
+patient_grouped,0,ACH-000471,Liver,PT-6EhW80,262
+patient_grouped,0,ACH-000478,Liver,PT-KvGBYp,267
+patient_grouped,0,ACH-000483,Liver,PT-YTIYsu,271
+patient_grouped,0,ACH-000486,Bladder/Urinary Tract,PT-W6AZYO,273
+patient_grouped,0,ACH-000487,Myeloid,PT-fzbPIv,274
+patient_grouped,0,ACH-000499,Bone,PT-m8xCzo,280
+patient_grouped,0,ACH-000505,Soft Tissue,PT-yLm1aj,285
+patient_grouped,0,ACH-000511,Lung,PT-R4QjAn,288
+patient_grouped,0,ACH-000527,Ovary/Fallopian Tube,PT-oYazft,298
+patient_grouped,0,ACH-000532,Bowel,PT-663aNr,300
+patient_grouped,0,ACH-000533,Kidney,PT-x2jmX9,301
+patient_grouped,0,ACH-000537,Liver,PT-CLc6my,303
+patient_grouped,0,ACH-000570,CNS/Brain,PT-mxsdQX,316
+patient_grouped,0,ACH-000576,Lymphoid,PT-EvS9IW,318
+patient_grouped,0,ACH-000585,Lung,PT-HU0uli,323
+patient_grouped,0,ACH-000605,Esophagus/Stomach,PT-4Pwq3T,334
+patient_grouped,0,ACH-000634,CNS/Brain,PT-FYoibe,349
+patient_grouped,0,ACH-000645,Pleura,PT-igc1W1,352
+patient_grouped,0,ACH-000654,Lymphoid,PT-WEYO1e,359
+patient_grouped,0,ACH-000664,Lymphoid,PT-jm7IYN,365
+patient_grouped,0,ACH-000668,Breast,PT-3DyHhv,369
+patient_grouped,0,ACH-000688,Ovary/Fallopian Tube,PT-iVAxAa,377
+patient_grouped,0,ACH-000696,Ovary/Fallopian Tube,PT-AlUnJX,380
+patient_grouped,0,ACH-000699,Breast,PT-8MisfZ,383
+patient_grouped,0,ACH-000709,Kidney,PT-TF1Jzt,388
+patient_grouped,0,ACH-000714,Lymphoid,PT-KR5FTA,391
+patient_grouped,0,ACH-000721,Breast,PT-tXW4rS,396
+patient_grouped,0,ACH-000758,Esophagus/Stomach,PT-T2KFTw,413
+patient_grouped,0,ACH-000760,CNS/Brain,PT-zboiLS,414
+patient_grouped,0,ACH-000769,Lung,PT-U2PG43,421
+patient_grouped,0,ACH-000781,Lung,PT-CKs1VS,428
+patient_grouped,0,ACH-000788,Skin,PT-ZSJTWI,433
+patient_grouped,0,ACH-000800,Lung,PT-RmrNlb,440
+patient_grouped,0,ACH-000807,CNS/Brain,PT-Yppu5U,445
+patient_grouped,0,ACH-000810,Skin,PT-1TshCj,447
+patient_grouped,0,ACH-000833,Soft Tissue,PT-lbYOig,458
+patient_grouped,0,ACH-000834,Bladder/Urinary Tract,PT-oxE5Td,459
+patient_grouped,0,ACH-000837,Lung,PT-9eMhTl,462
+patient_grouped,0,ACH-000838,Lymphoid,PT-CmSm57,463
+patient_grouped,0,ACH-000845,Lung,PT-LL5Hxl,468
+patient_grouped,0,ACH-000847,Esophagus/Stomach,PT-dAMXIu,470
+patient_grouped,0,ACH-000856,Breast,PT-PgOEtc,475
+patient_grouped,0,ACH-000889,Lymphoid,PT-xlEnkN,493
+patient_grouped,0,ACH-000890,Lung,PT-Np75OL,494
+patient_grouped,0,ACH-000912,Lung,PT-wNpw5y,507
+patient_grouped,0,ACH-000915,Skin,PT-Jc7cdo,510
+patient_grouped,0,ACH-000919,Esophagus/Stomach,PT-Iu2j9I,512
+patient_grouped,0,ACH-000921,Lung,PT-jKAU6d,513
+patient_grouped,0,ACH-000922,Lymphoid,PT-0mdkef,514
+patient_grouped,0,ACH-000924,Lung,PT-4qxYZb,515
+patient_grouped,0,ACH-000934,Breast,PT-0VWXIm,519
+patient_grouped,0,ACH-000939,Uterus,PT-b2KmUs,524
+patient_grouped,0,ACH-000944,Lymphoid,PT-grWxm0,527
+patient_grouped,0,ACH-000950,Bowel,PT-6USEGU,532
+patient_grouped,0,ACH-000953,Lymphoid,PT-Zkuf8L,533
+patient_grouped,0,ACH-000958,Bowel,PT-EB6qeM,536
+patient_grouped,0,ACH-000965,Uterus,PT-de7J0H,541
+patient_grouped,0,ACH-000973,Bladder/Urinary Tract,PT-P31KFG,546
+patient_grouped,0,ACH-000994,Uterus,PT-9r7KW8,558
+patient_grouped,0,ACH-001031,CNS/Brain,PT-nuzviS,566
+patient_grouped,0,ACH-001096,Soft Tissue,PT-BarDvA,574
+patient_grouped,0,ACH-001211,Soft Tissue,PT-ZmNOms,592
+patient_grouped,0,ACH-001227,Head and Neck,PT-k3C7C0,593
+patient_grouped,0,ACH-001228,Head and Neck,PT-k3C7C0,594
+patient_grouped,0,ACH-001275,Bone,PT-WqcWC9,598
+patient_grouped,0,ACH-001334,Cervix,PT-ERAmPK,614
+patient_grouped,0,ACH-001336,Cervix,PT-QAGzTB,615
+patient_grouped,0,ACH-001338,Peripheral Nervous System,PT-cvCz0R,616
+patient_grouped,0,ACH-001354,Peripheral Nervous System,PT-6gsVP1,619
+patient_grouped,0,ACH-001400,Vulva/Vagina,PT-2KkY6l,624
+patient_grouped,0,ACH-001428,Bone,PT-XQvpFQ,628
+patient_grouped,0,ACH-001431,Bone,PT-VGGhv1,630
+patient_grouped,0,ACH-001433,Soft Tissue,PT-rJIZ1y,631
+patient_grouped,0,ACH-001461,Bowel,PT-3wMRZS,633
+patient_grouped,0,ACH-001465,Peripheral Nervous System,PT-7eVJ3u,634
+patient_grouped,0,ACH-001494,Biliary Tract,PT-KZb32w,636
+patient_grouped,0,ACH-001508,Head and Neck,PT-SHOmTE,638
+patient_grouped,0,ACH-001526,Bone,PT-JCLa8x,640
+patient_grouped,0,ACH-001543,Head and Neck,PT-1EAB3W,644
+patient_grouped,0,ACH-001562,Pleura,PT-9C9m7Z,648
+patient_grouped,0,ACH-001574,Myeloid,PT-H3wdRq,649
+patient_grouped,0,ACH-001609,CNS/Brain,PT-OT2kJe,654
+patient_grouped,0,ACH-001619,Biliary Tract,PT-xi87qq,658
+patient_grouped,0,ACH-001683,Breast,PT-toAH2F,675
+patient_grouped,0,ACH-001694,Head and Neck,PT-GgnlK1,678
+patient_grouped,0,ACH-001745,Soft Tissue,PT-s7RWi4,692
+patient_grouped,0,ACH-001750,Soft Tissue,PT-Hk36HO,693
+patient_grouped,0,ACH-001799,Soft Tissue,PT-VjYY7b,697
+patient_grouped,0,ACH-001814,Bone,PT-2XpRTn,700
+patient_grouped,0,ACH-001990,Skin,PT-PCXcZ8,708
+patient_grouped,0,ACH-002001,Skin,PT-3FxmoJ,711
+patient_grouped,0,ACH-002002,Skin,PT-3FxmoJ,712
+patient_grouped,0,ACH-002003,Skin,PT-3FxmoJ,713
+patient_grouped,0,ACH-002019,Cervix,PT-AOzYCt,720
+patient_grouped,0,ACH-002021,Uterus,PT-UGz23U,722
+patient_grouped,0,ACH-002023,Ampulla of Vater,PT-hlvUsv,723
+patient_grouped,0,ACH-002033,Pleura,PT-zLKvmC,730
+patient_grouped,0,ACH-002045,Head and Neck,PT-a3mx1w,738
+patient_grouped,0,ACH-002051,Lung,PT-K31XId,741
+patient_grouped,0,ACH-002052,Lung,PT-0531Uw,742
+patient_grouped,0,ACH-002067,Bone,PT-EcVEYs,749
+patient_grouped,0,ACH-002446,Esophagus/Stomach,PT-i9nBPr,764
+patient_grouped,0,ACH-002470,Bone,PT-873wzV,770
+patient_grouped,0,ACH-002485,Lymphoid,PT-NJ3wbw,774
+patient_grouped,0,ACH-002508,Skin,PT-SogXKU,779
+patient_grouped,0,ACH-002533,Kidney,PT-wkGMuS,789
+patient_grouped,0,ACH-002710,Peripheral Nervous System,PT-nQk25T,814
+patient_grouped,0,ACH-002711,Head and Neck,PT-Jn4RNo,815
+patient_grouped,0,ACH-002782,Soft Tissue,PT-z4CfZ2,818
+patient_grouped,0,ACH-002800,Peripheral Nervous System,PT-WTpRkW,823
+patient_grouped,0,ACH-002806,CNS/Brain,PT-k6klta,825
+patient_grouped,0,ACH-002923,Peripheral Nervous System,PT-22FXN6,829
+patient_grouped,0,ACH-002928,Skin,PT-M9rUlw,832
+patient_grouped,0,ACH-003177,Soft Tissue,PT-72jDHL,838
+patient_grouped,0,ACH-003189,Soft Tissue,PT-eY3uqu,844
+patient_grouped,0,ACH-003273,Myeloid,PT-44yhk7,847
+patient_grouped,1,ACH-000017,Breast,PT-8CE6ah,10
+patient_grouped,1,ACH-000037,Soft Tissue,PT-JfLphU,23
+patient_grouped,1,ACH-000041,Bone,PT-3yDaRJ,26
+patient_grouped,1,ACH-000048,Ovary/Fallopian Tube,PT-EehOTC,29
+patient_grouped,1,ACH-000053,Lymphoid,PT-nECHHn,31
+patient_grouped,1,ACH-000085,Pancreas,PT-FnO2p8,41
+patient_grouped,1,ACH-000086,Pleura,PT-nZJ0Fu,42
+patient_grouped,1,ACH-000090,Prostate,PT-j0lUB5,44
+patient_grouped,1,ACH-000118,Pancreas,PT-jYcdmK,58
+patient_grouped,1,ACH-000120,Peripheral Nervous System,PT-6jhjWI,59
+patient_grouped,1,ACH-000128,CNS/Brain,PT-mUWSlp,62
+patient_grouped,1,ACH-000137,CNS/Brain,PT-WFlL15,65
+patient_grouped,1,ACH-000141,Biliary Tract,PT-iqSI4n,67
+patient_grouped,1,ACH-000151,Lymphoid,PT-t7KWtB,75
+patient_grouped,1,ACH-000159,Kidney,PT-T2g8EU,79
+patient_grouped,1,ACH-000169,Soft Tissue,PT-TG4t9c,85
+patient_grouped,1,ACH-000188,Head and Neck,PT-Iz4kXj,91
+patient_grouped,1,ACH-000223,Breast,PT-Vntr9y,113
+patient_grouped,1,ACH-000232,CNS/Brain,PT-88IC1n,118
+patient_grouped,1,ACH-000235,Pancreas,PT-zLTXv3,121
+patient_grouped,1,ACH-000244,CNS/Brain,PT-9fPvh2,125
+patient_grouped,1,ACH-000247,Esophagus/Stomach,PT-JKf5mS,126
+patient_grouped,1,ACH-000248,Breast,PT-8CE6ah,127
+patient_grouped,1,ACH-000250,Kidney,PT-66upm1,129
+patient_grouped,1,ACH-000258,Breast,PT-XTyUEa,134
+patient_grouped,1,ACH-000259,Peripheral Nervous System,PT-S07K7h,135
+patient_grouped,1,ACH-000261,Lung,PT-9jciof,137
+patient_grouped,1,ACH-000265,Pancreas,PT-o1wR3t,141
+patient_grouped,1,ACH-000278,Ovary/Fallopian Tube,PT-BexFYH,146
+patient_grouped,1,ACH-000308,Ovary/Fallopian Tube,PT-cdCVJ4,161
+patient_grouped,1,ACH-000311,Lung,PT-6IoG5q,163
+patient_grouped,1,ACH-000317,Kidney,PT-ARX9yV,168
+patient_grouped,1,ACH-000320,Pancreas,PT-tXqEg0,171
+patient_grouped,1,ACH-000323,CNS/Brain,PT-PE7kNG,173
+patient_grouped,1,ACH-000326,Myeloid,PT-mEKuqA,176
+patient_grouped,1,ACH-000329,CNS/Brain,PT-GKdkIC,177
+patient_grouped,1,ACH-000354,Pancreas,PT-MDCOET,193
+patient_grouped,1,ACH-000359,Bone,PT-qWqYVi,196
+patient_grouped,1,ACH-000374,Breast,PT-UPBMOO,208
+patient_grouped,1,ACH-000375,Kidney,PT-U7nXm3,209
+patient_grouped,1,ACH-000393,Liver,PT-saZI6H,220
+patient_grouped,1,ACH-000401,Skin,PT-hf4hbl,223
+patient_grouped,1,ACH-000411,Kidney,PT-Kwk2bU,231
+patient_grouped,1,ACH-000417,Pancreas,PT-9CcA8P,234
+patient_grouped,1,ACH-000435,Uterus,PT-HWnYva,242
+patient_grouped,1,ACH-000464,CNS/Brain,PT-3nLBts,257
+patient_grouped,1,ACH-000475,Liver,PT-fHVhJI,264
+patient_grouped,1,ACH-000480,Liver,PT-cw7s0S,269
+patient_grouped,1,ACH-000496,Lung,PT-5umTu0,278
+patient_grouped,1,ACH-000503,Head and Neck,PT-9uZV0s,283
+patient_grouped,1,ACH-000510,Lung,PT-7qWq2K,287
+patient_grouped,1,ACH-000517,Pancreas,PT-V7OSXp,292
+patient_grouped,1,ACH-000525,Lung,PT-NNs10U,297
+patient_grouped,1,ACH-000541,Lymphoid,PT-K9dsbf,304
+patient_grouped,1,ACH-000545,Bladder/Urinary Tract,PT-LSFu4z,307
+patient_grouped,1,ACH-000547,Bladder/Urinary Tract,PT-Tid1hK,308
+patient_grouped,1,ACH-000548,Head and Neck,PT-p0K5QM,309
+patient_grouped,1,ACH-000550,Skin,PT-Wg8rkx,310
+patient_grouped,1,ACH-000557,Myeloid,PT-CVf0Wr,314
+patient_grouped,1,ACH-000583,Lymphoid,PT-Lrf7XT,322
+patient_grouped,1,ACH-000587,Lung,PT-HkdFKw,324
+patient_grouped,1,ACH-000588,Lymphoid,PT-wXGfqR,325
+patient_grouped,1,ACH-000602,Myeloid,PT-JpUzYa,333
+patient_grouped,1,ACH-000607,Kidney,PT-UnVDKb,335
+patient_grouped,1,ACH-000608,Ovary/Fallopian Tube,PT-lr2HyG,336
+patient_grouped,1,ACH-000616,Esophagus/Stomach,PT-8WpAkT,338
+patient_grouped,1,ACH-000618,Head and Neck,PT-BJe5Qe,339
+patient_grouped,1,ACH-000622,CNS/Brain,PT-25ATIE,342
+patient_grouped,1,ACH-000649,Kidney,PT-4QH2lI,355
+patient_grouped,1,ACH-000663,Ovary/Fallopian Tube,PT-kymkHN,364
+patient_grouped,1,ACH-000667,Lung,PT-uY17tx,368
+patient_grouped,1,ACH-000698,Lung,PT-ERlBcq,382
+patient_grouped,1,ACH-000713,Ovary/Fallopian Tube,PT-FQOeFS,390
+patient_grouped,1,ACH-000720,Bladder/Urinary Tract,PT-ACqBkd,395
+patient_grouped,1,ACH-000724,Bladder/Urinary Tract,PT-B0Dqk6,397
+patient_grouped,1,ACH-000747,Lung,PT-CmsNht,407
+patient_grouped,1,ACH-000754,Lymphoid,PT-Pi0OS5,411
+patient_grouped,1,ACH-000756,CNS/Brain,PT-cJo3y3,412
+patient_grouped,1,ACH-000768,Breast,PT-pYG6Rc,420
+patient_grouped,1,ACH-000784,Esophagus/Stomach,PT-YTdWR1,431
+patient_grouped,1,ACH-000790,Lung,PT-EI5eP1,434
+patient_grouped,1,ACH-000791,Lung,PT-sAWSgy,435
+patient_grouped,1,ACH-000793,Esophagus/Stomach,PT-xOmD9v,437
+patient_grouped,1,ACH-000801,Skin,PT-1I8hCi,441
+patient_grouped,1,ACH-000802,Bladder/Urinary Tract,PT-YqLKaW,442
+patient_grouped,1,ACH-000805,Skin,PT-SscYEx,444
+patient_grouped,1,ACH-000822,Skin,PT-n2hnAf,452
+patient_grouped,1,ACH-000829,Lymphoid,PT-h5fVs5,455
+patient_grouped,1,ACH-000846,Head and Neck,PT-tolPHE,469
+patient_grouped,1,ACH-000858,Lung,PT-obWM4y,476
+patient_grouped,1,ACH-000861,Lung,PT-ExToNn,478
+patient_grouped,1,ACH-000874,Lymphoid,PT-eEEvwF,485
+patient_grouped,1,ACH-000880,Esophagus/Stomach,PT-VHRCrj,488
+patient_grouped,1,ACH-000887,CNS/Brain,PT-Wth0p2,491
+patient_grouped,1,ACH-000894,Lung,PT-RPtiPJ,495
+patient_grouped,1,ACH-000896,Bladder/Urinary Tract,PT-bDT6oy,496
+patient_grouped,1,ACH-000903,Thyroid,PT-ZSsyUS,501
+patient_grouped,1,ACH-000910,Breast,PT-TFQ2Kc,505
+patient_grouped,1,ACH-000932,Esophagus/Stomach,PT-3F7Xgi,518
+patient_grouped,1,ACH-000938,Lymphoid,PT-rgsUoa,523
+patient_grouped,1,ACH-000941,Uterus,PT-YZF57N,525
+patient_grouped,1,ACH-000945,Lung,PT-0uFhp8,528
+patient_grouped,1,ACH-000959,Bowel,PT-ulmNPq,537
+patient_grouped,1,ACH-000960,Lymphoid,PT-N5YXV2,538
+patient_grouped,1,ACH-000975,Lung,PT-gNoIDb,548
+patient_grouped,1,ACH-000979,Prostate,PT-05dldv,552
+patient_grouped,1,ACH-000981,Lymphoid,PT-zhUnhJ,553
+patient_grouped,1,ACH-000986,Bowel,PT-EoHcfh,556
+patient_grouped,1,ACH-000988,Uterus,PT-blqauC,557
+patient_grouped,1,ACH-000995,Lymphoid,PT-lj83Ht,559
+patient_grouped,1,ACH-000997,Bowel,PT-i0VYNQ,561
+patient_grouped,1,ACH-001038,Bone,PT-Wd5HrW,568
+patient_grouped,1,ACH-001053,CNS/Brain,PT-HMzBz8,569
+patient_grouped,1,ACH-001054,CNS/Brain,PT-HMzBz8,570
+patient_grouped,1,ACH-001061,Bowel,PT-i0VYNQ,571
+patient_grouped,1,ACH-001129,Myeloid,PT-ej13Dz,579
+patient_grouped,1,ACH-001134,Lymphoid,PT-YD7WB8,580
+patient_grouped,1,ACH-001190,Skin,PT-IHNbDy,586
+patient_grouped,1,ACH-001279,Ovary/Fallopian Tube,PT-z5pG5i,601
+patient_grouped,1,ACH-001283,Bone,PT-yXtSGR,603
+patient_grouped,1,ACH-001301,Peripheral Nervous System,PT-9ShVj5,606
+patient_grouped,1,ACH-001307,Thyroid,PT-1llqWx,610
+patient_grouped,1,ACH-001322,Soft Tissue,PT-NzxvhN,612
+patient_grouped,1,ACH-001349,CNS/Brain,PT-S14wo4,618
+patient_grouped,1,ACH-001385,Head and Neck,PT-a3pn8l,621
+patient_grouped,1,ACH-001502,Testis,PT-xmuA7w,637
+patient_grouped,1,ACH-001509,Head and Neck,PT-jrbPZG,639
+patient_grouped,1,ACH-001560,Pleura,PT-B0HUMd,647
+patient_grouped,1,ACH-001618,Myeloid,PT-Oev2PO,657
+patient_grouped,1,ACH-001623,CNS/Brain,PT-QBDrgb,660
+patient_grouped,1,ACH-001624,CNS/Brain,PT-dDtvIC,661
+patient_grouped,1,ACH-001662,Breast,PT-v3hnay,667
+patient_grouped,1,ACH-001670,CNS/Brain,PT-SJ98Vo,670
+patient_grouped,1,ACH-001701,Head and Neck,PT-CvPqts,682
+patient_grouped,1,ACH-001709,Lymphoid,PT-scpPOF,685
+patient_grouped,1,ACH-001715,Bone,PT-fcGStb,687
+patient_grouped,1,ACH-001737,Lymphoid,PT-KaownI,690
+patient_grouped,1,ACH-001791,Soft Tissue,PT-lRwItD,695
+patient_grouped,1,ACH-001975,Skin,PT-IBpd8U,704
+patient_grouped,1,ACH-001993,Lymphoid,PT-22pOAT,710
+patient_grouped,1,ACH-002027,Uterus,PT-vIwQtl,727
+patient_grouped,1,ACH-002029,Head and Neck,PT-rJXazG,728
+patient_grouped,1,ACH-002035,Lung,PT-5NWbnb,731
+patient_grouped,1,ACH-002060,Myeloid,PT-DWKd8J,745
+patient_grouped,1,ACH-002062,Lymphoid,PT-2hETfh,747
+patient_grouped,1,ACH-002070,CNS/Brain,PT-kM7sLu,751
+patient_grouped,1,ACH-002077,Lung,PT-qVbV4Q,752
+patient_grouped,1,ACH-002283,Peripheral Nervous System,PT-x400Sq,758
+patient_grouped,1,ACH-002399,Breast,PT-iW8GZP,760
+patient_grouped,1,ACH-002400,Breast,PT-iW8GZP,761
+patient_grouped,1,ACH-002401,Breast,PT-iW8GZP,762
+patient_grouped,1,ACH-002490,Lung,PT-0a2F5a,776
+patient_grouped,1,ACH-002500,Lymphoid,PT-GjFsxJ,778
+patient_grouped,1,ACH-002511,Skin,PT-iI63vt,781
+patient_grouped,1,ACH-002522,Lung,PT-7B82nW,783
+patient_grouped,1,ACH-002528,Kidney,PT-Zod1Nb,787
+patient_grouped,1,ACH-002659,Bowel,PT-btmPL5,796
+patient_grouped,1,ACH-002660,Bowel,PT-iZtOKB,797
+patient_grouped,1,ACH-002669,Bowel,PT-53ZOQS,800
+patient_grouped,1,ACH-002681,CNS/Brain,PT-2QAfke,805
+patient_grouped,1,ACH-002690,Bone,PT-6Xf1w4,808
+patient_grouped,1,ACH-002693,Peripheral Nervous System,PT-DyxJsT,809
+patient_grouped,1,ACH-002705,Esophagus/Stomach,PT-qcon1I,810
+patient_grouped,1,ACH-002706,Esophagus/Stomach,PT-qcon1I,811
+patient_grouped,1,ACH-002708,Soft Tissue,PT-03AcoW,812
+patient_grouped,1,ACH-002780,Bone,PT-wlbuKV,817
+patient_grouped,1,ACH-002801,Peripheral Nervous System,PT-hmiIEB,824
+patient_grouped,1,ACH-002926,Eye,PT-vu5jnE,831
+patient_grouped,1,ACH-003064,Bone,PT-57BDo9,834
+patient_grouped,1,ACH-003185,Bone,PT-McNlZE,842
+patient_grouped,1,ACH-003587,Bone,PT-g8kcwe,850
+patient_grouped,2,ACH-000007,Bowel,PT-NOXwpH,3
+patient_grouped,2,ACH-000019,Breast,PT-viJKnw,12
+patient_grouped,2,ACH-000021,Lung,PT-9p1WQv,13
+patient_grouped,2,ACH-000028,Breast,PT-viJKnw,18
+patient_grouped,2,ACH-000042,Pancreas,PT-QOpMVz,27
+patient_grouped,2,ACH-000078,Peripheral Nervous System,PT-Vot01h,39
+patient_grouped,2,ACH-000082,Bone,PT-noCCE4,40
+patient_grouped,2,ACH-000087,Bone,PT-VA04Md,43
+patient_grouped,2,ACH-000093,Pancreas,PT-X8PfQy,46
+patient_grouped,2,ACH-000097,Breast,PT-k1TO7o,49
+patient_grouped,2,ACH-000098,CNS/Brain,PT-HmIANs,50
+patient_grouped,2,ACH-000099,Peripheral Nervous System,PT-JpfhsL,51
+patient_grouped,2,ACH-000114,Pancreas,PT-SNQPtX,56
+patient_grouped,2,ACH-000146,Myeloid,PT-Sv45MF,72
+patient_grouped,2,ACH-000147,Breast,PT-9WkxWW,73
+patient_grouped,2,ACH-000167,Lymphoid,PT-ghtKEp,83
+patient_grouped,2,ACH-000172,Soft Tissue,PT-o2d0Va,86
+patient_grouped,2,ACH-000182,Ampulla of Vater,PT-n4Jzz1,88
+patient_grouped,2,ACH-000207,Head and Neck,PT-5QKbtV,103
+patient_grouped,2,ACH-000210,Bone,PT-L8aHyf,104
+patient_grouped,2,ACH-000221,Liver,PT-7v9ThA,111
+patient_grouped,2,ACH-000222,Pancreas,PT-y5xucl,112
+patient_grouped,2,ACH-000228,Head and Neck,PT-HX0QLG,116
+patient_grouped,2,ACH-000231,CNS/Brain,PT-nIom71,117
+patient_grouped,2,ACH-000238,Head and Neck,PT-Kf5TA3,123
+patient_grouped,2,ACH-000253,Bowel,PT-BLAWlD,131
+patient_grouped,2,ACH-000256,Ovary/Fallopian Tube,PT-qexSkk,132
+patient_grouped,2,ACH-000257,Lung,PT-7LsK3v,133
+patient_grouped,2,ACH-000272,Kidney,PT-cSAYbR,142
+patient_grouped,2,ACH-000279,Bone,PT-BpX01U,147
+patient_grouped,2,ACH-000281,Pancreas,PT-aIUMLY,149
+patient_grouped,2,ACH-000292,Lung,PT-x8fAhk,154
+patient_grouped,2,ACH-000315,Lymphoid,PT-lrPA2x,166
+patient_grouped,2,ACH-000318,Esophagus/Stomach,PT-8hgOdH,169
+patient_grouped,2,ACH-000319,Pleura,PT-5z2CJx,170
+patient_grouped,2,ACH-000322,Skin,PT-czDcsE,172
+patient_grouped,2,ACH-000330,Breast,PT-ykXL80,178
+patient_grouped,2,ACH-000335,Pleura,PT-MFqmhR,182
+patient_grouped,2,ACH-000336,Myeloid,PT-0F4qCF,183
+patient_grouped,2,ACH-000337,Lung,PT-0fXDWz,184
+patient_grouped,2,ACH-000338,Lymphoid,PT-khOMVk,185
+patient_grouped,2,ACH-000344,Esophagus/Stomach,PT-KDacEe,188
+patient_grouped,2,ACH-000345,Peripheral Nervous System,PT-LZIxuV,189
+patient_grouped,2,ACH-000355,Lung,PT-TQn0DO,194
+patient_grouped,2,ACH-000367,Pleura,PT-hfcpvz,203
+patient_grouped,2,ACH-000371,Lymphoid,PT-B4jW32,206
+patient_grouped,2,ACH-000373,Myeloid,PT-8qF7hQ,207
+patient_grouped,2,ACH-000385,Kidney,PT-uqel7p,215
+patient_grouped,2,ACH-000407,Uterus,PT-iaJKdg,228
+patient_grouped,2,ACH-000450,Skin,PT-tIdwwm,249
+patient_grouped,2,ACH-000469,CNS/Brain,PT-hzuTX4,260
+patient_grouped,2,ACH-000476,Liver,PT-UVxXgl,265
+patient_grouped,2,ACH-000477,Skin,PT-A0Pe6P,266
+patient_grouped,2,ACH-000507,Esophagus/Stomach,PT-6nN2YI,286
+patient_grouped,2,ACH-000514,Lung,PT-Jj10yy,289
+patient_grouped,2,ACH-000520,Ovary/Fallopian Tube,PT-tv8Ku2,293
+patient_grouped,2,ACH-000524,Ovary/Fallopian Tube,PT-6ZFCGi,296
+patient_grouped,2,ACH-000535,Pancreas,PT-xfjEoE,302
+patient_grouped,2,ACH-000552,Bowel,PT-sF39aT,312
+patient_grouped,2,ACH-000573,Breast,PT-aOGEYV,317
+patient_grouped,2,ACH-000580,Skin,PT-Dlqu1U,320
+patient_grouped,2,ACH-000601,Pancreas,PT-EzM7Ui,332
+patient_grouped,2,ACH-000620,Liver,PT-JMO4rY,340
+patient_grouped,2,ACH-000623,CNS/Brain,PT-llEy7t,343
+patient_grouped,2,ACH-000624,Breast,PT-j1ziCB,344
+patient_grouped,2,ACH-000639,Lung,PT-PkJ80f,351
+patient_grouped,2,ACH-000647,Esophagus/Stomach,PT-bxGrwa,353
+patient_grouped,2,ACH-000648,Pleura,PT-pVwyuS,354
+patient_grouped,2,ACH-000651,Bowel,PT-IPboWn,356
+patient_grouped,2,ACH-000652,Pancreas,PT-ETHfq8,357
+patient_grouped,2,ACH-000662,Lung,PT-S1tr6I,363
+patient_grouped,2,ACH-000666,Lung,PT-ELrBOm,367
+patient_grouped,2,ACH-000671,Liver,PT-TtIXsL,370
+patient_grouped,2,ACH-000676,Skin,PT-iObwE0,372
+patient_grouped,2,ACH-000681,Lung,PT-cqv92I,373
+patient_grouped,2,ACH-000683,Bowel,PT-O04gFy,375
+patient_grouped,2,ACH-000701,Ovary/Fallopian Tube,PT-ColGZ0,385
+patient_grouped,2,ACH-000740,Head and Neck,PT-T4PL7e,405
+patient_grouped,2,ACH-000748,Bone,PT-OexHxF,408
+patient_grouped,2,ACH-000762,Head and Neck,PT-M2rHki,415
+patient_grouped,2,ACH-000766,Lung,PT-wZGKqJ,418
+patient_grouped,2,ACH-000767,Lung,PT-1nXRn7,419
+patient_grouped,2,ACH-000782,Lymphoid,PT-IjgcRg,429
+patient_grouped,2,ACH-000783,Breast,PT-dK1tBm,430
+patient_grouped,2,ACH-000792,Kidney,PT-FrUuvH,436
+patient_grouped,2,ACH-000796,Ovary/Fallopian Tube,PT-Tlf0ul,438
+patient_grouped,2,ACH-000804,Peripheral Nervous System,PT-dk8yt2,443
+patient_grouped,2,ACH-000811,Ovary/Fallopian Tube,PT-RV3Y6W,448
+patient_grouped,2,ACH-000827,Skin,PT-L3eOYW,454
+patient_grouped,2,ACH-000831,Uterus,PT-cmj7jX,456
+patient_grouped,2,ACH-000840,Lung,PT-1JVU53,465
+patient_grouped,2,ACH-000843,Lung,PT-gQzNzd,467
+patient_grouped,2,ACH-000849,Breast,PT-58loXx,472
+patient_grouped,2,ACH-000865,Esophagus/Stomach,PT-zNE9qB,479
+patient_grouped,2,ACH-000866,Lung,PT-l2795j,480
+patient_grouped,2,ACH-000867,Lung,PT-3nyeTa,481
+patient_grouped,2,ACH-000872,Lung,PT-CXILSG,484
+patient_grouped,2,ACH-000900,Lung,PT-rWMXJp,499
+patient_grouped,2,ACH-000913,Uterus,PT-6MnPg3,508
+patient_grouped,2,ACH-000929,Lung,PT-29i6JV,517
+patient_grouped,2,ACH-000943,Bowel,PT-9E5O4L,526
+patient_grouped,2,ACH-000947,Ovary/Fallopian Tube,PT-MsM9mi,530
+patient_grouped,2,ACH-000963,Bowel,PT-c4ZGOD,540
+patient_grouped,2,ACH-000966,Ovary/Fallopian Tube,PT-bGFaJu,542
+patient_grouped,2,ACH-000971,Bowel,PT-2Roqq2,545
+patient_grouped,2,ACH-000976,Biliary Tract,PT-z66Tka,549
+patient_grouped,2,ACH-000977,Prostate,PT-tY34fU,550
+patient_grouped,2,ACH-000978,Uterus,PT-bmKWJL,551
+patient_grouped,2,ACH-000983,Myeloid,PT-AcI1bM,554
+patient_grouped,2,ACH-000996,Uterus,PT-GnDRP6,560
+patient_grouped,2,ACH-001001,Bone,PT-epgMPc,562
+patient_grouped,2,ACH-001020,CNS/Brain,PT-WLHxY0,563
+patient_grouped,2,ACH-001036,Myeloid,PT-XYdNvp,567
+patient_grouped,2,ACH-001067,CNS/Brain,PT-0woxaX,572
+patient_grouped,2,ACH-001119,Lymphoid,PT-eHvuQ3,577
+patient_grouped,2,ACH-001164,Soft Tissue,PT-VJQa5v,582
+patient_grouped,2,ACH-001188,Peripheral Nervous System,PT-ombRgU,585
+patient_grouped,2,ACH-001193,Bone,PT-zjZ0Ko,588
+patient_grouped,2,ACH-001280,Soft Tissue,PT-u27nif,602
+patient_grouped,2,ACH-001303,Peripheral Nervous System,PT-IFd9cu,608
+patient_grouped,2,ACH-001344,Peripheral Nervous System,PT-smWXLD,617
+patient_grouped,2,ACH-001366,Peripheral Nervous System,PT-jZHQTi,620
+patient_grouped,2,ACH-001393,Breast,PT-Zd61pI,622
+patient_grouped,2,ACH-001422,Prostate,PT-EhPRzn,627
+patient_grouped,2,ACH-001530,Uterus,PT-hB4ARO,642
+patient_grouped,2,ACH-001647,Myeloid,PT-8Jr4Fd,664
+patient_grouped,2,ACH-001668,Testis,PT-2w1URA,668
+patient_grouped,2,ACH-001669,Lymphoid,PT-ffpEbF,669
+patient_grouped,2,ACH-001677,Lymphoid,PT-PFlyLY,674
+patient_grouped,2,ACH-001696,Head and Neck,PT-YWwuRp,680
+patient_grouped,2,ACH-001735,Lymphoid,PT-IjgcRg,688
+patient_grouped,2,ACH-001736,Lymphoid,PT-PmkoYV,689
+patient_grouped,2,ACH-001740,Soft Tissue,PT-vvfjiZ,691
+patient_grouped,2,ACH-001972,Skin,PT-Czk2qo,703
+patient_grouped,2,ACH-001977,Pleura,PT-YF5RFe,705
+patient_grouped,2,ACH-001986,Skin,PT-EpCvHQ,707
+patient_grouped,2,ACH-002004,Skin,PT-Zu8A8i,714
+patient_grouped,2,ACH-002005,Skin,PT-4QtR2m,715
+patient_grouped,2,ACH-002014,Eye,PT-5vJu3k,716
+patient_grouped,2,ACH-002015,Eye,PT-N7xRpa,717
+patient_grouped,2,ACH-002018,Eye,PT-5vJu3k,719
+patient_grouped,2,ACH-002020,Cervix,PT-3SrUkP,721
+patient_grouped,2,ACH-002025,Bowel,PT-mIVrGc,725
+patient_grouped,2,ACH-002039,Pancreas,PT-mXNlfw,732
+patient_grouped,2,ACH-002040,Vulva/Vagina,PT-YbtlK5,733
+patient_grouped,2,ACH-002042,Head and Neck,PT-vhf9cn,735
+patient_grouped,2,ACH-002043,Head and Neck,PT-gB4Jfi,736
+patient_grouped,2,ACH-002044,Head and Neck,PT-v9ccBc,737
+patient_grouped,2,ACH-002046,Uterus,PT-SKC9qY,739
+patient_grouped,2,ACH-002080,Peripheral Nervous System,PT-rlExpa,753
+patient_grouped,2,ACH-002142,Bone,PT-3yhqod,755
+patient_grouped,2,ACH-002458,Skin,PT-czDcsE,765
+patient_grouped,2,ACH-002460,Skin,PT-czDcsE,766
+patient_grouped,2,ACH-002478,Lymphoid,PT-pqMaYc,773
+patient_grouped,2,ACH-002512,Skin,PT-YwNqCa,782
+patient_grouped,2,ACH-002523,Liver,PT-0yqjae,784
+patient_grouped,2,ACH-002524,Ovary/Fallopian Tube,PT-itoB60,785
+patient_grouped,2,ACH-002531,Lung,PT-GWa6kp,788
+patient_grouped,2,ACH-002538,Bowel,PT-WkPESC,791
+patient_grouped,2,ACH-002664,Bowel,PT-FT4DA3,799
+patient_grouped,2,ACH-002677,Lymphoid,PT-6AFvnc,802
+patient_grouped,2,ACH-002680,CNS/Brain,PT-UACtvx,804
+patient_grouped,2,ACH-002784,Soft Tissue,PT-ucxyns,819
+patient_grouped,2,ACH-002785,Soft Tissue,PT-6sPicj,820
+patient_grouped,2,ACH-002792,Soft Tissue,PT-wrg9dD,821
+patient_grouped,2,ACH-002847,Skin,PT-AFnHpd,827
+patient_grouped,2,ACH-003012,Lung,PT-cqv92I,833
+patient_grouped,2,ACH-003178,Bone,PT-or8OCW,839
+patient_grouped,2,ACH-003186,Soft Tissue,PT-DbN4gj,843
+patient_grouped,2,ACH-003410,Bone,PT-Dz7ENW,848
+patient_grouped,3,ACH-000001,Ovary/Fallopian Tube,PT-gj46wT,0
+patient_grouped,3,ACH-000009,Bowel,PT-puKIyc,4
+patient_grouped,3,ACH-000013,Ovary/Fallopian Tube,PT-gj46wT,7
+patient_grouped,3,ACH-000015,Lung,PT-ffwajI,9
+patient_grouped,3,ACH-000018,Bladder/Urinary Tract,PT-Mi0cKz,11
+patient_grouped,3,ACH-000036,CNS/Brain,PT-llPs5J,22
+patient_grouped,3,ACH-000039,Bone,PT-wGDMGe,24
+patient_grouped,3,ACH-000040,CNS/Brain,PT-5XnRfQ,25
+patient_grouped,3,ACH-000054,Soft Tissue,PT-cVfhmE,32
+patient_grouped,3,ACH-000060,Pancreas,PT-9JMXWA,33
+patient_grouped,3,ACH-000070,Lymphoid,PT-0yrZJC,34
+patient_grouped,3,ACH-000101,Lymphoid,PT-6Sunyd,52
+patient_grouped,3,ACH-000116,Ovary/Fallopian Tube,PT-eqFmWE,57
+patient_grouped,3,ACH-000127,Bladder/Urinary Tract,PT-Mi0cKz,61
+patient_grouped,3,ACH-000132,Ovary/Fallopian Tube,PT-F6NvL5,63
+patient_grouped,3,ACH-000139,Pancreas,PT-rXQo6a,66
+patient_grouped,3,ACH-000142,Bladder/Urinary Tract,PT-Er9zxL,68
+patient_grouped,3,ACH-000143,Lung,PT-1M8cz3,69
+patient_grouped,3,ACH-000145,Soft Tissue,PT-LH2axx,71
+patient_grouped,3,ACH-000160,CNS/Brain,PT-0GrZ0k,80
+patient_grouped,3,ACH-000168,Myeloid,PT-FTVcJW,84
+patient_grouped,3,ACH-000189,Kidney,PT-yDBvIq,92
+patient_grouped,3,ACH-000191,Thyroid,PT-Lc6cyf,94
+patient_grouped,3,ACH-000195,Myeloid,PT-ZJgxZb,96
+patient_grouped,3,ACH-000202,Bowel,PT-UB7otW,99
+patient_grouped,3,ACH-000212,Breast,PT-y6HadC,106
+patient_grouped,3,ACH-000227,Peripheral Nervous System,PT-N9Xbr1,115
+patient_grouped,3,ACH-000243,Pancreas,PT-dLpuzD,124
+patient_grouped,3,ACH-000264,Lung,PT-T9nCW5,140
+patient_grouped,3,ACH-000276,Breast,PT-S4bLNM,144
+patient_grouped,3,ACH-000286,Bowel,PT-eQWzKj,150
+patient_grouped,3,ACH-000288,Breast,PT-hgWgpg,151
+patient_grouped,3,ACH-000290,Lung,PT-DzY90c,152
+patient_grouped,3,ACH-000291,Ovary/Fallopian Tube,PT-MtLxSF,153
+patient_grouped,3,ACH-000293,Uterus,PT-tjaCAG,155
+patient_grouped,3,ACH-000299,Myeloid,PT-OEqvYu,157
+patient_grouped,3,ACH-000304,Skin,PT-JAyPtz,159
+patient_grouped,3,ACH-000310,Peripheral Nervous System,PT-2Urqss,162
+patient_grouped,3,ACH-000361,Liver,PT-sPLV6L,197
+patient_grouped,3,ACH-000363,Lymphoid,PT-35DpVF,199
+patient_grouped,3,ACH-000365,Lymphoid,PT-I24dRR,201
+patient_grouped,3,ACH-000387,Myeloid,PT-JUL0sC,216
+patient_grouped,3,ACH-000390,Lung,PT-gDZo34,218
+patient_grouped,3,ACH-000406,Myeloid,PT-ZwaNYv,227
+patient_grouped,3,ACH-000408,Esophagus/Stomach,PT-Tt9e9T,229
+patient_grouped,3,ACH-000415,Head and Neck,PT-Typnjw,232
+patient_grouped,3,ACH-000416,Lung,PT-YdBNCw,233
+patient_grouped,3,ACH-000420,Liver,PT-zjdwU2,235
+patient_grouped,3,ACH-000455,CNS/Brain,PT-XOGcZJ,252
+patient_grouped,3,ACH-000481,Lung,PT-CazMr1,270
+patient_grouped,3,ACH-000488,Esophagus/Stomach,PT-wdkGZi,275
+patient_grouped,3,ACH-000490,Cervix,PT-Ag8pMW,276
+patient_grouped,3,ACH-000500,Head and Neck,PT-7wjU8J,281
+patient_grouped,3,ACH-000502,Pancreas,PT-HGOuqa,282
+patient_grouped,3,ACH-000504,CNS/Brain,PT-YFHa1n,284
+patient_grouped,3,ACH-000515,Lung,PT-BuE22y,290
+patient_grouped,3,ACH-000521,Lung,PT-hEuGfg,294
+patient_grouped,3,ACH-000528,Lung,PT-id2eBb,299
+patient_grouped,3,ACH-000542,Ovary/Fallopian Tube,PT-0hMOxQ,305
+patient_grouped,3,ACH-000551,Myeloid,PT-y8u0p3,311
+patient_grouped,3,ACH-000554,Breast,PT-i8kZN9,313
+patient_grouped,3,ACH-000559,Lung,PT-xIjoai,315
+patient_grouped,3,ACH-000592,CNS/Brain,PT-ruaWWk,327
+patient_grouped,3,ACH-000593,Bladder/Urinary Tract,PT-SQ6fkx,328
+patient_grouped,3,ACH-000596,Lung,PT-9Zamyo,330
+patient_grouped,3,ACH-000599,Pancreas,PT-cDj854,331
+patient_grouped,3,ACH-000630,Head and Neck,PT-uty9xg,346
+patient_grouped,3,ACH-000633,Esophagus/Stomach,PT-zUYVjw,348
+patient_grouped,3,ACH-000637,Esophagus/Stomach,PT-bnLm4Y,350
+patient_grouped,3,ACH-000653,Lymphoid,PT-vA8rQh,358
+patient_grouped,3,ACH-000655,CNS/Brain,PT-ZQKvHU,360
+patient_grouped,3,ACH-000661,Skin,PT-VxRt2m,362
+patient_grouped,3,ACH-000682,Head and Neck,PT-Svdo1R,374
+patient_grouped,3,ACH-000684,Kidney,PT-wbA1oa,376
+patient_grouped,3,ACH-000693,Esophagus/Stomach,PT-mOm35A,378
+patient_grouped,3,ACH-000694,Esophagus/Stomach,PT-bNO06l,379
+patient_grouped,3,ACH-000704,Ovary/Fallopian Tube,PT-9pirK7,386
+patient_grouped,3,ACH-000716,Thyroid,PT-EhboSJ,392
+patient_grouped,3,ACH-000718,Lung,PT-8wDCNH,393
+patient_grouped,3,ACH-000725,Breast,PT-gUhFHU,398
+patient_grouped,3,ACH-000732,Head and Neck,PT-mK3rFG,399
+patient_grouped,3,ACH-000735,Head and Neck,PT-M3R2ei,401
+patient_grouped,3,ACH-000736,Esophagus/Stomach,PT-2GXHBV,402
+patient_grouped,3,ACH-000738,CNS/Brain,PT-8oCN4x,403
+patient_grouped,3,ACH-000746,Esophagus/Stomach,PT-dpLnUY,406
+patient_grouped,3,ACH-000753,Bladder/Urinary Tract,PT-Jv3gwf,410
+patient_grouped,3,ACH-000763,Lymphoid,PT-wvxTew,416
+patient_grouped,3,ACH-000770,Myeloid,PT-7N6azV,422
+patient_grouped,3,ACH-000771,Head and Neck,PT-59aO2P,423
+patient_grouped,3,ACH-000778,Head and Neck,PT-XJviYz,427
+patient_grouped,3,ACH-000799,Skin,PT-mZ69Vl,439
+patient_grouped,3,ACH-000817,Lymphoid,PT-pWj35D,449
+patient_grouped,3,ACH-000826,Lung,PT-nAjtb0,453
+patient_grouped,3,ACH-000839,Bladder/Urinary Tract,PT-l3KlxJ,464
+patient_grouped,3,ACH-000848,Liver,PT-WkfAGI,471
+patient_grouped,3,ACH-000855,Esophagus/Stomach,PT-8JwTBr,474
+patient_grouped,3,ACH-000859,Breast,PT-603OA3,477
+patient_grouped,3,ACH-000869,Lung,PT-JylhbS,482
+patient_grouped,3,ACH-000871,Lung,PT-IG35r8,483
+patient_grouped,3,ACH-000878,Lung,PT-WMdXaj,486
+patient_grouped,3,ACH-000898,Esophagus/Stomach,PT-lvKDUW,497
+patient_grouped,3,ACH-000899,Skin,PT-j60QIc,498
+patient_grouped,3,ACH-000901,Lung,PT-gBcBSy,500
+patient_grouped,3,ACH-000907,Kidney,PT-20TYLm,504
+patient_grouped,3,ACH-000911,Esophagus/Stomach,PT-BTCHFg,506
+patient_grouped,3,ACH-000935,Bowel,PT-snQqpb,520
+patient_grouped,3,ACH-000946,Uterus,PT-ANEQ4x,529
+patient_grouped,3,ACH-000956,Prostate,PT-FFSOW0,534
+patient_grouped,3,ACH-000968,Skin,PT-z7yLU0,543
+patient_grouped,3,ACH-000969,Bowel,PT-ue72rD,544
+patient_grouped,3,ACH-000985,Bowel,PT-KI0Di1,555
+patient_grouped,3,ACH-001029,Bone,PT-NX1XUV,565
+patient_grouped,3,ACH-001075,Lung,PT-nKyqod,573
+patient_grouped,3,ACH-001099,Soft Tissue,PT-FynJTm,575
+patient_grouped,3,ACH-001128,Soft Tissue,PT-u43maP,578
+patient_grouped,3,ACH-001192,Bone,PT-MPUfgI,587
+patient_grouped,3,ACH-001197,Lymphoid,PT-3YIeN9,590
+patient_grouped,3,ACH-001232,CNS/Brain,PT-Qe9Gjx,595
+patient_grouped,3,ACH-001239,Skin,PT-JAyPtz,596
+patient_grouped,3,ACH-001274,Soft Tissue,PT-IfpyhV,597
+patient_grouped,3,ACH-001277,Soft Tissue,PT-yyLDZV,599
+patient_grouped,3,ACH-001295,Eye,PT-KinR5m,604
+patient_grouped,3,ACH-001300,Peripheral Nervous System,PT-ZhCETu,605
+patient_grouped,3,ACH-001306,Thyroid,PT-Dn9adW,609
+patient_grouped,3,ACH-001481,Peripheral Nervous System,PT-GWiky5,635
+patient_grouped,3,ACH-001578,Testis,PT-OqrZ3f,651
+patient_grouped,3,ACH-001606,CNS/Brain,PT-jZhsXq,652
+patient_grouped,3,ACH-001622,CNS/Brain,PT-D5Ft7E,659
+patient_grouped,3,ACH-001641,Head and Neck,PT-4X1Phg,662
+patient_grouped,3,ACH-001642,Lymphoid,PT-HcsCe7,663
+patient_grouped,3,ACH-001674,Peripheral Nervous System,PT-o4jARg,671
+patient_grouped,3,ACH-001675,Head and Neck,PT-6uEn4i,672
+patient_grouped,3,ACH-001676,Head and Neck,PT-41SYJa,673
+patient_grouped,3,ACH-001685,Lymphoid,PT-A1mKo8,676
+patient_grouped,3,ACH-001691,Head and Neck,PT-km3C7x,677
+patient_grouped,3,ACH-001695,Head and Neck,PT-Rb8OWd,679
+patient_grouped,3,ACH-001702,Soft Tissue,PT-vslXtO,683
+patient_grouped,3,ACH-001707,Lymphoid,PT-XqTlID,684
+patient_grouped,3,ACH-001765,Soft Tissue,PT-BN67ox,694
+patient_grouped,3,ACH-001793,Soft Tissue,PT-TTxLCZ,696
+patient_grouped,3,ACH-001848,Biliary Tract,PT-PUXC1Q,701
+patient_grouped,3,ACH-001863,Biliary Tract,PT-VWXKPj,702
+patient_grouped,3,ACH-001982,Skin,PT-6BEu4D,706
+patient_grouped,3,ACH-001992,Pleura,PT-nrQ0Fm,709
+patient_grouped,3,ACH-002024,Bowel,PT-2Stxl0,724
+patient_grouped,3,ACH-002041,Thyroid,PT-PqWEZm,734
+patient_grouped,3,ACH-002048,Soft Tissue,PT-oslMHT,740
+patient_grouped,3,ACH-002061,Myeloid,PT-y8u0p3,746
+patient_grouped,3,ACH-002066,Peripheral Nervous System,PT-coZfvw,748
+patient_grouped,3,ACH-002069,Bone,PT-3pqp8N,750
+patient_grouped,3,ACH-002215,Lymphoid,PT-tSpUfL,757
+patient_grouped,3,ACH-002433,Bone,PT-k1gvKS,763
+patient_grouped,3,ACH-002463,Eye,PT-JWRsco,767
+patient_grouped,3,ACH-002464,Eye,PT-JWRsco,768
+patient_grouped,3,ACH-002465,Eye,PT-JWRsco,769
+patient_grouped,3,ACH-002471,Bone,PT-UbzBsY,771
+patient_grouped,3,ACH-002475,Myeloid,PT-gjpFPM,772
+patient_grouped,3,ACH-002647,Biliary Tract,PT-O1x5GT,793
+patient_grouped,3,ACH-002650,Lung,PT-6fwwV7,794
+patient_grouped,3,ACH-002662,Bowel,PT-iwSeHI,798
+patient_grouped,3,ACH-002678,Lymphoid,PT-EV9I7F,803
+patient_grouped,3,ACH-002687,Eye,PT-VBCF1O,806
+patient_grouped,3,ACH-002688,Bone,PT-A4Rqd9,807
+patient_grouped,3,ACH-002778,Bone,PT-iPKVUD,816
+patient_grouped,3,ACH-002799,Peripheral Nervous System,PT-qqzgSc,822
+patient_grouped,3,ACH-002925,Eye,PT-abxYPP,830
+patient_grouped,3,ACH-003176,Bone,PT-VbQDpc,837
+patient_grouped,3,ACH-003180,Soft Tissue,PT-EMnXLI,840
+patient_grouped,3,ACH-003191,Bone,PT-B8KJKw,846
+patient_grouped,3,ACH-003590,Lymphoid,PT-JkwieL,851
+patient_grouped,4,ACH-000004,Myeloid,PT-q4K2cp,1
+patient_grouped,4,ACH-000005,Myeloid,PT-q4K2cp,2
+patient_grouped,4,ACH-000014,Skin,PT-fp8PeY,8
+patient_grouped,4,ACH-000022,Pancreas,PT-lVglGI,14
+patient_grouped,4,ACH-000023,Pancreas,PT-lVglGI,15
+patient_grouped,4,ACH-000024,Lymphoid,PT-codP7n,16
+patient_grouped,4,ACH-000025,CNS/Brain,PT-nrgozM,17
+patient_grouped,4,ACH-000045,Myeloid,PT-zb7Sx0,28
+patient_grouped,4,ACH-000075,CNS/Brain,PT-59c3mE,36
+patient_grouped,4,ACH-000076,Myeloid,PT-Ugji7b,37
+patient_grouped,4,ACH-000092,Pleura,PT-GaubVg,45
+patient_grouped,4,ACH-000111,Breast,PT-yKJqsn,54
+patient_grouped,4,ACH-000123,Ovary/Fallopian Tube,PT-hlFfQW,60
+patient_grouped,4,ACH-000133,Fibroblast,PT-PvBEqK,64
+patient_grouped,4,ACH-000153,Pleura,PT-TexA3V,77
+patient_grouped,4,ACH-000163,Head and Neck,PT-llVV5F,81
+patient_grouped,4,ACH-000174,Thyroid,PT-dTkV2T,87
+patient_grouped,4,ACH-000183,Lymphoid,PT-T1yBnE,89
+patient_grouped,4,ACH-000187,Lung,PT-bfVDxm,90
+patient_grouped,4,ACH-000192,Uterus,PT-Vhzgp5,95
+patient_grouped,4,ACH-000203,Peripheral Nervous System,PT-9PJrBN,100
+patient_grouped,4,ACH-000211,CNS/Brain,PT-5fvUg8,105
+patient_grouped,4,ACH-000215,CNS/Brain,PT-G8e35b,107
+patient_grouped,4,ACH-000217,Liver,PT-YfFi4d,109
+patient_grouped,4,ACH-000234,Kidney,PT-A9d4DI,120
+patient_grouped,4,ACH-000237,Ovary/Fallopian Tube,PT-wwKJYr,122
+patient_grouped,4,ACH-000251,Lung,PT-l5gD1h,130
+patient_grouped,4,ACH-000260,Peripheral Nervous System,PT-7WPGtR,136
+patient_grouped,4,ACH-000262,Kidney,PT-BYKJeS,138
+patient_grouped,4,ACH-000277,Breast,PT-osxHUh,145
+patient_grouped,4,ACH-000295,Myeloid,PT-PfwDZx,156
+patient_grouped,4,ACH-000302,Uterus,PT-SeH5WZ,158
+patient_grouped,4,ACH-000312,Peripheral Nervous System,PT-k4Daz3,164
+patient_grouped,4,ACH-000313,Kidney,PT-Hd1kAu,165
+patient_grouped,4,ACH-000332,Pancreas,PT-Lio3jT,180
+patient_grouped,4,ACH-000334,Lymphoid,PT-mgfMcU,181
+patient_grouped,4,ACH-000341,Peripheral Nervous System,PT-I4N9IW,186
+patient_grouped,4,ACH-000343,Lung,PT-6ukZx4,187
+patient_grouped,4,ACH-000352,Breast,PT-jBpXJh,192
+patient_grouped,4,ACH-000356,Esophagus/Stomach,PT-cE9wYI,195
+patient_grouped,4,ACH-000364,Bone,PT-WN1oZd,200
+patient_grouped,4,ACH-000368,CNS/Brain,PT-U0kXHW,204
+patient_grouped,4,ACH-000370,CNS/Brain,PT-HHIjR4,205
+patient_grouped,4,ACH-000376,CNS/Brain,PT-O9gP17,210
+patient_grouped,4,ACH-000377,Ampulla of Vater,PT-gf9GtH,211
+patient_grouped,4,ACH-000381,Bowel,PT-3aeu41,213
+patient_grouped,4,ACH-000391,Bone,PT-APr9xS,219
+patient_grouped,4,ACH-000402,Lymphoid,PT-ieu86J,224
+patient_grouped,4,ACH-000403,Bowel,PT-cabct5,225
+patient_grouped,4,ACH-000405,Lymphoid,PT-2VMIkL,226
+patient_grouped,4,ACH-000410,Bone,PT-mOrUlf,230
+patient_grouped,4,ACH-000421,Bowel,PT-M67oxD,236
+patient_grouped,4,ACH-000438,Lung,PT-DJtGj2,244
+patient_grouped,4,ACH-000444,Lung,PT-IpPvfc,246
+patient_grouped,4,ACH-000452,Esophagus/Stomach,PT-xIsO4O,250
+patient_grouped,4,ACH-000456,Thyroid,PT-UFvK3A,253
+patient_grouped,4,ACH-000460,Ovary/Fallopian Tube,PT-OIFKmV,254
+patient_grouped,4,ACH-000461,Biliary Tract,PT-1PHTgt,255
+patient_grouped,4,ACH-000466,Esophagus/Stomach,PT-IGNlGv,258
+patient_grouped,4,ACH-000468,Pancreas,PT-Ej6iPJ,259
+patient_grouped,4,ACH-000470,Bowel,PT-XPa83T,261
+patient_grouped,4,ACH-000473,Bladder/Urinary Tract,PT-ESM25t,263
+patient_grouped,4,ACH-000479,CNS/Brain,PT-hM3DN4,268
+patient_grouped,4,ACH-000484,Kidney,PT-BHz6vU,272
+patient_grouped,4,ACH-000493,Liver,PT-nNGWmq,277
+patient_grouped,4,ACH-000498,Myeloid,PT-pWs9uO,279
+patient_grouped,4,ACH-000516,Bone,PT-gEiUjw,291
+patient_grouped,4,ACH-000522,Bladder/Urinary Tract,PT-sPPqcj,295
+patient_grouped,4,ACH-000544,Esophagus/Stomach,PT-SDTBu5,306
+patient_grouped,4,ACH-000579,Skin,PT-KoNkGk,319
+patient_grouped,4,ACH-000581,Esophagus/Stomach,PT-NDi54R,321
+patient_grouped,4,ACH-000589,Lung,PT-KKsvGZ,326
+patient_grouped,4,ACH-000595,CNS/Brain,PT-jhnjmL,329
+patient_grouped,4,ACH-000614,Skin,PT-Zy2EsL,337
+patient_grouped,4,ACH-000621,Breast,PT-ER2PWK,341
+patient_grouped,4,ACH-000627,Lung,PT-Rd3J4D,345
+patient_grouped,4,ACH-000632,Skin,PT-CeiJLF,347
+patient_grouped,4,ACH-000657,Ovary/Fallopian Tube,PT-ug3gCf,361
+patient_grouped,4,ACH-000665,Lung,PT-41lHFE,366
+patient_grouped,4,ACH-000673,CNS/Brain,PT-6DJ7vB,371
+patient_grouped,4,ACH-000697,Lymphoid,PT-T19rUu,381
+patient_grouped,4,ACH-000700,Lung,PT-o9axOH,384
+patient_grouped,4,ACH-000706,Lung,PT-srkn4o,387
+patient_grouped,4,ACH-000711,Breast,PT-K0vetf,389
+patient_grouped,4,ACH-000719,Ovary/Fallopian Tube,PT-bnZfQQ,394
+patient_grouped,4,ACH-000734,Liver,PT-s6JoAb,400
+patient_grouped,4,ACH-000739,Liver,PT-qL6HtY,404
+patient_grouped,4,ACH-000749,Lung,PT-d1NyBL,409
+patient_grouped,4,ACH-000764,Esophagus/Stomach,PT-dxw7SI,417
+patient_grouped,4,ACH-000773,Lymphoid,PT-vEVB0H,424
+patient_grouped,4,ACH-000776,CNS/Brain,PT-DtdDWT,425
+patient_grouped,4,ACH-000777,Esophagus/Stomach,PT-kporZQ,426
+patient_grouped,4,ACH-000785,Lung,PT-AOPcW9,432
+patient_grouped,4,ACH-000809,Esophagus/Stomach,PT-zFPWWq,446
+patient_grouped,4,ACH-000819,CNS/Brain,PT-1DyLm0,450
+patient_grouped,4,ACH-000820,Bowel,PT-EteVig,451
+patient_grouped,4,ACH-000832,Head and Neck,PT-JCJHPr,457
+patient_grouped,4,ACH-000835,Soft Tissue,PT-0RBdNq,460
+patient_grouped,4,ACH-000836,Head and Neck,PT-ZS5SNw,461
+patient_grouped,4,ACH-000841,Lung,PT-lYuNel,466
+patient_grouped,4,ACH-000853,Lung,PT-FGrsoV,473
+patient_grouped,4,ACH-000879,Uterus,PT-wMzIqz,487
+patient_grouped,4,ACH-000881,Skin,PT-9PTPLm,489
+patient_grouped,4,ACH-000882,Skin,PT-MRf5jM,490
+patient_grouped,4,ACH-000888,Lung,PT-JWHrxe,492
+patient_grouped,4,ACH-000905,Bladder/Urinary Tract,PT-nC0LDL,502
+patient_grouped,4,ACH-000906,Ovary/Fallopian Tube,PT-rH0cpo,503
+patient_grouped,4,ACH-000914,Lymphoid,PT-zrYGap,509
+patient_grouped,4,ACH-000917,Esophagus/Stomach,PT-2HckVI,511
+patient_grouped,4,ACH-000928,Uterus,PT-C2kgmR,516
+patient_grouped,4,ACH-000936,Ovary/Fallopian Tube,PT-AiIzwN,521
+patient_grouped,4,ACH-000937,Lymphoid,PT-UEq5KV,522
+patient_grouped,4,ACH-000948,Esophagus/Stomach,PT-VDIRwk,531
+patient_grouped,4,ACH-000957,Bowel,PT-FXUrcz,535
+patient_grouped,4,ACH-000961,Uterus,PT-P06fLR,539
+patient_grouped,4,ACH-000974,Uterus,PT-cgXnS7,547
+patient_grouped,4,ACH-001021,Liver,PT-qL6HtY,564
+patient_grouped,4,ACH-001111,Lymphoid,PT-glFbpW,576
+patient_grouped,4,ACH-001151,Ovary/Fallopian Tube,PT-u4FBpq,581
+patient_grouped,4,ACH-001183,Bladder/Urinary Tract,PT-ESM25t,583
+patient_grouped,4,ACH-001184,Soft Tissue,PT-4E3Ck9,584
+patient_grouped,4,ACH-001196,Soft Tissue,PT-9a1vbV,589
+patient_grouped,4,ACH-001205,Bone,PT-eQaQl0,591
+patient_grouped,4,ACH-001278,Ovary/Fallopian Tube,PT-ZkKui4,600
+patient_grouped,4,ACH-001302,Peripheral Nervous System,PT-37DeSd,607
+patient_grouped,4,ACH-001318,Liver,PT-E7izN5,611
+patient_grouped,4,ACH-001333,Cervix,PT-9q6tDV,613
+patient_grouped,4,ACH-001398,Kidney,PT-Xr379n,623
+patient_grouped,4,ACH-001401,Adrenal Gland,PT-7a0mgm,625
+patient_grouped,4,ACH-001421,Eye,PT-WBS2Hf,626
+patient_grouped,4,ACH-001430,Bone,PT-uuajSv,629
+patient_grouped,4,ACH-001442,Skin,PT-QwG6Ej,632
+patient_grouped,4,ACH-001528,Thyroid,PT-1Qm9m0,641
+patient_grouped,4,ACH-001533,Lymphoid,PT-04HLfu,643
+patient_grouped,4,ACH-001547,Pleura,PT-xjKkQm,645
+patient_grouped,4,ACH-001548,Peripheral Nervous System,PT-TA4RrC,646
+patient_grouped,4,ACH-001577,Myeloid,PT-wizE6v,650
+patient_grouped,4,ACH-001608,CNS/Brain,PT-NaLtZ9,653
+patient_grouped,4,ACH-001610,CNS/Brain,PT-WoVaBP,655
+patient_grouped,4,ACH-001611,CNS/Brain,PT-62G0ep,656
+patient_grouped,4,ACH-001649,Prostate,PT-iy858F,665
+patient_grouped,4,ACH-001656,Myeloid,PT-YKJPHt,666
+patient_grouped,4,ACH-001699,Head and Neck,PT-uhmv08,681
+patient_grouped,4,ACH-001711,CNS/Brain,PT-lzKK9W,686
+patient_grouped,4,ACH-001802,Soft Tissue,PT-JmLeEs,698
+patient_grouped,4,ACH-001804,Soft Tissue,PT-0lPf2W,699
+patient_grouped,4,ACH-002016,Eye,PT-MucJf6,718
+patient_grouped,4,ACH-002026,Uterus,PT-cgXnS7,726
+patient_grouped,4,ACH-002030,Head and Neck,PT-f3QT3w,729
+patient_grouped,4,ACH-002055,Lymphoid,PT-tk6NTJ,743
+patient_grouped,4,ACH-002059,Lymphoid,PT-reOMOW,744
+patient_grouped,4,ACH-002084,Skin,PT-Qsi22o,754
+patient_grouped,4,ACH-002214,Lymphoid,PT-83LwGP,756
+patient_grouped,4,ACH-002291,Testis,PT-4gdieL,759
+patient_grouped,4,ACH-002486,Ovary/Fallopian Tube,PT-pyZjZu,775
+patient_grouped,4,ACH-002499,Breast,PT-j6UudO,777
+patient_grouped,4,ACH-002510,Skin,PT-6g2PcW,780
+patient_grouped,4,ACH-002526,Lung,PT-z0Yk96,786
+patient_grouped,4,ACH-002535,Bowel,PT-W0h0s9,790
+patient_grouped,4,ACH-002544,Esophagus/Stomach,PT-3szZZM,792
+patient_grouped,4,ACH-002654,Bowel,PT-anuBoi,795
+patient_grouped,4,ACH-002672,Pancreas,PT-yBlD98,801
+patient_grouped,4,ACH-002709,Myeloid,PT-92FgnG,813
+patient_grouped,4,ACH-002834,Bone,PT-EcUHFc,826
+patient_grouped,4,ACH-002922,Peripheral Nervous System,PT-LKZDpW,828
+patient_grouped,4,ACH-003065,CNS/Brain,PT-eRqT4h,835
+patient_grouped,4,ACH-003171,Bone,PT-i9JRNE,836
+patient_grouped,4,ACH-003184,Soft Tissue,PT-21NMVa,841
+patient_grouped,4,ACH-003190,Soft Tissue,PT-8LUb74,845
+patient_grouped,4,ACH-003573,Bone,PT-s4DSO4,849

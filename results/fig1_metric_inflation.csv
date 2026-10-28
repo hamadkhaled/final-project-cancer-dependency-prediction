@@ -1,0 +1,5 @@
+scheme,arm,pooled,pergene
+patient_grouped,A_lineage,0.7737102302973651,0.1951453221783756
+patient_grouped,E_multiomics,0.7912340947053597,0.350293067713447
+lineage_blocked,A_lineage,0.7488854066265845,-0.1163029223913397
+lineage_blocked,E_multiomics,0.7765671157115637,0.3000312597541211

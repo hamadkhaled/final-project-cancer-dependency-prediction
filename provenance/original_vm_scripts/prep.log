@@ -1,0 +1,15 @@
+[08:52:46] Model.csv
+[08:52:46]   model (2154, 5)
+[08:52:46] CRISPRGeneEffect.csv
+[08:52:48]   CRISPRGeneEffect.csv: scanned 1208 rows, kept 1208
+[08:52:48]   Y (1208, 18531)
+[08:52:48] OmicsExpressionTPMLogp1HumanProteinCodingGenes.csv
+[08:52:51]   OmicsExpressionTPMLogp1HumanProteinCodingGenes.csv: scanned 1775 rows, kept 1719
+[08:52:51]   expr (1719, 19215)
+[08:52:51] OmicsCNGeneWGS.csv
+[08:52:54]   OmicsCNGeneWGS.csv: scanned 1132 rows, kept 1118
+[08:52:54]   cn (1118, 19955)
+[08:52:54] OmicsSomaticMutationsMatrixDamaging.csv
+[08:52:57]   OmicsSomaticMutationsMatrixDamaging.csv: scanned 3044 rows, kept 1968
+[08:52:57]   mut (1968, 19578)
+[08:52:57] DONE in 0.2 min

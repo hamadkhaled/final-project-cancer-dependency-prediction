@@ -1,0 +1,16 @@
+{
+  "audit_date": "2026-10-14",
+  "requirements": {
+    "technical_report": "11-page PDF with problem, literature/context, methods, rationale/contribution, positive/negative results, critical evaluation, insights, references and reproducibility record",
+    "documented_source": "README, dependency list, commented preparation/model/analysis code and step-by-step commands",
+    "runnable_example": "fresh ZIP extraction ran the actual toy pipeline; 240 finite results covering six arms and two evaluations",
+    "toy_data": "six included synthetic CSVs, clearly distinguished from the real findings",
+    "raw_data_link": "official DepMap portal and recorded release link, exact six filenames, SHA-256 checksums and build instructions"
+  },
+  "verification": {
+    "raw_rebuild": "all six processed files byte-identical",
+    "real_model_rerun": "40 targets x six arms x two schemes; close numerical agreement, archived folds used",
+    "saved_prediction_scores": "3924 scores reconstructed from main lineage/fusion predictions; maximum discrepancy about 2.01e-6"
+  },
+  "scope": "Audits the stated deliverables; no promise of grade, full-experiment retraining or clinical validation."
+}

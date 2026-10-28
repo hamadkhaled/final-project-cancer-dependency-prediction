@@ -1,0 +1,26 @@
+[
+  {
+    "scheme": "patient_grouped",
+    "arm": "A_lineage",
+    "genes": 981,
+    "max_absolute_skill_difference_from_saved_predictions": 1.7251333530431817e-06
+  },
+  {
+    "scheme": "patient_grouped",
+    "arm": "E_multiomics",
+    "genes": 981,
+    "max_absolute_skill_difference_from_saved_predictions": 1.472511711286817e-06
+  },
+  {
+    "scheme": "lineage_blocked",
+    "arm": "A_lineage",
+    "genes": 981,
+    "max_absolute_skill_difference_from_saved_predictions": 1.7188483916567854e-06
+  },
+  {
+    "scheme": "lineage_blocked",
+    "arm": "E_multiomics",
+    "genes": 981,
+    "max_absolute_skill_difference_from_saved_predictions": 2.0054351921316993e-06
+  }
+]

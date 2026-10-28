@@ -1,0 +1,100 @@
+{
+  "raw_and_processed_checksums": [
+    {
+      "file": "CRISPRGeneEffect.csv",
+      "sha256": "e610a4cefb13a82b5b256b47eb08b63ff14843f8dbd0fb164bc0a32688e5b89e",
+      "matches": true
+    },
+    {
+      "file": "OmicsExpressionTPMLogp1HumanProteinCodingGenes.csv",
+      "sha256": "0377be80c525fde98cbd2c6e8b06bdf2a4014a9683eb70182c1f8649d711021a",
+      "matches": true
+    },
+    {
+      "file": "OmicsCNGeneWGS.csv",
+      "sha256": "d2fe65b516802fb2b355b953fcc43dcb908840f275e9166c0dbd7defadca8a1d",
+      "matches": true
+    },
+    {
+      "file": "OmicsSomaticMutationsMatrixDamaging.csv",
+      "sha256": "45709b1b842dd6dcd05e504cd42ca977fff760c480c60ff1184c1a5935b595b0",
+      "matches": true
+    },
+    {
+      "file": "Model.csv",
+      "sha256": "ea4e0b2a3bc806f81df62689a5ae75f1a100135727a3d7b8a4c7ccc8815183f8",
+      "matches": true
+    },
+    {
+      "file": "CRISPRInferredCommonEssentials.csv",
+      "sha256": "c21c92c52579182a7c25bcab1f7e9ec0a54cd09d10677f7e0f1e42558303e6c8",
+      "matches": true
+    },
+    {
+      "file": "data/Y.npy",
+      "sha256": "eb045668979d40ccc24e4db97d7c0dac9ab477ad8be70dfcd9f1175b43662104",
+      "matches": true
+    },
+    {
+      "file": "data/expr.npy",
+      "sha256": "b6062327a260a4161c3f291eb500d9cfdb9debe9c0e9154fcb350dcf54489c04",
+      "matches": true
+    },
+    {
+      "file": "data/cn.npy",
+      "sha256": "88fee8215ebfe74e2bc071a588b9c9a18164901efebd65a5a65b1f3d09fd5f8e",
+      "matches": true
+    },
+    {
+      "file": "data/mut.npy",
+      "sha256": "f4929697ac7d4d80656e723d2be5bb33c6701f80497543db93163b3681b54c91",
+      "matches": true
+    },
+    {
+      "file": "data/names.json",
+      "sha256": "58b742ad88d1a21aa58d80d0f679597c60e38608848e46f9087598338e0aca2d",
+      "matches": true
+    },
+    {
+      "file": "data/meta.csv",
+      "sha256": "f7b6b7d798ef1d12394bc6b2f97b542c4c0740669535aeb96e8e6c429528c0e9",
+      "matches": true
+    }
+  ],
+  "raw_rebuild": {
+    "Y.npy": {
+      "byte_identical": true,
+      "sha256": "eb045668979d40ccc24e4db97d7c0dac9ab477ad8be70dfcd9f1175b43662104"
+    },
+    "expr.npy": {
+      "byte_identical": true,
+      "sha256": "b6062327a260a4161c3f291eb500d9cfdb9debe9c0e9154fcb350dcf54489c04"
+    },
+    "cn.npy": {
+      "byte_identical": true,
+      "sha256": "88fee8215ebfe74e2bc071a588b9c9a18164901efebd65a5a65b1f3d09fd5f8e"
+    },
+    "mut.npy": {
+      "byte_identical": true,
+      "sha256": "f4929697ac7d4d80656e723d2be5bb33c6701f80497543db93163b3681b54c91"
+    },
+    "names.json": {
+      "byte_identical": true,
+      "sha256": "58b742ad88d1a21aa58d80d0f679597c60e38608848e46f9087598338e0aca2d"
+    },
+    "meta.csv": {
+      "byte_identical": true,
+      "sha256": "f7b6b7d798ef1d12394bc6b2f97b542c4c0740669535aeb96e8e6c429528c0e9"
+    }
+  },
+  "model_spot_check": {
+    "targets": 40,
+    "arms": 6,
+    "schemes": 2,
+    "rows": 480,
+    "uses_archived_fold_assignments": true,
+    "max_absolute_skill_difference": 2.89323583069212e-06,
+    "max_absolute_spearman_difference": 0.001302666326470095,
+    "full_main_experiment_retrained": false
+  }
+}
