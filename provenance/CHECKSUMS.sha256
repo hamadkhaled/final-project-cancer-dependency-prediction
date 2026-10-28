@@ -1,0 +1,14 @@
+# ---- Raw DepMap source files (computed 2026-10-11 on the downloading machine, ~/Downloads) ----
+e610a4cefb13a82b5b256b47eb08b63ff14843f8dbd0fb164bc0a32688e5b89e  CRISPRGeneEffect.csv                               440646050 bytes
+0377be80c525fde98cbd2c6e8b06bdf2a4014a9683eb70182c1f8649d711021a  OmicsExpressionTPMLogp1HumanProteinCodingGenes.csv  305007605 bytes
+d2fe65b516802fb2b355b953fcc43dcb908840f275e9166c0dbd7defadca8a1d  OmicsCNGeneWGS.csv                                 409005582 bytes
+45709b1b842dd6dcd05e504cd42ca977fff760c480c60ff1184c1a5935b595b0  OmicsSomaticMutationsMatrixDamaging.csv            238819913 bytes
+ea4e0b2a3bc806f81df62689a5ae75f1a100135727a3d7b8a4c7ccc8815183f8  Model.csv                                             697455 bytes
+c21c92c52579182a7c25bcab1f7e9ec0a54cd09d10677f7e0f1e42558303e6c8  CRISPRInferredCommonEssentials.csv                     25021 bytes
+# ---- Derived analysis matrices (data/), produced 2026-10-01 and used by every reported result ----
+eb045668979d40ccc24e4db97d7c0dac9ab477ad8be70dfcd9f1175b43662104  data/Y.npy
+b6062327a260a4161c3f291eb500d9cfdb9debe9c0e9154fcb350dcf54489c04  data/expr.npy
+88fee8215ebfe74e2bc071a588b9c9a18164901efebd65a5a65b1f3d09fd5f8e  data/cn.npy
+f4929697ac7d4d80656e723d2be5bb33c6701f80497543db93163b3681b54c91  data/mut.npy
+58b742ad88d1a21aa58d80d0f679597c60e38608848e46f9087598338e0aca2d  data/names.json
+f7b6b7d798ef1d12394bc6b2f97b542c4c0740669535aeb96e8e6c429528c0e9  data/meta.csv
