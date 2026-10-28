@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="1400" height="850" preserveAspectRatio="xMinYMin meet" viewBox="0 0 1400 850" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="1400" height="850"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-850)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="1400" height="850" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(100%,100%,100%); fill-rule: evenodd;"/>
+			<text x="65" y="785" style="font-family: Helvetica-Bold; font-size: 31px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,1570) scale(1,-1)">Fusion can reduce error—or worsen it while rank correlation rises</text>
+			<text x="65" y="749" style="font-family: Helvetica; font-size: 20px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,1498) scale(1,-1)">S2 lineage-blocked CV · five retrospectively selected examples · expression vs fusion</text>
+			<path d="M 300.588235,178 L 300.588235,647 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="281.2167352941176" y="146" style="font-family: Helvetica; font-size: 17px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,292) scale(1,-1)">-1.25</text>
+			<path d="M 418.235294,178 L 418.235294,647 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="398.863794117647" y="146" style="font-family: Helvetica; font-size: 17px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,292) scale(1,-1)">-1.00</text>
+			<path d="M 535.882353,178 L 535.882353,647 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="516.5108529411765" y="146" style="font-family: Helvetica; font-size: 17px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,292) scale(1,-1)">-0.75</text>
+			<path d="M 653.529412,178 L 653.529412,647 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="634.1579117647059" y="146" style="font-family: Helvetica; font-size: 17px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,292) scale(1,-1)">-0.50</text>
+			<path d="M 771.176471,178 L 771.176471,647 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="751.8049705882353" y="146" style="font-family: Helvetica; font-size: 17px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,292) scale(1,-1)">-0.25</text>
+			<path d="M 888.823529,178 L 888.823529,647 Z" style="stroke: rgb(44%,50%,58%); stroke-linecap: butt; stroke-width: 1.5; stroke-dasharray: 5, 4;"/>
+			<text x="872.2825294117646" y="146" style="font-family: Helvetica; font-size: 17px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,292) scale(1,-1)">0.00</text>
+			<path d="M 1006.470588,178 L 1006.470588,647 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="989.9295882352941" y="146" style="font-family: Helvetica; font-size: 17px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,292) scale(1,-1)">0.25</text>
+			<circle cx="245" cy="681" r="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(17%,43%,63%); fill-rule: evenodd;"/>
+			<text x="262" y="675" style="font-family: Helvetica; font-size: 19px;fill: rgb(17%,43%,63%); stroke:none;" transform="translate(0,1350) scale(1,-1)">Expression</text>
+			<circle cx="414" cy="681" r="7" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;"/>
+			<text x="431" y="675" style="font-family: Helvetica; font-size: 19px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,1350) scale(1,-1)">Fusion</text>
+			<text x="1080.976" y="681" style="font-family: Helvetica; font-size: 18px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,1362) scale(1,-1)">ΔS_mean</text>
+			<text x="1223.483" y="681" style="font-family: Helvetica; font-size: 18px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,1362) scale(1,-1)">Spearman</text>
+			<text x="1240.5455" y="657" style="font-family: Helvetica; font-size: 17px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,1314) scale(1,-1)">B → E</text>
+			<text x="65" y="602" style="font-family: Helvetica-Bold; font-size: 24px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,1204) scale(1,-1)">EPC1</text>
+			<path d="M 266.173129,609 L 881.76789,609 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 5;"/>
+			<circle cx="266.1731289275859" cy="609" r="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(17%,43%,63%); fill-rule: evenodd;"/>
+			<circle cx="881.7678903597327" cy="609" r="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;"/>
+			<text x="243.49312892758587" y="580" style="font-family: Helvetica; font-size: 16px;fill: rgb(17%,43%,63%); stroke:none;" transform="translate(0,1160) scale(1,-1)">-1.323</text>
+			<text x="859.0878903597328" y="625" style="font-family: Helvetica; font-size: 16px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,1250) scale(1,-1)">-0.015</text>
+			<text x="1089.14" y="603" style="font-family: Helvetica-Bold; font-size: 20px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,1206) scale(1,-1)">+1.308</text>
+			<text x="1206.077" y="603" style="font-family: Helvetica; font-size: 18px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,1206) scale(1,-1)">0.135 → 0.183</text>
+			<text x="65" y="513" style="font-family: Helvetica-Bold; font-size: 24px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,1026) scale(1,-1)">WRN</text>
+			<path d="M 577.598737,520 L 958.432817,520 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 5;"/>
+			<circle cx="577.5987370672013" cy="520" r="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(17%,43%,63%); fill-rule: evenodd;"/>
+			<circle cx="958.4328168813788" cy="520" r="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;"/>
+			<text x="554.9187370672014" y="491" style="font-family: Helvetica; font-size: 16px;fill: rgb(17%,43%,63%); stroke:none;" transform="translate(0,982) scale(1,-1)">-0.661</text>
+			<text x="938.4168168813788" y="536" style="font-family: Helvetica; font-size: 16px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,1072) scale(1,-1)">0.148</text>
+			<text x="1089.14" y="514" style="font-family: Helvetica-Bold; font-size: 20px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,1028) scale(1,-1)">+0.809</text>
+			<text x="1206.077" y="514" style="font-family: Helvetica; font-size: 18px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,1028) scale(1,-1)">0.047 → 0.160</text>
+			<text x="65" y="424" style="font-family: Helvetica-Bold; font-size: 24px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,848) scale(1,-1)">NDE1</text>
+			<path d="M 839.799582,431 L 944.9034,431 Z" style="stroke: rgb(3%,49%,51%); stroke-linecap: butt; stroke-width: 5;"/>
+			<circle cx="839.7995824842978" cy="431" r="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(17%,43%,63%); fill-rule: evenodd;"/>
+			<circle cx="944.9034002462744" cy="431" r="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;"/>
+			<text x="817.1195824842979" y="402" style="font-family: Helvetica; font-size: 16px;fill: rgb(17%,43%,63%); stroke:none;" transform="translate(0,804) scale(1,-1)">-0.104</text>
+			<text x="924.8874002462744" y="447" style="font-family: Helvetica; font-size: 16px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,894) scale(1,-1)">0.119</text>
+			<text x="1089.14" y="425" style="font-family: Helvetica-Bold; font-size: 20px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,850) scale(1,-1)">+0.223</text>
+			<text x="1206.077" y="425" style="font-family: Helvetica; font-size: 18px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,850) scale(1,-1)">0.309 → 0.350</text>
+			<text x="65" y="335" style="font-family: Helvetica-Bold; font-size: 24px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,670) scale(1,-1)">IGF1R</text>
+			<path d="M 914.904447,342 L 741.526595,342 Z" style="stroke: rgb(74%,38%,18%); stroke-linecap: butt; stroke-width: 5;"/>
+			<circle cx="914.9044473452313" cy="342" r="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(17%,43%,63%); fill-rule: evenodd;"/>
+			<circle cx="741.5265950043033" cy="342" r="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;"/>
+			<text x="894.8884473452314" y="313" style="font-family: Helvetica; font-size: 16px;fill: rgb(17%,43%,63%); stroke:none;" transform="translate(0,626) scale(1,-1)">0.055</text>
+			<text x="718.8465950043034" y="358" style="font-family: Helvetica; font-size: 16px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,716) scale(1,-1)">-0.313</text>
+			<text x="1091.65" y="336" style="font-family: Helvetica-Bold; font-size: 20px;fill: rgb(74%,38%,18%); stroke:none;" transform="translate(0,672) scale(1,-1)">-0.368</text>
+			<text x="1206.077" y="336" style="font-family: Helvetica; font-size: 18px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,672) scale(1,-1)">0.262 → 0.280</text>
+			<text x="65" y="246" style="font-family: Helvetica-Bold; font-size: 24px;fill: rgb(8%,16%,27%); stroke:none;" transform="translate(0,492) scale(1,-1)">VPS4A</text>
+			<path d="M 985.290269,253 L 869.031579,253 Z" style="stroke: rgb(74%,38%,18%); stroke-linecap: butt; stroke-width: 5;"/>
+			<circle cx="985.2902687989466" cy="253" r="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(17%,43%,63%); fill-rule: evenodd;"/>
+			<circle cx="869.031579479379" cy="253" r="8" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(3%,49%,51%); fill-rule: evenodd;"/>
+			<text x="965.2742687989467" y="224" style="font-family: Helvetica; font-size: 16px;fill: rgb(17%,43%,63%); stroke:none;" transform="translate(0,448) scale(1,-1)">0.205</text>
+			<text x="846.3515794793791" y="269" style="font-family: Helvetica; font-size: 16px;fill: rgb(3%,49%,51%); stroke:none;" transform="translate(0,538) scale(1,-1)">-0.042</text>
+			<text x="1091.65" y="247" style="font-family: Helvetica-Bold; font-size: 20px;fill: rgb(74%,38%,18%); stroke:none;" transform="translate(0,494) scale(1,-1)">-0.247</text>
+			<text x="1206.077" y="247" style="font-family: Helvetica; font-size: 18px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,494) scale(1,-1)">0.436 → 0.446</text>
+			<text x="505.949" y="112" style="font-family: Helvetica; font-size: 19px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,224) scale(1,-1)">Training-mean skill (S_mean)</text>
+			<path d="M 65,87 L 1335,87 Z" style="stroke: rgb(86%,89%,92%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="65" y="59" style="font-family: Helvetica; font-size: 16px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,118) scale(1,-1)">EPC1 has the largest paired gain, yet fusion remains below the training-mean baseline.</text>
+			<text x="65" y="33" style="font-family: Helvetica; font-size: 16px;fill: rgb(44%,50%,58%); stroke:none;" transform="translate(0,66) scale(1,-1)">IGF1R and VPS4A rank slightly better under fusion, but their squared-error skill becomes negative.</text>
+		</g>
+	</g>
+</svg>
