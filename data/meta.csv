@@ -1,0 +1,853 @@
+ModelID,OncotreeLineage,OncotreePrimaryDisease,OncotreeSubtype,DepmapModelType,PatientID,Sex,PrimaryOrMetastasis,AgeCategory
+ACH-000001,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,PT-gj46wT,Female,Metastatic,Adult
+ACH-000004,Myeloid,Acute Myeloid Leukemia,"AML, NOS",AMLNOS,PT-q4K2cp,Male,Primary,Adult
+ACH-000005,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-q4K2cp,Male,,Adult
+ACH-000007,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-NOXwpH,Male,Primary,Adult
+ACH-000009,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-puKIyc,Male,Primary,Adult
+ACH-000011,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-AR7W9o,Male,Metastatic,Adult
+ACH-000012,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-NdspH5,Female,Primary,Adult
+ACH-000013,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,PT-gj46wT,Female,Metastatic,Adult
+ACH-000014,Skin,Melanoma,Melanoma,MEL,PT-fp8PeY,Male,Metastatic,Adult
+ACH-000015,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,PT-ffwajI,Male,Primary,Adult
+ACH-000017,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,PT-8CE6ah,Female,Metastatic,Adult
+ACH-000018,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-Mi0cKz,Female,Primary,Adult
+ACH-000019,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,PT-viJKnw,Female,Metastatic,Adult
+ACH-000021,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-9p1WQv,Female,Metastatic,Adult
+ACH-000022,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-lVglGI,Female,Metastatic,Adult
+ACH-000023,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-lVglGI,Female,Metastatic,Adult
+ACH-000024,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-codP7n,Female,Primary,Adult
+ACH-000025,CNS/Brain,Meningothelial Tumor,Meningioma,MNG,PT-nrgozM,Female,Primary,Adult
+ACH-000028,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,PT-viJKnw,Female,Metastatic,Adult
+ACH-000029,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-NdspH5,Female,Primary,Adult
+ACH-000030,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-nDRyc6,Male,Primary,Adult
+ACH-000035,Lung,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,NSCLC,PT-5LVIPg,Male,Metastatic,Adult
+ACH-000036,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-llPs5J,Male,Primary,Adult
+ACH-000037,Soft Tissue,"Sarcoma, NOS","Sarcoma, NOS",SARCNOS,PT-JfLphU,Female,,Adult
+ACH-000039,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-wGDMGe,Female,Metastatic,Pediatric
+ACH-000040,CNS/Brain,Adult-Type Diffuse Glioma,"Astrocytoma, IDH-Mutant",ASTR,PT-5XnRfQ,Male,Primary,Adult
+ACH-000041,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-3yDaRJ,Male,Primary,Adult
+ACH-000042,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-QOpMVz,Female,Primary,Adult
+ACH-000045,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-zb7Sx0,Male,Primary,Pediatric
+ACH-000048,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Endometrioid Ovarian Cancer,EOV,PT-EehOTC,Female,Primary,Adult
+ACH-000052,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-IAac7b,Female,Primary,Pediatric
+ACH-000053,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Positive,ALCLALKP,PT-nECHHn,Male,,Adult
+ACH-000054,Soft Tissue,Fibrosarcoma,Fibrosarcoma,FIBS,PT-cVfhmE,Male,Metastatic,Adult
+ACH-000060,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-9JMXWA,Male,Primary,Adult
+ACH-000070,Lymphoid,B-Cell Acute Lymphoblastic Leukemia,B-Cell Acute Lymphoblastic Leukemia,BALL,PT-0yrZJC,Male,Primary,Pediatric
+ACH-000074,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,PT-FJahu6,Male,Primary,Adult
+ACH-000075,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-59c3mE,Male,Primary,Adult
+ACH-000076,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,PT-Ugji7b,Female,Primary,Adult
+ACH-000077,Lymphoid,Non-Hodgkin Lymphoma,Mature T and NK Neoplasms,MTNN,PT-brIUSU,Male,,Adult
+ACH-000078,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-Vot01h,Male,Metastatic,Pediatric
+ACH-000082,Bone,Osteosarcoma,Osteosarcoma,OS,PT-noCCE4,Female,Primary,Pediatric
+ACH-000085,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-FnO2p8,Male,Primary,Adult
+ACH-000086,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,PT-nZJ0Fu,Female,,Adult
+ACH-000087,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-VA04Md,Male,Primary,Pediatric
+ACH-000090,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,PT-j0lUB5,Male,Metastatic,Adult
+ACH-000092,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Biphasic Type",PLBMESO,PT-GaubVg,Male,Metastatic,Adult
+ACH-000093,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-X8PfQy,Female,Primary,Adult
+ACH-000095,CNS/Brain,Embryonal Tumor,"Medulloblastoma, Group 3",MBLG3,PT-nsjOrX,Male,Primary,Pediatric
+ACH-000096,Kidney,Rhabdoid Cancer,Rhabdoid Cancer,MRT,PT-ABKGjf,Male,Primary,Pediatric
+ACH-000097,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-k1TO7o,Female,Metastatic,Adult
+ACH-000098,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-HmIANs,Female,Primary,Adult
+ACH-000099,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-JpfhsL,Male,Primary,Pediatric
+ACH-000101,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma,T-Cell Acute Lymphoblastic Leukemia,TALL,PT-6Sunyd,Male,Primary,Adult
+ACH-000108,Pancreas,Adenosquamous Carcinoma of the Pancreas,Adenosquamous Carcinoma of the Pancreas,PAASC,PT-GEVVKA,Male,Metastatic,Adult
+ACH-000111,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-yKJqsn,Female,Primary,Adult
+ACH-000113,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-OA9fna,Male,Primary,Adult
+ACH-000114,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-SNQPtX,Female,Metastatic,Adult
+ACH-000116,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,PT-eqFmWE,Female,Metastatic,Adult
+ACH-000118,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-jYcdmK,Male,Metastatic,Adult
+ACH-000120,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-6jhjWI,Male,Primary,Pediatric
+ACH-000123,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Small Cell Carcinoma of the Ovary,SCCO,PT-hlFfQW,Female,Primary,Adult
+ACH-000127,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-Mi0cKz,Female,Primary,Adult
+ACH-000128,CNS/Brain,Adult-Type Diffuse Glioma,"Astrocytoma, IDH-Mutant",ASTR,PT-mUWSlp,Male,Primary,Adult
+ACH-000132,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,PT-F6NvL5,Female,Primary,Adult
+ACH-000133,Fibroblast,Non-Cancerous,Fibroblast,ZFIB,PT-PvBEqK,Male,Primary,Adult
+ACH-000137,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-WFlL15,Female,Primary,Adult
+ACH-000139,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-rXQo6a,Female,Primary,Adult
+ACH-000141,Biliary Tract,Intracholecystic Papillary Neoplasm,"Gallbladder Adenocarcinoma, NOS",GBAD,PT-iqSI4n,Unknown,Primary,Unknown
+ACH-000142,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-Er9zxL,Female,Primary,Adult
+ACH-000143,Lung,Non-Small Cell Lung Cancer,NUT Carcinoma of the Lung,NUTCL,PT-1M8cz3,Female,Primary,Adult
+ACH-000144,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,PT-n15ylb,Male,Metastatic,Adult
+ACH-000145,Soft Tissue,Leiomyosarcoma,Leiomyosarcoma,LMS,PT-LH2axx,Female,Primary,Adult
+ACH-000146,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-Sv45MF,Male,Primary,Pediatric
+ACH-000147,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-9WkxWW,Female,Metastatic,Adult
+ACH-000148,Breast,Invasive Breast Carcinoma,"Breast Invasive Carcinoma, NOS",BRCNOS,PT-sW6DWH,Female,Primary,Adult
+ACH-000151,Lymphoid,B-Cell Acute Lymphoblastic Leukemia,B-Cell Acute Lymphoblastic Leukemia,BALL,PT-t7KWtB,Male,Primary,Pediatric
+ACH-000152,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-DK2CQc,Male,Primary,Adult
+ACH-000153,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Sarcomatoid Type",PLSMESO,PT-TexA3V,Male,Metastatic,Adult
+ACH-000155,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-qPqCUF,Male,Primary,Adult
+ACH-000159,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,PT-T2g8EU,Male,Primary,Adult
+ACH-000160,CNS/Brain,Embryonal Tumor,Atypical Teratoid/Rhabdoid Tumor,ATRT,PT-0GrZ0k,Female,Primary,Pediatric
+ACH-000163,Head and Neck,Head and Neck Squamous Cell Carcinoma,Head and Neck Squamous Cell Carcinoma,HNSC,PT-llVV5F,Male,Primary,Adult
+ACH-000164,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-cHU83i,Male,Primary,Adult
+ACH-000167,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-ghtKEp,Male,Metastatic,Adult
+ACH-000168,Myeloid,Acute Myeloid Leukemia,Acute Monoblastic/Monocytic Leukemia,AMOL,PT-FTVcJW,Female,Primary,Adult
+ACH-000169,Soft Tissue,Rhabdomyosarcoma,Embryonal Rhabdomyosarcoma,ERMS,PT-TG4t9c,Female,Primary,Pediatric
+ACH-000172,Soft Tissue,Rhabdoid Cancer,Extrarenal Rhabdoid Cancer,ERT,PT-o2d0Va,Male,Metastatic,Pediatric
+ACH-000174,Thyroid,Anaplastic Thyroid Cancer,Anaplastic Thyroid Cancer,THAP,PT-dTkV2T,Female,Primary,Adult
+ACH-000182,Ampulla of Vater,Ampullary Carcinoma,Ampullary Carcinoma,AMPCA,PT-n4Jzz1,Unknown,Primary,Unknown
+ACH-000183,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-T1yBnE,Female,Primary,Adult
+ACH-000187,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-bfVDxm,Male,Primary,Adult
+ACH-000188,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-Iz4kXj,Male,Primary,Adult
+ACH-000189,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,PT-yDBvIq,Male,Primary,Unknown
+ACH-000190,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-YCDBvf,Male,,Adult
+ACH-000191,Thyroid,Anaplastic Thyroid Cancer,Anaplastic Thyroid Cancer,THAP,PT-Lc6cyf,Female,Metastatic,Adult
+ACH-000192,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-Vhzgp5,Female,Primary,Adult
+ACH-000195,Myeloid,Acute Myeloid Leukemia,"AML, NOS",AMLNOS,PT-ZJgxZb,Female,,Adult
+ACH-000198,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-FYT6ze,Male,Primary,Adult
+ACH-000200,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-bkGAPG,Female,Primary,Unknown
+ACH-000202,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-UB7otW,Female,Primary,Adult
+ACH-000203,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-9PJrBN,Female,Metastatic,Pediatric
+ACH-000204,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-gN5ZVQ,Female,Primary,Adult
+ACH-000206,Lymphoid,Non-Cancerous,"Transformed cell line, B lymphoblast",ZTRABL,PT-vEZ2Aw,Male,,Fetus
+ACH-000207,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oropharynx Squamous Cell Carcinoma,OPHSC,PT-5QKbtV,Female,Metastatic,Unknown
+ACH-000210,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-L8aHyf,Female,Metastatic,Adult
+ACH-000211,CNS/Brain,Embryonal Tumor,"Medulloblastoma, NOS",MBLNOS,PT-5fvUg8,Male,Primary,Pediatric
+ACH-000212,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,PT-y6HadC,Female,Metastatic,Adult
+ACH-000215,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-G8e35b,Male,Primary,Adult
+ACH-000216,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,PT-Y4syw7,Male,,Adult
+ACH-000217,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-YfFi4d,Female,Primary,Adult
+ACH-000219,Skin,Melanoma,Melanoma,MEL,PT-3FxmoJ,Female,Primary,Adult
+ACH-000221,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-7v9ThA,Male,Primary,Adult
+ACH-000222,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-y5xucl,Female,Metastatic,Adult
+ACH-000223,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-Vntr9y,Female,Primary,Adult
+ACH-000226,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Positive,ALCLALKP,PT-ktST3K,Female,,Pediatric
+ACH-000227,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-N9Xbr1,Male,Metastatic,Pediatric
+ACH-000228,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-HX0QLG,Male,Primary,Unknown
+ACH-000231,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-nIom71,Female,Primary,Adult
+ACH-000232,CNS/Brain,Adult-Type Diffuse Glioma,"Astrocytoma, IDH-Mutant",ASTR,PT-88IC1n,Male,Primary,Adult
+ACH-000233,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Positive,ALCLALKP,PT-zshCzw,Male,,Pediatric
+ACH-000234,Kidney,Renal Cell Carcinoma,Papillary Renal Cell Carcinoma,PRCC,PT-A9d4DI,Male,Primary,Adult
+ACH-000235,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-zLTXv3,Male,Primary,Adult
+ACH-000237,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Mucinous Ovarian Cancer,MOV,PT-wwKJYr,Female,Primary,Adult
+ACH-000238,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-Kf5TA3,Male,Primary,Adult
+ACH-000243,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-dLpuzD,Female,Primary,Adult
+ACH-000244,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-9fPvh2,Female,Primary,Adult
+ACH-000247,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Diffuse Type Stomach Adenocarcinoma,DSTAD,PT-JKf5mS,Female,Metastatic,Adult
+ACH-000248,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,PT-8CE6ah,Female,Metastatic,Adult
+ACH-000249,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-hYUBUD,Male,Primary,Unknown
+ACH-000250,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,PT-66upm1,Unknown,Primary,Unknown
+ACH-000251,Lung,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,NSCLC,PT-l5gD1h,Male,Primary,Adult
+ACH-000253,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-BLAWlD,Male,Metastatic,Adult
+ACH-000256,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,PT-qexSkk,Female,Metastatic,Unknown
+ACH-000257,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-7LsK3v,Male,Metastatic,Adult
+ACH-000258,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,PT-XTyUEa,Female,Metastatic,Adult
+ACH-000259,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-S07K7h,Female,Primary,Pediatric
+ACH-000260,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-7WPGtR,Female,Metastatic,Pediatric
+ACH-000261,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-9jciof,Male,Metastatic,Unknown
+ACH-000262,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,PT-BYKJeS,Female,Primary,Unknown
+ACH-000263,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-uzWVHa,Male,Primary,Pediatric
+ACH-000264,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-T9nCW5,Female,Metastatic,Adult
+ACH-000265,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-o1wR3t,Male,Metastatic,Adult
+ACH-000272,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,PT-cSAYbR,Unknown,Primary,Unknown
+ACH-000273,CNS/Brain,Diffuse Glioma,Gliosarcoma,GSARC,PT-qWYBLI,Female,Primary,Adult
+ACH-000276,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-S4bLNM,Female,Primary,Adult
+ACH-000277,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-osxHUh,Female,Primary,Adult
+ACH-000278,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,PT-BexFYH,Female,Metastatic,Unknown
+ACH-000279,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-BpX01U,Unknown,Primary,Pediatric
+ACH-000280,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,"Brenner Tumor, Malignant",BTMOV,PT-S0isOw,Female,Primary,Adult
+ACH-000281,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-aIUMLY,Female,Primary,Adult
+ACH-000286,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,PT-eQWzKj,Female,Primary,Adult
+ACH-000288,Breast,Invasive Breast Carcinoma,"Breast Invasive Carcinoma, NOS",BRCNOS,PT-hgWgpg,Female,Primary,Adult
+ACH-000290,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-DzY90c,Male,Metastatic,Adult
+ACH-000291,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,PT-MtLxSF,Female,Metastatic,Adult
+ACH-000292,Lung,SMARCA4-deficient undifferentiated tumor,SMARCA4-deficient undifferentiated tumor,SMARCA4-UT,PT-x8fAhk,Male,Metastatic,Adult
+ACH-000293,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-tjaCAG,Female,Primary,Adult
+ACH-000295,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,PT-PfwDZx,Female,,Pediatric
+ACH-000299,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-OEqvYu,Female,Primary,Adult
+ACH-000302,Uterus,Endometrial Carcinoma,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,UCS,PT-SeH5WZ,Female,Primary,Adult
+ACH-000304,Skin,Melanoma,Melanoma,MEL,PT-JAyPtz,Female,Metastatic,Adult
+ACH-000307,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-rg0sYD,Male,Metastatic,Unknown
+ACH-000308,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,PT-cdCVJ4,Female,Metastatic,Adult
+ACH-000310,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-2Urqss,Male,Metastatic,Pediatric
+ACH-000311,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-6IoG5q,Female,Metastatic,Adult
+ACH-000312,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-k4Daz3,Male,Metastatic,Pediatric
+ACH-000313,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,PT-Hd1kAu,Male,Primary,Adult
+ACH-000315,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,PT-lrPA2x,Female,Metastatic,Adult
+ACH-000316,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-f7BtKr,Male,Primary,Adult
+ACH-000317,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,PT-ARX9yV,Male,Primary,Unknown
+ACH-000318,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-8hgOdH,Male,Primary,Adult
+ACH-000319,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,PT-5z2CJx,Male,,Adult
+ACH-000320,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-tXqEg0,Male,Primary,Adult
+ACH-000322,Skin,Melanoma,Melanoma,MEL,PT-czDcsE,Male,Metastatic,Adult
+ACH-000323,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-PE7kNG,Male,Primary,Adult
+ACH-000324,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Clear Cell Ovarian Cancer,CCOV,PT-CrEQoF,Female,Primary,Adult
+ACH-000325,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,PT-Du1wuZ,Female,Metastatic,Adult
+ACH-000326,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,PT-mEKuqA,Male,Primary,Adult
+ACH-000329,CNS/Brain,Adult-Type Diffuse Glioma,"Astrocytoma, IDH-Mutant",ASTR,PT-GKdkIC,Female,Primary,Adult
+ACH-000330,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-ykXL80,Female,Metastatic,Adult
+ACH-000331,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,PT-ThvuiE,Male,,Adult
+ACH-000332,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-Lio3jT,Male,Metastatic,Adult
+ACH-000334,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,PT-mgfMcU,Male,Metastatic,Adult
+ACH-000335,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Biphasic Type",PLBMESO,PT-MFqmhR,Male,Metastatic,Adult
+ACH-000336,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-0F4qCF,Male,Primary,Adult
+ACH-000337,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-0fXDWz,Male,Primary,Unknown
+ACH-000338,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Positive,ALCLALKP,PT-khOMVk,Male,Primary,Pediatric
+ACH-000341,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-I4N9IW,Male,Metastatic,Pediatric
+ACH-000343,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-6ukZx4,Male,Primary,Adult
+ACH-000344,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Diffuse Type Stomach Adenocarcinoma,DSTAD,PT-KDacEe,Male,Metastatic,Adult
+ACH-000345,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-LZIxuV,Female,Metastatic,Pediatric
+ACH-000348,Skin,Melanoma,Melanoma,MEL,PT-xMEDHc,Female,Metastatic,Adult
+ACH-000350,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-j0XD5z,Male,Metastatic,Adult
+ACH-000352,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,PT-jBpXJh,Female,Metastatic,Adult
+ACH-000354,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-MDCOET,Male,Metastatic,Adult
+ACH-000355,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-TQn0DO,Male,Metastatic,Adult
+ACH-000356,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Diffuse Type Stomach Adenocarcinoma,DSTAD,PT-cE9wYI,Female,Metastatic,Adult
+ACH-000359,Bone,Osteosarcoma,Osteosarcoma,OS,PT-qWqYVi,Male,Primary,Pediatric
+ACH-000361,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-sPLV6L,Male,Metastatic,Adult
+ACH-000362,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-H3wdRq,Male,Primary,Adult
+ACH-000363,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-35DpVF,Male,Primary,Adult
+ACH-000364,Bone,Osteosarcoma,Osteosarcoma,OS,PT-WN1oZd,Female,Primary,Pediatric
+ACH-000365,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,PT-I24dRR,Male,Metastatic,Adult
+ACH-000366,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-lIgcxS,Female,Metastatic,Pediatric
+ACH-000367,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,PT-hfcpvz,Male,Metastatic,Unknown
+ACH-000368,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-U0kXHW,Male,Primary,Adult
+ACH-000370,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-HHIjR4,Male,Primary,Adult
+ACH-000371,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,PT-B4jW32,Male,Metastatic,Adult
+ACH-000373,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-8qF7hQ,Male,Primary,Adult
+ACH-000374,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-UPBMOO,Female,Primary,Adult
+ACH-000375,Kidney,Rhabdoid Cancer,Rhabdoid Cancer,MRT,PT-U7nXm3,Female,Primary,Pediatric
+ACH-000376,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-O9gP17,Female,Primary,Adult
+ACH-000377,Ampulla of Vater,Ampullary Carcinoma,Ampullary Carcinoma,AMPCA,PT-gf9GtH,Unknown,Primary,Unknown
+ACH-000378,Lung,Non-Small Cell Lung Cancer,Lung Adenosquamous Carcinoma,LUAS,PT-svCGFs,Male,Metastatic,Adult
+ACH-000381,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-3aeu41,Male,Metastatic,Adult
+ACH-000383,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,PT-MSH6ZN,Female,Primary,Adult
+ACH-000385,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,PT-uqel7p,Female,Primary,Adult
+ACH-000387,Myeloid,Acute Myeloid Leukemia,"AML, NOS",AMLNOS,PT-JUL0sC,Male,,Adult
+ACH-000389,CNS/Brain,Adult-Type Diffuse Glioma,"Astrocytoma, IDH-Mutant",ASTR,PT-9RF4Fl,Male,Primary,Adult
+ACH-000390,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-gDZo34,Male,Primary,Adult
+ACH-000391,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-APr9xS,Male,Metastatic,Pediatric
+ACH-000393,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-saZI6H,Male,Primary,Adult
+ACH-000395,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-mQfWto,Male,Primary,Unknown
+ACH-000397,Uterus,Endometrial Carcinoma,Uterine Clear Cell Carcinoma,UCCC,PT-lpuBPT,Female,Primary,Adult
+ACH-000401,Skin,Melanoma,Cutaneous Melanoma,SKCM,PT-hf4hbl,Male,Metastatic,Pediatric
+ACH-000402,Lymphoid,Mature B-Cell Neoplasms,Burkitt Lymphoma,BL,PT-ieu86J,Male,,Pediatric
+ACH-000403,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-cabct5,Male,Metastatic,Adult
+ACH-000405,Lymphoid,Mature B-Cell Neoplasms,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma,CLLSLL,PT-2VMIkL,Male,,Adult
+ACH-000406,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-ZwaNYv,Male,Metastatic,Adult
+ACH-000407,Uterus,Endometrial Carcinoma,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,UCS,PT-iaJKdg,Female,Primary,Adult
+ACH-000408,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-Tt9e9T,Female,,Adult
+ACH-000410,Bone,Osteosarcoma,Osteosarcoma,OS,PT-mOrUlf,Female,Primary,Pediatric
+ACH-000411,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,PT-Kwk2bU,Female,Primary,Adult
+ACH-000415,Head and Neck,Head and Neck Squamous Cell Carcinoma,Hypopharynx Squamous Cell Carcinoma,HPHSC,PT-Typnjw,Male,Primary,Unknown
+ACH-000416,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-YdBNCw,Male,Metastatic,Adult
+ACH-000417,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-9CcA8P,Male,Primary,Adult
+ACH-000420,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-zjdwU2,Male,Primary,Adult
+ACH-000421,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,PT-M67oxD,Male,Primary,Adult
+ACH-000422,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-UjP297,Male,Primary,Adult
+ACH-000424,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-BIG8te,Male,Primary,Adult
+ACH-000427,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Tubular Stomach Adenocarcinoma,TSTAD,PT-e4bHZ8,Male,Metastatic,Unknown
+ACH-000431,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-5l8uJX,Male,Metastatic,Adult
+ACH-000433,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,PT-0UOmyW,Male,Metastatic,Adult
+ACH-000435,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-HWnYva,Female,Metastatic,Adult
+ACH-000437,CNS/Brain,Adult-Type Diffuse Glioma,"Astrocytoma, IDH-Mutant",ASTR,PT-uhtVUf,Male,Primary,Adult
+ACH-000438,Lung,Non-Small Cell Lung Cancer,Giant Cell Carcinoma of the Lung,GCLC,PT-DJtGj2,Male,Primary,Adult
+ACH-000441,Skin,Melanoma,Melanoma,MEL,PT-wx4HmM,Female,Metastatic,Adult
+ACH-000444,Lung,Non-Small Cell Lung Cancer,Giant Cell Carcinoma of the Lung,GCLC,PT-IpPvfc,Male,Metastatic,Adult
+ACH-000445,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-N1UIhD,Male,Primary,Adult
+ACH-000448,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-3icxN1,Female,Metastatic,Adult
+ACH-000450,Skin,Melanoma,Melanoma,MEL,PT-tIdwwm,Female,Primary,Unknown
+ACH-000452,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-xIsO4O,Male,,Adult
+ACH-000454,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-u7ecNk,Male,Metastatic,Adult
+ACH-000455,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-XOGcZJ,Male,Primary,Adult
+ACH-000456,Thyroid,Poorly Differentiated Thyroid Cancer,Poorly Differentiated Thyroid Cancer,THPD,PT-UFvK3A,Female,Primary,Adult
+ACH-000460,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,PT-OIFKmV,Female,Metastatic,Adult
+ACH-000461,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Extrahepatic Cholangiocarcinoma,EHCH,PT-1PHTgt,Unknown,Primary,Unknown
+ACH-000463,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,PT-gfHIRD,Male,Metastatic,Unknown
+ACH-000464,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-3nLBts,Male,Primary,Adult
+ACH-000466,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Tubular Stomach Adenocarcinoma,TSTAD,PT-IGNlGv,Female,Metastatic,Adult
+ACH-000468,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-Ej6iPJ,Unknown,Primary,Unknown
+ACH-000469,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-hzuTX4,Male,Primary,Adult
+ACH-000470,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,PT-XPa83T,Female,Primary,Adult
+ACH-000471,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-6EhW80,Male,Primary,Adult
+ACH-000473,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-ESM25t,Female,Primary,Unknown
+ACH-000475,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-fHVhJI,Male,Primary,Adult
+ACH-000476,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-UVxXgl,Male,Primary,Adult
+ACH-000477,Skin,Melanoma,Melanoma,MEL,PT-A0Pe6P,Male,Metastatic,Adult
+ACH-000478,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-KvGBYp,Female,Primary,Adult
+ACH-000479,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-hM3DN4,Male,Primary,Adult
+ACH-000480,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-cw7s0S,Male,Primary,Adult
+ACH-000481,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-CazMr1,Male,Primary,Unknown
+ACH-000483,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-YTIYsu,Male,Primary,Adult
+ACH-000484,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,PT-BHz6vU,Male,Primary,Unknown
+ACH-000486,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-W6AZYO,Female,Primary,Adult
+ACH-000487,Myeloid,Acute Myeloid Leukemia,"AML, NOS",AMLNOS,PT-fzbPIv,Male,Metastatic,Adult
+ACH-000488,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-wdkGZi,Male,Primary,Adult
+ACH-000490,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,PT-Ag8pMW,Female,Metastatic,Adult
+ACH-000493,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-nNGWmq,Male,Primary,Adult
+ACH-000496,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-5umTu0,Male,Metastatic,Adult
+ACH-000498,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-pWs9uO,Male,,Adult
+ACH-000499,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-m8xCzo,Male,Primary,Pediatric
+ACH-000500,Head and Neck,Head and Neck Squamous Cell Carcinoma,Larynx Squamous Cell Carcinoma,LXSC,PT-7wjU8J,Male,,Adult
+ACH-000502,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-HGOuqa,Female,Metastatic,Adult
+ACH-000503,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-9uZV0s,Male,Primary,Unknown
+ACH-000504,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-YFHa1n,Female,Primary,Adult
+ACH-000505,Soft Tissue,Leiomyosarcoma,Leiomyosarcoma,LMS,PT-yLm1aj,Female,Primary,Adult
+ACH-000507,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,PT-6nN2YI,Male,Metastatic,Adult
+ACH-000510,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,PT-7qWq2K,Male,Metastatic,Adult
+ACH-000511,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-R4QjAn,Male,Metastatic,Adult
+ACH-000514,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-Jj10yy,Male,Metastatic,Adult
+ACH-000515,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-BuE22y,Male,Metastatic,Adult
+ACH-000516,Bone,Chondrosarcoma,Dedifferentiated Chondrosarcoma,DDCHS,PT-gEiUjw,Male,,Adult
+ACH-000517,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-V7OSXp,Male,Metastatic,Adult
+ACH-000520,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,PT-tv8Ku2,Female,Metastatic,Adult
+ACH-000521,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-hEuGfg,Male,Metastatic,Unknown
+ACH-000522,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-sPPqcj,Male,Primary,Unknown
+ACH-000524,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,PT-6ZFCGi,Female,Metastatic,Unknown
+ACH-000525,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-NNs10U,Male,Metastatic,Adult
+ACH-000527,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Clear Cell Ovarian Cancer,CCOV,PT-oYazft,Female,Metastatic,Adult
+ACH-000528,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-id2eBb,Male,Metastatic,Adult
+ACH-000532,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,PT-663aNr,Male,Metastatic,Adult
+ACH-000533,Kidney,Rhabdoid Cancer,Rhabdoid Cancer,MRT,PT-x2jmX9,Male,,Pediatric
+ACH-000535,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-xfjEoE,Female,Primary,Adult
+ACH-000537,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-CLc6my,Male,Primary,Adult
+ACH-000541,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-K9dsbf,Female,Primary,Adult
+ACH-000542,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,PT-0hMOxQ,Female,Metastatic,Unknown
+ACH-000544,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-SDTBu5,Male,Primary,Adult
+ACH-000545,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-LSFu4z,Male,Primary,Unknown
+ACH-000547,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-Tid1hK,Male,Primary,Adult
+ACH-000548,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-p0K5QM,Male,Primary,Adult
+ACH-000550,Skin,Melanoma,Melanoma,MEL,PT-Wg8rkx,Male,Primary,Adult
+ACH-000551,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,PT-y8u0p3,Female,Metastatic,Adult
+ACH-000552,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-sF39aT,Female,Primary,Adult
+ACH-000554,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,ILC,PT-i8kZN9,Female,Primary,Adult
+ACH-000557,Myeloid,Acute Myeloid Leukemia,AML with Myelodysplasia-Related Changes,AMLMRC,PT-CVf0Wr,Female,Primary,Pediatric
+ACH-000559,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-xIjoai,Male,Primary,Adult
+ACH-000570,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-mxsdQX,Female,Primary,Adult
+ACH-000573,Breast,Invasive Breast Carcinoma,"Breast Invasive Carcinoma, NOS",BRCNOS,PT-aOGEYV,Female,Metastatic,Adult
+ACH-000576,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-EvS9IW,Male,Primary,Adult
+ACH-000579,Skin,Melanoma,Melanoma,MEL,PT-KoNkGk,Unknown,Primary,Unknown
+ACH-000580,Skin,Melanoma,Melanoma,MEL,PT-Dlqu1U,Male,Primary,Adult
+ACH-000581,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,PT-NDi54R,Female,Metastatic,Adult
+ACH-000583,Lymphoid,Non-Hodgkin Lymphoma,Mature B-Cell Neoplasms,MBN,PT-Lrf7XT,Male,,Unknown
+ACH-000585,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-HU0uli,Male,Primary,Adult
+ACH-000587,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-HkdFKw,Female,Primary,Unknown
+ACH-000588,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-wXGfqR,Male,Primary,Adult
+ACH-000589,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-KKsvGZ,Male,Metastatic,Adult
+ACH-000592,CNS/Brain,Adult-Type Diffuse Glioma,"Astrocytoma, IDH-Mutant",ASTR,PT-ruaWWk,Female,Primary,Adult
+ACH-000593,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-SQ6fkx,Female,Primary,Adult
+ACH-000595,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-jhnjmL,Female,Primary,Adult
+ACH-000596,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,PT-9Zamyo,Male,Primary,Adult
+ACH-000599,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-cDj854,Female,Primary,Adult
+ACH-000601,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-EzM7Ui,Male,Primary,Adult
+ACH-000602,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-JpUzYa,Female,,Pediatric
+ACH-000605,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-4Pwq3T,Male,,Adult
+ACH-000607,Kidney,Rhabdoid Cancer,Rhabdoid Cancer,MRT,PT-UnVDKb,Male,Primary,Pediatric
+ACH-000608,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Mucinous Ovarian Cancer,MOV,PT-lr2HyG,Female,Primary,Unknown
+ACH-000614,Skin,Melanoma,Melanoma,MEL,PT-Zy2EsL,Male,Metastatic,Adult
+ACH-000616,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,PT-8WpAkT,Male,Metastatic,Adult
+ACH-000618,Head and Neck,Head and Neck Squamous Cell Carcinoma,Hypopharynx Squamous Cell Carcinoma,HPHSC,PT-BJe5Qe,Male,,Adult
+ACH-000620,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-JMO4rY,Male,Primary,Adult
+ACH-000621,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-ER2PWK,Female,Metastatic,Adult
+ACH-000622,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-25ATIE,Male,Primary,Pediatric
+ACH-000623,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-llEy7t,Male,Primary,Adult
+ACH-000624,Breast,Breast Ductal Carcinoma In Situ,Breast Ductal Carcinoma In Situ,DCIS,PT-j1ziCB,Female,Primary,Adult
+ACH-000627,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,PT-Rd3J4D,Male,Metastatic,Adult
+ACH-000630,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-uty9xg,Female,,Adult
+ACH-000632,Skin,Melanoma,Cutaneous Melanoma,SKCM,PT-CeiJLF,Male,Metastatic,Adult
+ACH-000633,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Diffuse Type Stomach Adenocarcinoma,DSTAD,PT-zUYVjw,Female,Primary,Adult
+ACH-000634,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-FYoibe,Male,Primary,Adult
+ACH-000637,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-bnLm4Y,Female,Primary,Adult
+ACH-000639,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-PkJ80f,Female,Metastatic,Adult
+ACH-000645,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,PT-igc1W1,Male,Primary,Adult
+ACH-000647,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-bxGrwa,Male,Primary,Adult
+ACH-000648,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,PT-pVwyuS,Male,Metastatic,Adult
+ACH-000649,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,PT-4QH2lI,Male,Primary,Adult
+ACH-000651,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-IPboWn,Male,Metastatic,Adult
+ACH-000652,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-ETHfq8,Male,Metastatic,Adult
+ACH-000653,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-vA8rQh,Female,Primary,Adult
+ACH-000654,Lymphoid,Non-Hodgkin Lymphoma,Non-Hodgkin Lymphoma,NHL,PT-WEYO1e,Male,Primary,Pediatric
+ACH-000655,CNS/Brain,Adult-Type Diffuse Glioma,"Astrocytoma, IDH-Mutant",ASTR,PT-ZQKvHU,Male,Primary,Adult
+ACH-000657,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Endometrioid Ovarian Cancer,EOV,PT-ug3gCf,Female,Primary,Unknown
+ACH-000661,Skin,Melanoma,Melanoma,MEL,PT-VxRt2m,Male,Primary,Unknown
+ACH-000662,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,PT-S1tr6I,Male,Metastatic,Adult
+ACH-000663,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Clear Cell Ovarian Cancer,CCOV,PT-kymkHN,Female,Metastatic,Adult
+ACH-000664,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Positive,ALCLALKP,PT-jm7IYN,Male,,Pediatric
+ACH-000665,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-41lHFE,Male,Metastatic,Adult
+ACH-000666,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-ELrBOm,Male,Metastatic,Adult
+ACH-000667,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-uY17tx,Female,Primary,Adult
+ACH-000668,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-3DyHhv,Female,Primary,Adult
+ACH-000671,Liver,Hepatoblastoma,Hepatoblastoma,LIHB,PT-TtIXsL,Male,Primary,Pediatric
+ACH-000673,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-6DJ7vB,Female,Primary,Unknown
+ACH-000676,Skin,Melanoma,Melanoma,MEL,PT-iObwE0,Unknown,Unknown,Unknown
+ACH-000681,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-cqv92I,Male,Primary,Adult
+ACH-000682,Head and Neck,Head and Neck Squamous Cell Carcinoma,Larynx Squamous Cell Carcinoma,LXSC,PT-Svdo1R,Male,,Adult
+ACH-000683,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,PT-O04gFy,Male,Metastatic,Adult
+ACH-000684,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,PT-wbA1oa,Male,Primary,Adult
+ACH-000688,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Mixed Ovarian Carcinoma,MXOV,PT-iVAxAa,Female,Primary,Adult
+ACH-000693,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-mOm35A,Male,Primary,Adult
+ACH-000694,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-bNO06l,Male,Metastatic,Adult
+ACH-000696,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,PT-AlUnJX,Female,Primary,Adult
+ACH-000697,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,PT-T19rUu,Female,Primary,Adult
+ACH-000698,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-ERlBcq,Male,Primary,Adult
+ACH-000699,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-8MisfZ,Female,Primary,Adult
+ACH-000700,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-o9axOH,Female,Primary,Adult
+ACH-000701,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Mucinous Ovarian Cancer,MOV,PT-ColGZ0,Female,Primary,Adult
+ACH-000704,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,PT-9pirK7,Female,Metastatic,Adult
+ACH-000706,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-srkn4o,Male,Primary,Unknown
+ACH-000709,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,PT-TF1Jzt,Male,Primary,Adult
+ACH-000711,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-K0vetf,Female,Metastatic,Adult
+ACH-000713,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,PT-FQOeFS,Female,Primary,Adult
+ACH-000714,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-KR5FTA,Female,Primary,Adult
+ACH-000716,Thyroid,Well-Differentiated Thyroid Cancer,Follicular Thyroid Cancer,THFO,PT-EhboSJ,Male,Primary,Adult
+ACH-000718,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-8wDCNH,Male,Metastatic,Unknown
+ACH-000719,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Clear Cell Ovarian Cancer,CCOV,PT-bnZfQQ,Female,Metastatic,Adult
+ACH-000720,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-ACqBkd,Female,Primary,Adult
+ACH-000721,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-tXW4rS,Female,Metastatic,Adult
+ACH-000724,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-B0Dqk6,Female,Primary,Adult
+ACH-000725,Breast,Breast Ductal Carcinoma In Situ,Breast Ductal Carcinoma In Situ,DCIS,PT-gUhFHU,Female,Primary,Adult
+ACH-000732,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-mK3rFG,Female,Primary,Adult
+ACH-000734,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-s6JoAb,Male,Primary,Adult
+ACH-000735,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-M3R2ei,Male,Primary,Adult
+ACH-000736,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Signet Ring Cell Carcinoma of the Stomach,SSRCC,PT-2GXHBV,Male,Metastatic,Adult
+ACH-000738,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-8oCN4x,Male,Primary,Adult
+ACH-000739,Liver,Hepatoblastoma,Hepatoblastoma,LIHB,PT-qL6HtY,Male,Primary,Pediatric
+ACH-000740,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-T4PL7e,Male,Primary,Adult
+ACH-000746,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,PT-dpLnUY,Male,Metastatic,Adult
+ACH-000747,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-CmsNht,Male,Primary,Adult
+ACH-000748,Bone,Osteosarcoma,Osteosarcoma,OS,PT-OexHxF,Male,Primary,Adult
+ACH-000749,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-d1NyBL,Female,Metastatic,Adult
+ACH-000753,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-Jv3gwf,Male,Metastatic,Adult
+ACH-000754,Lymphoid,Hodgkin Lymphoma,Hodgkin Lymphoma,HL,PT-Pi0OS5,Female,,Adult
+ACH-000756,CNS/Brain,Diffuse Glioma,Gliosarcoma,GSARC,PT-cJo3y3,Male,Primary,Adult
+ACH-000758,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Tubular Stomach Adenocarcinoma,TSTAD,PT-T2KFTw,Male,Metastatic,Adult
+ACH-000760,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-zboiLS,Male,Primary,Adult
+ACH-000762,Head and Neck,Head and Neck Squamous Cell Carcinoma,Head and Neck Squamous Cell Carcinoma,HNSC,PT-M2rHki,Male,,Adult
+ACH-000763,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-wvxTew,Female,Primary,Adult
+ACH-000764,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Mucinous Stomach Adenocarcinoma,MSTAD,PT-dxw7SI,Unknown,Primary,Unknown
+ACH-000766,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-wZGKqJ,Male,Metastatic,Adult
+ACH-000767,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-1nXRn7,Male,Metastatic,Adult
+ACH-000768,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,PT-pYG6Rc,Female,Metastatic,Adult
+ACH-000769,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-U2PG43,Male,Primary,Adult
+ACH-000770,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-7N6azV,Male,,Pediatric
+ACH-000771,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-59aO2P,Female,Primary,Unknown
+ACH-000773,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Positive,ALCLALKP,PT-vEVB0H,Male,,Pediatric
+ACH-000776,CNS/Brain,Embryonal Tumor,"Medulloblastoma, NOS",MBLNOS,PT-DtdDWT,Female,Primary,Pediatric
+ACH-000777,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-kporZQ,Male,Primary,Adult
+ACH-000778,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-XJviYz,Male,Metastatic,Adult
+ACH-000781,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-CKs1VS,Male,Metastatic,Adult
+ACH-000782,Lymphoid,B-Cell Acute Lymphoblastic Leukemia,B-Cell Acute Lymphoblastic Leukemia,BALL,PT-IjgcRg,Female,Primary,Pediatric
+ACH-000783,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,ILC,PT-dK1tBm,Female,Metastatic,Adult
+ACH-000784,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-YTdWR1,Male,Primary,Adult
+ACH-000785,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-AOPcW9,Male,Metastatic,Adult
+ACH-000788,Skin,Melanoma,Melanoma,MEL,PT-ZSJTWI,Male,Metastatic,Adult
+ACH-000790,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-EI5eP1,Male,Primary,Adult
+ACH-000791,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-sAWSgy,Male,Primary,Adult
+ACH-000792,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,PT-FrUuvH,Male,Primary,Adult
+ACH-000793,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Signet Ring Cell Carcinoma of the Stomach,SSRCC,PT-xOmD9v,Male,Metastatic,Adult
+ACH-000796,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Mucinous Ovarian Cancer,MOV,PT-Tlf0ul,Female,Primary,Adult
+ACH-000799,Skin,Melanoma,Melanoma,MEL,PT-mZ69Vl,Male,Metastatic,Adult
+ACH-000800,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-RmrNlb,Male,Metastatic,Adult
+ACH-000801,Skin,Melanoma,Melanoma,MEL,PT-1I8hCi,Male,Primary,Unknown
+ACH-000802,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-YqLKaW,Female,Primary,Adult
+ACH-000804,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-dk8yt2,Male,Metastatic,Pediatric
+ACH-000805,Skin,Melanoma,Cutaneous Melanoma,SKCM,PT-SscYEx,Female,Metastatic,Adult
+ACH-000807,CNS/Brain,Adult-Type Diffuse Glioma,Adult-Type Diffuse Glioma,ADIFG,PT-Yppu5U,Male,Primary,Adult
+ACH-000809,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-zFPWWq,Male,Primary,Adult
+ACH-000810,Skin,Melanoma,Cutaneous Melanoma,SKCM,PT-1TshCj,Male,Metastatic,Adult
+ACH-000811,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,PT-RV3Y6W,Female,Metastatic,Adult
+ACH-000817,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-pWj35D,Male,Primary,Adult
+ACH-000819,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-1DyLm0,Male,Primary,Adult
+ACH-000820,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-EteVig,Female,Primary,Adult
+ACH-000822,Skin,Melanoma,Melanoma,MEL,PT-n2hnAf,Male,Metastatic,Adult
+ACH-000826,Lung,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,NSCLC,PT-nAjtb0,Male,Primary,Unknown
+ACH-000827,Skin,Melanoma,Melanoma,MEL,PT-L3eOYW,Male,Primary,Adult
+ACH-000829,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-h5fVs5,Male,,Unknown
+ACH-000831,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-cmj7jX,Female,Metastatic,Unknown
+ACH-000832,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-JCJHPr,Male,Primary,Adult
+ACH-000833,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,ARMS,PT-lbYOig,Male,Metastatic,Pediatric
+ACH-000834,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-oxE5Td,Male,Metastatic,Adult
+ACH-000835,Soft Tissue,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,MFH,PT-0RBdNq,Male,Metastatic,Adult
+ACH-000836,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-ZS5SNw,Male,,Adult
+ACH-000837,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-9eMhTl,Male,Primary,Adult
+ACH-000838,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-CmSm57,Female,Primary,Adult
+ACH-000839,Bladder/Urinary Tract,Bladder Squamous Cell Carcinoma,Bladder Squamous Cell Carcinoma,BLSC,PT-l3KlxJ,Male,Primary,Adult
+ACH-000840,Lung,Non-Small Cell Lung Cancer,Lung Adenosquamous Carcinoma,LUAS,PT-1JVU53,Female,Primary,Adult
+ACH-000841,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-lYuNel,Male,Metastatic,Adult
+ACH-000843,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-gQzNzd,Male,Metastatic,Adult
+ACH-000845,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-LL5Hxl,Male,Primary,Adult
+ACH-000846,Head and Neck,Head and Neck Squamous Cell Carcinoma,Hypopharynx Squamous Cell Carcinoma,HPHSC,PT-tolPHE,Male,Primary,Adult
+ACH-000847,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,PT-dAMXIu,Unknown,Metastatic,Unknown
+ACH-000848,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-WkfAGI,Male,Primary,Adult
+ACH-000849,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,PT-58loXx,Female,Metastatic,Adult
+ACH-000853,Lung,Non-Small Cell Lung Cancer,Large Cell Lung Carcinoma,LCLC,PT-FGrsoV,Male,Metastatic,Adult
+ACH-000855,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-8JwTBr,Female,Primary,Adult
+ACH-000856,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,PT-PgOEtc,Female,Metastatic,Adult
+ACH-000858,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-obWM4y,Male,Metastatic,Adult
+ACH-000859,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-603OA3,Female,Primary,Adult
+ACH-000861,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-ExToNn,Female,Primary,Adult
+ACH-000865,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-zNE9qB,Male,Primary,Adult
+ACH-000866,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-l2795j,Female,Metastatic,Adult
+ACH-000867,Lung,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,NSCLC,PT-3nyeTa,Male,Metastatic,Adult
+ACH-000869,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-JylhbS,Female,Metastatic,Adult
+ACH-000871,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-IG35r8,Male,Metastatic,Adult
+ACH-000872,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-CXILSG,Female,Primary,Adult
+ACH-000874,Lymphoid,B-Cell Acute Lymphoblastic Leukemia,B-Cell Acute Lymphoblastic Leukemia,BALL,PT-eEEvwF,Female,Primary,Adult
+ACH-000878,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-WMdXaj,Male,Primary,Adult
+ACH-000879,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-wMzIqz,Female,Primary,Adult
+ACH-000880,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,PT-VHRCrj,Female,Primary,Adult
+ACH-000881,Skin,Melanoma,Cutaneous Melanoma,SKCM,PT-9PTPLm,Female,Primary,Adult
+ACH-000882,Skin,Melanoma,Melanoma,MEL,PT-MRf5jM,Male,Metastatic,Adult
+ACH-000887,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-Wth0p2,Female,Primary,Adult
+ACH-000888,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-JWHrxe,Female,Primary,Adult
+ACH-000889,Lymphoid,Mature B-Cell Neoplasms,Plasma Cell Myeloma,PCM,PT-xlEnkN,Male,Primary,Adult
+ACH-000890,Lung,SMARCA4-deficient undifferentiated tumor,SMARCA4-deficient undifferentiated tumor,SMARCA4-UT,PT-Np75OL,Male,Primary,Adult
+ACH-000894,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-RPtiPJ,Male,Metastatic,Adult
+ACH-000896,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-bDT6oy,Male,Primary,Adult
+ACH-000898,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Tubular Stomach Adenocarcinoma,TSTAD,PT-lvKDUW,Male,Primary,Adult
+ACH-000899,Skin,Melanoma,Melanoma,MEL,PT-j60QIc,Male,Metastatic,Unknown
+ACH-000900,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-rWMXJp,Male,Primary,Adult
+ACH-000901,Lung,Non-Small Cell Lung Cancer,Giant Cell Carcinoma of the Lung,GCLC,PT-gBcBSy,Female,Primary,Adult
+ACH-000903,Thyroid,Well-Differentiated Thyroid Cancer,Follicular Thyroid Cancer,THFO,PT-ZSsyUS,Male,Metastatic,Adult
+ACH-000905,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-nC0LDL,Male,Primary,Adult
+ACH-000906,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Clear Cell Ovarian Cancer,CCOV,PT-rH0cpo,Female,Primary,Adult
+ACH-000907,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,PT-20TYLm,Male,Primary,Adult
+ACH-000910,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,PT-TFQ2Kc,Female,Metastatic,Adult
+ACH-000911,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,PT-BTCHFg,Male,Metastatic,Adult
+ACH-000912,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-wNpw5y,Female,Primary,Adult
+ACH-000913,Uterus,Uterine Sarcoma/Mesenchymal,Endometrial Stromal Sarcoma,ESS,PT-6MnPg3,Female,Primary,Adult
+ACH-000914,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,PT-zrYGap,Male,Metastatic,Adult
+ACH-000915,Skin,Melanoma,Cutaneous Melanoma,SKCM,PT-Jc7cdo,Female,Primary,Adult
+ACH-000917,Esophagus/Stomach,Esophageal Squamous Cell Carcinoma,Esophageal Squamous Cell Carcinoma,ESCC,PT-2HckVI,Male,,Adult
+ACH-000919,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,PT-Iu2j9I,Male,Primary,Adult
+ACH-000921,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-jKAU6d,Male,Metastatic,Adult
+ACH-000922,Lymphoid,B-Cell Acute Lymphoblastic Leukemia,B-Cell Acute Lymphoblastic Leukemia,BALL,PT-0mdkef,Female,,Pediatric
+ACH-000924,Lung,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,NSCLC,PT-4qxYZb,Female,Primary,Unknown
+ACH-000928,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-C2kgmR,Female,Primary,Adult
+ACH-000929,Lung,Non-Small Cell Lung Cancer,Non-Small Cell Lung Cancer,NSCLC,PT-29i6JV,Unknown,Metastatic,Unknown
+ACH-000932,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,PT-3F7Xgi,Male,Metastatic,Adult
+ACH-000934,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,PT-0VWXIm,Female,Metastatic,Adult
+ACH-000935,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-snQqpb,Unknown,Primary,Unknown
+ACH-000936,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Mucinous Ovarian Cancer,MOV,PT-AiIzwN,Female,Metastatic,Adult
+ACH-000937,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma,T-Cell Acute Lymphoblastic Leukemia,TALL,PT-UEq5KV,Female,,Pediatric
+ACH-000938,Lymphoid,B-Cell Acute Lymphoblastic Leukemia,B-Cell Acute Lymphoblastic Leukemia,BALL,PT-rgsUoa,Male,Primary,Adult
+ACH-000939,Uterus,Uterine Sarcoma/Mesenchymal,Uterine Leiomyosarcoma,ULMS,PT-b2KmUs,Female,Primary,Adult
+ACH-000941,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-YZF57N,Female,Primary,Adult
+ACH-000943,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-9E5O4L,Unknown,Primary,Unknown
+ACH-000944,Lymphoid,Mature B-Cell Neoplasms,Burkitt Lymphoma,BL,PT-grWxm0,Female,,Pediatric
+ACH-000945,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-0uFhp8,Male,Metastatic,Unknown
+ACH-000946,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-ANEQ4x,Female,Primary,Adult
+ACH-000947,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Endometrioid Ovarian Cancer,EOV,PT-MsM9mi,Female,Metastatic,Adult
+ACH-000948,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,PT-VDIRwk,Male,Primary,Adult
+ACH-000950,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-6USEGU,Male,Metastatic,Adult
+ACH-000953,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma,T-Cell Acute Lymphoblastic Leukemia,TALL,PT-Zkuf8L,Male,Metastatic,Pediatric
+ACH-000956,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,PT-FFSOW0,Male,Primary,Adult
+ACH-000957,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-FXUrcz,Female,Primary,Adult
+ACH-000958,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-EB6qeM,Female,Primary,Adult
+ACH-000959,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-ulmNPq,Male,Primary,Adult
+ACH-000960,Lymphoid,B-Cell Acute Lymphoblastic Leukemia,B-Cell Acute Lymphoblastic Leukemia,BALL,PT-N5YXV2,Female,Primary,Pediatric
+ACH-000961,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-P06fLR,Female,Primary,Adult
+ACH-000963,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-c4ZGOD,Female,Metastatic,Adult
+ACH-000965,Uterus,Endometrial Carcinoma,Uterine Adenosquamous Carcinoma,UASC,PT-de7J0H,Female,Primary,Adult
+ACH-000966,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Endometrioid Ovarian Cancer,EOV,PT-bGFaJu,Female,Primary,Adult
+ACH-000968,Skin,Melanoma,Melanoma,MEL,PT-z7yLU0,Male,Metastatic,Adult
+ACH-000969,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-ue72rD,Unknown,Primary,Unknown
+ACH-000971,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-2Roqq2,Male,Primary,Adult
+ACH-000973,Bladder/Urinary Tract,Urethral Cancer,Urethral Urothelial Carcinoma,UCU,PT-P31KFG,Male,Primary,Adult
+ACH-000974,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-cgXnS7,Female,Metastatic,Adult
+ACH-000975,Lung,Non-Small Cell Lung Cancer,Lung Squamous Cell Carcinoma,LUSC,PT-gNoIDb,Male,Primary,Adult
+ACH-000976,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,PT-z66Tka,Male,Metastatic,Adult
+ACH-000977,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,PT-tY34fU,Male,Metastatic,Adult
+ACH-000978,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-bmKWJL,Female,Primary,Adult
+ACH-000979,Prostate,Prostate Adenocarcinoma,Prostate Adenocarcinoma,PRAD,PT-05dldv,Male,Metastatic,Adult
+ACH-000981,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma,T-Cell Acute Lymphoblastic Leukemia,TALL,PT-zhUnhJ,Male,Primary,Pediatric
+ACH-000983,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,PT-AcI1bM,Female,,Adult
+ACH-000985,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-KI0Di1,Male,Primary,Adult
+ACH-000986,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-EoHcfh,Unknown,Primary,Unknown
+ACH-000988,Uterus,Endometrial Carcinoma,Uterine Adenosquamous Carcinoma,UASC,PT-blqauC,Female,Primary,Adult
+ACH-000994,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-9r7KW8,Female,Primary,Unknown
+ACH-000995,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma,T-Cell Acute Lymphoblastic Leukemia,TALL,PT-lj83Ht,Male,Primary,Pediatric
+ACH-000996,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-GnDRP6,Female,Primary,Adult
+ACH-000997,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-i0VYNQ,Male,Primary,Adult
+ACH-001001,Bone,Osteosarcoma,Osteosarcoma,OS,PT-epgMPc,Female,Primary,Pediatric
+ACH-001020,CNS/Brain,Embryonal Tumor,Atypical Teratoid/Rhabdoid Tumor,ATRT,PT-WLHxY0,Male,,Pediatric
+ACH-001021,Liver,Hepatoblastoma,Hepatoblastoma,LIHB,PT-qL6HtY,Male,Primary,Pediatric
+ACH-001029,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-NX1XUV,Female,,Pediatric
+ACH-001031,CNS/Brain,Embryonal Tumor,Atypical Teratoid/Rhabdoid Tumor,ATRT,PT-nuzviS,Female,Primary,Pediatric
+ACH-001036,Myeloid,Acute Myeloid Leukemia,Myeloid Leukemia Associated with Down Syndrome,MLADS,PT-XYdNvp,Male,Primary,Pediatric
+ACH-001038,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-Wd5HrW,Male,,Pediatric
+ACH-001053,CNS/Brain,Embryonal Tumor,"Medulloblastoma, Group 3",MBLG3,PT-HMzBz8,Male,Primary,Pediatric
+ACH-001054,CNS/Brain,Embryonal Tumor,"Medulloblastoma, Group 3",MBLG3,PT-HMzBz8,Male,Primary,Pediatric
+ACH-001061,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-i0VYNQ,Male,Primary,Adult
+ACH-001067,CNS/Brain,Meningothelial Tumor,Meningioma,MNG,PT-0woxaX,Male,Primary,Unknown
+ACH-001075,Lung,Non-Small Cell Lung Cancer,Mucoepidermoid Carcinoma of the Lung,LUMEC,PT-nKyqod,Female,Metastatic,Adult
+ACH-001096,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,ARMS,PT-BarDvA,Unknown,,Pediatric
+ACH-001099,Soft Tissue,Rhabdoid Cancer,Extrarenal Rhabdoid Cancer,ERT,PT-FynJTm,Female,,Pediatric
+ACH-001111,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Positive,ALCLALKP,PT-glFbpW,Female,,Adult
+ACH-001119,Lymphoid,Mature T and NK Neoplasms,Anaplastic Large-Cell Lymphoma ALK Negative,ALCLALKN,PT-eHvuQ3,Male,Metastatic,Adult
+ACH-001128,Soft Tissue,Rhabdoid Cancer,Extrarenal Rhabdoid Cancer,ERT,PT-u43maP,Male,,Pediatric
+ACH-001129,Myeloid,Acute Myeloid Leukemia,Acute Monoblastic/Monocytic Leukemia,AMOL,PT-ej13Dz,Male,Primary,Adult
+ACH-001134,Lymphoid,Non-Hodgkin Lymphoma,Non-Hodgkin Lymphoma,NHL,PT-YD7WB8,Male,,Unknown
+ACH-001151,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,High-Grade Serous Ovarian Cancer,HGSOC,PT-u4FBpq,Female,Metastatic,Adult
+ACH-001164,Soft Tissue,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,MFH,PT-VJQa5v,Male,,Pediatric
+ACH-001183,Bladder/Urinary Tract,Bladder Urothelial Carcinoma,Bladder Urothelial Carcinoma,BLCA,PT-ESM25t,Female,Primary,Unknown
+ACH-001184,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,ARMS,PT-4E3Ck9,Female,Metastatic,Pediatric
+ACH-001188,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-ombRgU,Female,Metastatic,Pediatric
+ACH-001190,Skin,Melanoma,Melanoma,MEL,PT-IHNbDy,Male,Metastatic,Adult
+ACH-001192,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-MPUfgI,Female,Metastatic,Adult
+ACH-001193,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-zjZ0Ko,Male,,Pediatric
+ACH-001196,Soft Tissue,Rhabdomyosarcoma,Embryonal Rhabdomyosarcoma,ERMS,PT-9a1vbV,Male,,Pediatric
+ACH-001197,Lymphoid,Non-Hodgkin Lymphoma,Mature T and NK Neoplasms,MTNN,PT-3YIeN9,Male,Metastatic,Adult
+ACH-001205,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-eQaQl0,Female,Primary,Pediatric
+ACH-001211,Soft Tissue,Rhabdoid Cancer,Extrarenal Rhabdoid Cancer,ERT,PT-ZmNOms,Female,,Pediatric
+ACH-001227,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-k3C7C0,Male,Primary,Adult
+ACH-001228,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-k3C7C0,Male,,Adult
+ACH-001232,CNS/Brain,Embryonal Tumor,"Medulloblastoma, NOS",MBLNOS,PT-Qe9Gjx,Male,Primary,Pediatric
+ACH-001239,Skin,Melanoma,Melanoma,MEL,PT-JAyPtz,Female,Metastatic,Adult
+ACH-001274,Soft Tissue,Synovial Sarcoma,Synovial Sarcoma,SYNS,PT-IfpyhV,Female,,Adult
+ACH-001275,Bone,Osteosarcoma,Osteosarcoma,OS,PT-WqcWC9,Female,,Adult
+ACH-001277,Soft Tissue,Synovial Sarcoma,Synovial Sarcoma,SYNS,PT-yyLDZV,Male,Metastatic,Adult
+ACH-001278,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Small Cell Carcinoma of the Ovary,SCCO,PT-ZkKui4,Female,Metastatic,Unknown
+ACH-001279,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Small Cell Carcinoma of the Ovary,SCCO,PT-z5pG5i,Female,,Adult
+ACH-001280,Soft Tissue,Synovial Sarcoma,Synovial Sarcoma,SYNS,PT-u27nif,Unknown,,Pediatric
+ACH-001283,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-yXtSGR,Male,Metastatic,Adult
+ACH-001295,Eye,Retinoblastoma,Retinoblastoma,RBL,PT-KinR5m,Female,Primary,Pediatric
+ACH-001300,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-ZhCETu,Female,Primary,Pediatric
+ACH-001301,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-9ShVj5,Unknown,Unknown,Pediatric
+ACH-001302,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-37DeSd,Unknown,Unknown,Pediatric
+ACH-001303,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-IFd9cu,Male,Unknown,Pediatric
+ACH-001306,Thyroid,Anaplastic Thyroid Cancer,Anaplastic Thyroid Cancer,THAP,PT-Dn9adW,Female,Primary,Adult
+ACH-001307,Thyroid,Anaplastic Thyroid Cancer,Anaplastic Thyroid Cancer,THAP,PT-1llqWx,Female,Primary,Adult
+ACH-001318,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-E7izN5,Male,Primary,Adult
+ACH-001322,Soft Tissue,Synovial Sarcoma,Synovial Sarcoma,SYNS,PT-NzxvhN,Female,,Pediatric
+ACH-001333,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,PT-9q6tDV,Female,Primary,Adult
+ACH-001334,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,PT-ERAmPK,Female,Primary,Adult
+ACH-001336,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,PT-QAGzTB,Female,Metastatic,Adult
+ACH-001338,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-cvCz0R,Male,Primary,Pediatric
+ACH-001344,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-smWXLD,Female,Metastatic,Pediatric
+ACH-001349,CNS/Brain,Embryonal Tumor,"Medulloblastoma, NOS",MBLNOS,PT-S14wo4,Male,Metastatic,Pediatric
+ACH-001354,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-6gsVP1,Female,Primary,Pediatric
+ACH-001366,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-jZHQTi,Male,Metastatic,Pediatric
+ACH-001385,Head and Neck,"Head and Neck Carcinoma, Other",NUT Midline Carcinoma of the Head and Neck,NMCHN,PT-a3pn8l,Male,Metastatic,Adult
+ACH-001393,Breast,Invasive Breast Carcinoma,Invasive Breast Carcinoma,BRCA,PT-Zd61pI,Female,Primary,Unknown
+ACH-001398,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,PT-Xr379n,Male,Primary,Adult
+ACH-001400,Vulva/Vagina,Squamous Cell Carcinoma of the Vulva/Vagina,Squamous Cell Carcinoma of the Vulva/Vagina,VSC,PT-2KkY6l,Female,Primary,Adult
+ACH-001401,Adrenal Gland,Adrenocortical Carcinoma,Adrenocortical Carcinoma,ACC,PT-7a0mgm,Female,Primary,Adult
+ACH-001421,Eye,Retinoblastoma,Retinoblastoma,RBL,PT-WBS2Hf,Female,Primary,Pediatric
+ACH-001422,Prostate,Non-Cancerous,"Immortalized Epithelial Cells, Prostate",ZIMMEPCP,PT-EhPRzn,Male,Primary,Adult
+ACH-001428,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-XQvpFQ,Male,Metastatic,Pediatric
+ACH-001430,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-uuajSv,Male,Primary,Pediatric
+ACH-001431,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-VGGhv1,Unknown,Primary,Pediatric
+ACH-001433,Soft Tissue,Epithelioid Sarcoma,Epithelioid Sarcoma,EPIS,PT-rJIZ1y,Female,Metastatic,Pediatric
+ACH-001442,Skin,Cutaneous Squamous Cell Carcinoma,Cutaneous Squamous Cell Carcinoma,CSCC,PT-QwG6Ej,Male,Metastatic,Adult
+ACH-001461,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,PT-3wMRZS,Male,Primary,Adult
+ACH-001465,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-7eVJ3u,Female,Metastatic,Pediatric
+ACH-001481,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-GWiky5,Male,Metastatic,Pediatric
+ACH-001494,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Extrahepatic Cholangiocarcinoma,EHCH,PT-KZb32w,Male,Primary,Adult
+ACH-001502,Testis,Non-Seminomatous Germ Cell Tumor,Teratoma,TT,PT-xmuA7w,Male,Primary,Unknown
+ACH-001508,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-SHOmTE,Male,Primary,Adult
+ACH-001509,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-jrbPZG,Male,Primary,Adult
+ACH-001526,Bone,Osteosarcoma,Osteosarcoma,OS,PT-JCLa8x,Female,Primary,Pediatric
+ACH-001528,Thyroid,Well-Differentiated Thyroid Cancer,Papillary Thyroid Cancer,THPA,PT-1Qm9m0,Male,Metastatic,Adult
+ACH-001530,Uterus,Gestational Trophoblastic Disease,Choriocarcinoma,UCCA,PT-hB4ARO,Male,Metastatic,Fetus
+ACH-001533,Lymphoid,Mature B-Cell Neoplasms,Splenic Marginal Zone Lymphoma,SMZL,PT-04HLfu,Male,Primary,Unknown
+ACH-001543,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-1EAB3W,Male,Primary,Adult
+ACH-001547,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,PT-xjKkQm,Male,Primary,Adult
+ACH-001548,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-TA4RrC,Female,Metastatic,Pediatric
+ACH-001560,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Biphasic Type",PLBMESO,PT-B0HUMd,Male,Primary,Unknown
+ACH-001562,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,PT-9C9m7Z,Male,Primary,Unknown
+ACH-001574,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-H3wdRq,Male,Primary,Adult
+ACH-001577,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-wizE6v,Female,Primary,Adult
+ACH-001578,Testis,Non-Seminomatous Germ Cell Tumor,Embryonal Carcinoma,EMBCA,PT-OqrZ3f,Male,Primary,Adult
+ACH-001606,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-jZhsXq,Female,Primary,Adult
+ACH-001608,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-NaLtZ9,Male,Primary,Adult
+ACH-001609,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-OT2kJe,Male,Primary,Adult
+ACH-001610,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-WoVaBP,Male,Primary,Adult
+ACH-001611,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-62G0ep,Female,Primary,Adult
+ACH-001618,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-Oev2PO,Unknown,Primary,Adult
+ACH-001619,Biliary Tract,Intracholecystic Papillary Neoplasm,"Gallbladder Adenocarcinoma, NOS",GBAD,PT-xi87qq,Male,Metastatic,Adult
+ACH-001622,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-D5Ft7E,Male,Primary,Adult
+ACH-001623,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-QBDrgb,Female,Primary,Adult
+ACH-001624,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-dDtvIC,Male,Primary,Adult
+ACH-001641,Head and Neck,Head and Neck Squamous Cell Carcinoma,Head and Neck Squamous Cell Carcinoma,HNSC,PT-4X1Phg,Unknown,Primary,Unknown
+ACH-001642,Lymphoid,Non-Hodgkin Lymphoma,Mature B-Cell Neoplasms,MBN,PT-HcsCe7,Female,Primary,Adult
+ACH-001647,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-8Jr4Fd,Male,Metastatic,Adult
+ACH-001649,Prostate,Non-Cancerous,"Immortalized Epithelial Cells, Prostate",ZIMMEPCP,PT-iy858F,Male,Primary,Unknown
+ACH-001656,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-YKJPHt,Male,Metastatic,Adult
+ACH-001662,Breast,Invasive Breast Carcinoma,"Breast Invasive Cancer, NOS",BRCANOS,PT-v3hnay,Female,Primary,Adult
+ACH-001668,Testis,Non-Seminomatous Germ Cell Tumor,Teratoma,TT,PT-2w1URA,Male,Primary,Adult
+ACH-001669,Lymphoid,B-Cell Acute Lymphoblastic Leukemia,B-Cell Acute Lymphoblastic Leukemia,BALL,PT-ffpEbF,Male,Primary,Pediatric
+ACH-001670,CNS/Brain,Embryonal Tumor,Primitive Neuroectodermal Tumor,PNET,PT-SJ98Vo,Female,Primary,Adult
+ACH-001674,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-o4jARg,Male,Primary,Pediatric
+ACH-001675,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-6uEn4i,Female,Primary,Adult
+ACH-001676,Head and Neck,"Head and Neck Carcinoma, Other",NUT Midline Carcinoma of the Head and Neck,NMCHN,PT-41SYJa,Female,Primary,Adult
+ACH-001677,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,PT-PFlyLY,Male,Primary,Adult
+ACH-001683,Breast,Invasive Breast Carcinoma,Breast Invasive Lobular Carcinoma,ILC,PT-toAH2F,Female,Primary,Adult
+ACH-001685,Lymphoid,Hodgkin Lymphoma,Hodgkin Lymphoma,HL,PT-A1mKo8,Male,Primary,Adult
+ACH-001691,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-km3C7x,Male,Primary,Adult
+ACH-001694,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-GgnlK1,Female,Primary,Adult
+ACH-001695,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-Rb8OWd,Male,Primary,Adult
+ACH-001696,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-YWwuRp,Female,Primary,Adult
+ACH-001699,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-uhmv08,Male,Primary,Adult
+ACH-001701,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-CvPqts,Male,Primary,Adult
+ACH-001702,Soft Tissue,Epithelioid Sarcoma,Epithelioid Sarcoma,EPIS,PT-vslXtO,Male,Metastatic,Adult
+ACH-001707,Lymphoid,Mature B-Cell Neoplasms,Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma,CLLSLL,PT-XqTlID,Male,Primary,Unknown
+ACH-001709,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,PT-scpPOF,Female,Primary,Adult
+ACH-001711,CNS/Brain,Embryonal Tumor,Primitive Neuroectodermal Tumor,PNET,PT-lzKK9W,Male,Primary,Pediatric
+ACH-001715,Bone,Osteosarcoma,Osteosarcoma,OS,PT-fcGStb,Male,Primary,Pediatric
+ACH-001735,Lymphoid,B-Cell Acute Lymphoblastic Leukemia,B-Cell Acute Lymphoblastic Leukemia,BALL,PT-IjgcRg,Female,Primary,Pediatric
+ACH-001736,Lymphoid,B-Cell Acute Lymphoblastic Leukemia,B-Cell Acute Lymphoblastic Leukemia,BALL,PT-PmkoYV,Unknown,Primary,Pediatric
+ACH-001737,Lymphoid,T-Lymphoblastic Leukemia/Lymphoma,T-Cell Acute Lymphoblastic Leukemia,TALL,PT-KaownI,Male,Primary,Pediatric
+ACH-001740,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,ARMS,PT-vvfjiZ,Male,Metastatic,Pediatric
+ACH-001745,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,ARMS,PT-s7RWi4,Male,,Pediatric
+ACH-001750,Soft Tissue,Rhabdomyosarcoma,Embryonal Rhabdomyosarcoma,ERMS,PT-Hk36HO,Male,,Pediatric
+ACH-001765,Soft Tissue,Rhabdomyosarcoma,Alveolar Rhabdomyosarcoma,ARMS,PT-BN67ox,Female,Metastatic,Pediatric
+ACH-001791,Soft Tissue,Liposarcoma,Liposarcoma,LIPO,PT-lRwItD,Unknown,,Unknown
+ACH-001793,Soft Tissue,Liposarcoma,Liposarcoma,LIPO,PT-TTxLCZ,Unknown,,Unknown
+ACH-001799,Soft Tissue,Liposarcoma,Dedifferentiated Liposarcoma,DDLS,PT-VjYY7b,Male,,Unknown
+ACH-001802,Soft Tissue,Liposarcoma,Dedifferentiated Liposarcoma,DDLS,PT-JmLeEs,Unknown,,Unknown
+ACH-001804,Soft Tissue,Liposarcoma,Dedifferentiated Liposarcoma,DDLS,PT-0lPf2W,Unknown,,Unknown
+ACH-001814,Bone,Osteosarcoma,Osteosarcoma,OS,PT-2XpRTn,Male,Primary,Pediatric
+ACH-001848,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,PT-PUXC1Q,Male,Primary,Unknown
+ACH-001863,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Intrahepatic Cholangiocarcinoma,IHCH,PT-VWXKPj,Male,Primary,Unknown
+ACH-001972,Skin,Melanoma,Melanoma,MEL,PT-Czk2qo,Male,Metastatic,Unknown
+ACH-001975,Skin,Melanoma,Melanoma,MEL,PT-IBpd8U,Unknown,Metastatic,Unknown
+ACH-001977,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,PT-YF5RFe,Male,Primary,Adult
+ACH-001982,Skin,Melanoma,Melanoma,MEL,PT-6BEu4D,Male,Metastatic,Adult
+ACH-001986,Skin,Melanoma,Melanoma,MEL,PT-EpCvHQ,Male,Metastatic,Adult
+ACH-001990,Skin,Melanoma,Melanoma,MEL,PT-PCXcZ8,Male,Metastatic,Adult
+ACH-001992,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,PT-nrQ0Fm,Male,Primary,Adult
+ACH-001993,Lymphoid,B-Cell Acute Lymphoblastic Leukemia,B-Cell Acute Lymphoblastic Leukemia,BALL,PT-22pOAT,Female,Primary,Pediatric
+ACH-002001,Skin,Melanoma,Melanoma,MEL,PT-3FxmoJ,Female,Primary,Adult
+ACH-002002,Skin,Melanoma,Melanoma,MEL,PT-3FxmoJ,Female,Primary,Adult
+ACH-002003,Skin,Melanoma,Melanoma,MEL,PT-3FxmoJ,Female,Primary,Adult
+ACH-002004,Skin,Melanoma,Melanoma,MEL,PT-Zu8A8i,Unknown,Primary,Unknown
+ACH-002005,Skin,Melanoma,Cutaneous Melanoma,SKCM,PT-4QtR2m,Male,Primary,Adult
+ACH-002014,Eye,Ocular Melanoma,Uveal Melanoma,UM,PT-5vJu3k,Male,Primary,Adult
+ACH-002015,Eye,Ocular Melanoma,Uveal Melanoma,UM,PT-N7xRpa,Female,Primary,Adult
+ACH-002016,Eye,Ocular Melanoma,Uveal Melanoma,UM,PT-MucJf6,Female,Primary,Adult
+ACH-002018,Eye,Ocular Melanoma,Uveal Melanoma,UM,PT-5vJu3k,Male,Metastatic,Adult
+ACH-002019,Cervix,Glassy Cell Carcinoma of the Cervix,Glassy Cell Carcinoma of the Cervix,CEGCC,PT-AOzYCt,Female,Primary,Adult
+ACH-002020,Cervix,Cervical Squamous Cell Carcinoma,Cervical Squamous Cell Carcinoma,CESC,PT-3SrUkP,Female,Primary,Adult
+ACH-002021,Uterus,Gestational Trophoblastic Disease,Choriocarcinoma,UCCA,PT-UGz23U,Female,Primary,Unknown
+ACH-002023,Ampulla of Vater,Ampullary Carcinoma,Ampullary Carcinoma,AMPCA,PT-hlvUsv,Female,Primary,Adult
+ACH-002024,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,PT-2Stxl0,Male,Primary,Adult
+ACH-002025,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,PT-mIVrGc,Male,Primary,Unknown
+ACH-002026,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-cgXnS7,Female,Primary,Adult
+ACH-002027,Uterus,Endometrial Carcinoma,Endometrial Carcinoma,UCEC,PT-vIwQtl,Female,Primary,Adult
+ACH-002029,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-rJXazG,Female,Primary,Adult
+ACH-002030,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-f3QT3w,Male,Primary,Adult
+ACH-002033,Pleura,Pleural Mesothelioma,"Pleural Mesothelioma, Epithelioid Type",PLEMESO,PT-zLKvmC,Male,Primary,Adult
+ACH-002035,Lung,Non-Small Cell Lung Cancer,Poorly Differentiated Non-Small Cell Lung Cancer,NSCLCPD,PT-5NWbnb,Male,Primary,Adult
+ACH-002039,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-mXNlfw,Unknown,Metastatic,Unknown
+ACH-002040,Vulva/Vagina,Mucosal Melanoma of the Vulva/Vagina,Mucosal Melanoma of the Vulva/Vagina,VMM,PT-YbtlK5,Female,Primary,Adult
+ACH-002041,Thyroid,Anaplastic Thyroid Cancer,Anaplastic Thyroid Cancer,THAP,PT-PqWEZm,Female,Primary,Adult
+ACH-002042,Head and Neck,Head and Neck Squamous Cell Carcinoma,Head and Neck Squamous Cell Carcinoma,HNSC,PT-vhf9cn,Female,Primary,Adult
+ACH-002043,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-gB4Jfi,Male,Primary,Adult
+ACH-002044,Head and Neck,Head and Neck Squamous Cell Carcinoma,Sinonasal Squamous Cell Carcinoma,SNSC,PT-v9ccBc,Male,Primary,Adult
+ACH-002045,Head and Neck,Head and Neck Squamous Cell Carcinoma,Oral Cavity Squamous Cell Carcinoma,OCSC,PT-a3mx1w,Male,Primary,Adult
+ACH-002046,Uterus,Endometrial Carcinoma,Uterine Carcinosarcoma/Uterine Malignant Mixed Mullerian Tumor,UCS,PT-SKC9qY,Female,Primary,Adult
+ACH-002048,Soft Tissue,Rhabdomyosarcoma,Embryonal Rhabdomyosarcoma,ERMS,PT-oslMHT,Male,Primary,Pediatric
+ACH-002051,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-K31XId,Male,Primary,Adult
+ACH-002052,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-0531Uw,Male,Primary,Adult
+ACH-002055,Lymphoid,Mature B-Cell Neoplasms,Burkitt Lymphoma,BL,PT-tk6NTJ,Male,Primary,Pediatric
+ACH-002059,Lymphoid,B-Cell Acute Lymphoblastic Leukemia,B-Cell Acute Lymphoblastic Leukemia,BALL,PT-reOMOW,Female,Primary,Pediatric
+ACH-002060,Myeloid,Acute Leukemias of Ambiguous Lineage,Acute Leukemias of Ambiguous Lineage,ALAL,PT-DWKd8J,Female,Primary,Adult
+ACH-002061,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,PT-y8u0p3,Female,Primary,Adult
+ACH-002062,Lymphoid,Mature B-Cell Neoplasms,Splenic Marginal Zone Lymphoma,SMZL,PT-2hETfh,Female,Primary,Adult
+ACH-002066,Peripheral Nervous System,Nerve Sheath Tumor,Malignant Peripheral Nerve Sheath Tumor,MPNST,PT-coZfvw,Female,Primary,Adult
+ACH-002067,Bone,Osteosarcoma,Osteosarcoma,OS,PT-EcVEYs,Male,Primary,Pediatric
+ACH-002069,Bone,Osteosarcoma,Osteosarcoma,OS,PT-3pqp8N,Female,Primary,Pediatric
+ACH-002070,CNS/Brain,Meningothelial Tumor,Meningioma,MNG,PT-kM7sLu,Female,Primary,Adult
+ACH-002077,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-qVbV4Q,Male,Metastatic,Adult
+ACH-002080,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-rlExpa,Male,Primary,Unknown
+ACH-002084,Skin,Melanoma,Melanoma,MEL,PT-Qsi22o,Female,Metastatic,Adult
+ACH-002142,Bone,Osteosarcoma,Osteosarcoma,OS,PT-3yhqod,Female,Primary,Pediatric
+ACH-002214,Lymphoid,Mature B-Cell Neoplasms,Primary Effusion Lymphoma,PEL,PT-83LwGP,Male,Primary,Adult
+ACH-002215,Lymphoid,Mature B-Cell Neoplasms,Primary Effusion Lymphoma,PEL,PT-tSpUfL,Male,,Adult
+ACH-002283,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-x400Sq,Female,Metastatic,Pediatric
+ACH-002291,Testis,Non-Seminomatous Germ Cell Tumor,Embryonal Carcinoma,EMBCA,PT-4gdieL,Male,Metastatic,Adult
+ACH-002399,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-iW8GZP,Female,Primary,Adult
+ACH-002400,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-iW8GZP,Female,Metastatic,Adult
+ACH-002401,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-iW8GZP,Female,Metastatic,Adult
+ACH-002433,Bone,Osteosarcoma,Osteosarcoma,OS,PT-k1gvKS,Male,Primary,Pediatric
+ACH-002446,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Stomach Adenocarcinoma,STAD,PT-i9nBPr,Male,Metastatic,Adult
+ACH-002458,Skin,Melanoma,Melanoma,MEL,PT-czDcsE,Male,Metastatic,Adult
+ACH-002460,Skin,Melanoma,Melanoma,MEL,PT-czDcsE,Male,Metastatic,Adult
+ACH-002463,Eye,Non-Cancerous,"Immortalized Epithelial Cells, Retinal",ZIMMEPCRT,PT-JWRsco,Female,,Unknown
+ACH-002464,Eye,Non-Cancerous,"Immortalized Epithelial Cells, Retinal",ZIMMEPCRT,PT-JWRsco,Female,,Unknown
+ACH-002465,Eye,Non-Cancerous,"Immortalized Epithelial Cells, Retinal",ZIMMEPCRT,PT-JWRsco,Female,,Unknown
+ACH-002470,Bone,Osteosarcoma,Osteosarcoma,OS,PT-873wzV,Male,Metastatic,Pediatric
+ACH-002471,Bone,Osteosarcoma,Osteosarcoma,OS,PT-UbzBsY,Female,Primary,Pediatric
+ACH-002475,Myeloid,Myeloproliferative Neoplasms,"Chronic Myeloid Leukemia, BCR-ABL1+",CMLBCRABL1,PT-gjpFPM,Male,,Adult
+ACH-002478,Lymphoid,Mature B-Cell Neoplasms,Primary Effusion Lymphoma,PEL,PT-pqMaYc,Male,Primary,Adult
+ACH-002485,Lymphoid,Mature B-Cell Neoplasms,Mantle Cell Lymphoma,MCL,PT-NJ3wbw,Male,,Adult
+ACH-002486,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Serous Ovarian Cancer,SOC,PT-pyZjZu,Female,Primary,Adult
+ACH-002490,Lung,Lung Neuroendocrine Tumor,Small Cell Lung Cancer,SCLC,PT-0a2F5a,Male,Metastatic,Adult
+ACH-002499,Breast,Invasive Breast Carcinoma,Breast Invasive Ductal Carcinoma,IDC,PT-j6UudO,Female,Metastatic,Adult
+ACH-002500,Lymphoid,Mature B-Cell Neoplasms,Mantle Cell Lymphoma,MCL,PT-GjFsxJ,Male,,Adult
+ACH-002508,Skin,Melanoma,Acral Melanoma,ACRM,PT-SogXKU,Female,Metastatic,Adult
+ACH-002510,Skin,Melanoma,Acral Melanoma,ACRM,PT-6g2PcW,Male,Metastatic,Adult
+ACH-002511,Skin,Melanoma,Melanoma,MEL,PT-iI63vt,Female,Primary,Adult
+ACH-002512,Skin,Melanoma,Acral Melanoma,ACRM,PT-YwNqCa,Male,Metastatic,Adult
+ACH-002522,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-7B82nW,Female,Metastatic,Adult
+ACH-002523,Liver,Hepatocellular Carcinoma,Hepatocellular Carcinoma,HCC,PT-0yqjae,Male,Primary,Adult
+ACH-002524,Ovary/Fallopian Tube,Ovarian Epithelial Tumor,Endometrioid Ovarian Cancer,EOV,PT-itoB60,Female,Metastatic,Adult
+ACH-002526,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-z0Yk96,Male,Metastatic,Adult
+ACH-002528,Kidney,Renal Cell Carcinoma,Renal Clear Cell Carcinoma,CCRCC,PT-Zod1Nb,Male,Primary,Adult
+ACH-002531,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-GWa6kp,Female,Metastatic,Adult
+ACH-002533,Kidney,Renal Cell Carcinoma,Renal Cell Carcinoma,RCC,PT-wkGMuS,Male,Primary,Adult
+ACH-002535,Bowel,Colorectal Adenocarcinoma,Rectal Adenocarcinoma,READ,PT-W0h0s9,Female,Primary,Adult
+ACH-002538,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-WkPESC,Female,,Adult
+ACH-002544,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Tubular Stomach Adenocarcinoma,TSTAD,PT-3szZZM,Male,Primary,Adult
+ACH-002647,Biliary Tract,Intraductal Papillary Neoplasm of the Bile Duct,Cholangiocarcinoma,CHOL,PT-O1x5GT,Male,Metastatic,Adult
+ACH-002650,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-6fwwV7,Male,Metastatic,Adult
+ACH-002654,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-anuBoi,Female,Primary,Adult
+ACH-002659,Bowel,Colorectal Adenocarcinoma,Mucinous Adenocarcinoma of the Colon and Rectum,MACR,PT-btmPL5,Male,Primary,Adult
+ACH-002660,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-iZtOKB,Female,Metastatic,Adult
+ACH-002662,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-iwSeHI,Male,Primary,Adult
+ACH-002664,Bowel,Colorectal Adenocarcinoma,Mucinous Adenocarcinoma of the Colon and Rectum,MACR,PT-FT4DA3,Female,Metastatic,Adult
+ACH-002669,Bowel,Colorectal Adenocarcinoma,Colon Adenocarcinoma,COAD,PT-53ZOQS,Male,Primary,Adult
+ACH-002672,Pancreas,Pancreatic Adenocarcinoma,Pancreatic Adenocarcinoma,PAAD,PT-yBlD98,Male,Primary,Adult
+ACH-002677,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,PT-6AFvnc,Male,Metastatic,Adult
+ACH-002678,Lymphoid,Mature B-Cell Neoplasms,"Diffuse Large B-Cell Lymphoma, NOS",DLBCLNOS,PT-EV9I7F,Male,,Adult
+ACH-002680,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-UACtvx,Female,Primary,Adult
+ACH-002681,CNS/Brain,Adult-Type Diffuse Glioma,"Glioblastoma, IDH-Wildtype",GB,PT-2QAfke,Male,,Adult
+ACH-002687,Eye,Ocular Melanoma,Uveal Melanoma,UM,PT-VBCF1O,Female,Metastatic,Unknown
+ACH-002688,Bone,Osteosarcoma,Osteosarcoma,OS,PT-A4Rqd9,Male,Primary,Unknown
+ACH-002690,Bone,Osteosarcoma,Osteosarcoma,OS,PT-6Xf1w4,Male,Primary,Pediatric
+ACH-002693,Peripheral Nervous System,Nerve Sheath Tumor,Malignant Peripheral Nerve Sheath Tumor,MPNST,PT-DyxJsT,Female,Unknown,Unknown
+ACH-002705,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,PT-qcon1I,Male,Primary,Adult
+ACH-002706,Esophagus/Stomach,Esophagogastric Adenocarcinoma,Esophageal Adenocarcinoma,ESCA,PT-qcon1I,Male,Primary,Adult
+ACH-002708,Soft Tissue,Liposarcoma,Myxoid/Round-Cell Liposarcoma,MRLS,PT-03AcoW,Male,Metastatic,Adult
+ACH-002709,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-92FgnG,Female,,Pediatric
+ACH-002710,Peripheral Nervous System,Nerve Sheath Tumor,Malignant Peripheral Nerve Sheath Tumor,MPNST,PT-nQk25T,Unknown,Primary,Unknown
+ACH-002711,Head and Neck,Salivary Carcinoma,Adenoid Cystic Carcinoma,ACYC,PT-Jn4RNo,Female,Primary,Adult
+ACH-002778,Bone,Osteosarcoma,Osteosarcoma,OS,PT-iPKVUD,Male,Unknown,Pediatric
+ACH-002780,Bone,Ewing Sarcoma,Ewing Sarcoma,ES,PT-wlbuKV,Male,Primary,Adult
+ACH-002782,Soft Tissue,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,MFH,PT-z4CfZ2,Male,Primary,Adult
+ACH-002784,Soft Tissue,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,MFH,PT-ucxyns,Female,Primary,Adult
+ACH-002785,Soft Tissue,Leiomyosarcoma,Leiomyosarcoma,LMS,PT-6sPicj,Female,Metastatic,Adult
+ACH-002792,Soft Tissue,Clear Cell Sarcoma,Clear Cell Sarcoma,CCS,PT-wrg9dD,Female,Unknown,Adult
+ACH-002799,Peripheral Nervous System,Nerve Sheath Tumor,Malignant Peripheral Nerve Sheath Tumor,MPNST,PT-qqzgSc,Female,Unknown,Adult
+ACH-002800,Peripheral Nervous System,Nerve Sheath Tumor,Malignant Peripheral Nerve Sheath Tumor,MPNST,PT-WTpRkW,Male,Unknown,Adult
+ACH-002801,Peripheral Nervous System,Nerve Sheath Tumor,Malignant Peripheral Nerve Sheath Tumor,MPNST,PT-hmiIEB,Male,Unknown,Adult
+ACH-002806,CNS/Brain,Adult-Type Diffuse Glioma,"Astrocytoma, IDH-Mutant",ASTR,PT-k6klta,Male,Primary,Adult
+ACH-002834,Bone,Osteosarcoma,Osteosarcoma,OS,PT-EcUHFc,Female,Primary,Pediatric
+ACH-002847,Skin,Melanoma,Melanoma,MEL,PT-AFnHpd,Female,Metastatic,Adult
+ACH-002922,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-LKZDpW,Female,Metastatic,Pediatric
+ACH-002923,Peripheral Nervous System,Neuroblastoma,Neuroblastoma,NBL,PT-22FXN6,Male,Metastatic,Pediatric
+ACH-002925,Eye,Ocular Melanoma,Uveal Melanoma,UM,PT-abxYPP,Male,Primary,Unknown
+ACH-002926,Eye,Ocular Melanoma,Uveal Melanoma,UM,PT-vu5jnE,Female,Primary,Unknown
+ACH-002928,Skin,Melanoma,Acral Melanoma,ACRM,PT-M9rUlw,Female,Metastatic,Adult
+ACH-003012,Lung,Non-Small Cell Lung Cancer,Lung Adenocarcinoma,LUAD,PT-cqv92I,Male,Primary,Adult
+ACH-003064,Bone,Other,Sacrococcygeal teratoma,SCTT,PT-57BDo9,Male,,Pediatric
+ACH-003065,CNS/Brain,Embryonal Tumor,Atypical Teratoid/Rhabdoid Tumor,ATRT,PT-eRqT4h,Male,,Pediatric
+ACH-003171,Bone,Osteosarcoma,Osteoblastic Osteosarcoma,OSOS,PT-i9JRNE,Male,Primary,Adult
+ACH-003176,Bone,Osteosarcoma,Osteosarcoma,OS,PT-VbQDpc,Male,Primary,Adult
+ACH-003177,Soft Tissue,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,MFH,PT-72jDHL,Male,Metastatic,Adult
+ACH-003178,Bone,Osteosarcoma,Osteosarcoma,OS,PT-or8OCW,Male,Primary,Pediatric
+ACH-003180,Soft Tissue,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,MFH,PT-EMnXLI,Female,Primary,Adult
+ACH-003184,Soft Tissue,Leiomyosarcoma,Leiomyosarcoma,LMS,PT-21NMVa,Female,Primary,Adult
+ACH-003185,Bone,Osteosarcoma,Osteosarcoma,OS,PT-McNlZE,Male,Primary,Adult
+ACH-003186,Soft Tissue,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,MFH,PT-DbN4gj,Female,Primary,Adult
+ACH-003189,Soft Tissue,Liposarcoma,Dedifferentiated Liposarcoma,DDLS,PT-eY3uqu,Female,Primary,Adult
+ACH-003190,Soft Tissue,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,Undifferentiated Pleomorphic Sarcoma/Malignant Fibrous Histiocytoma/High-Grade Spindle Cell Sarcoma,MFH,PT-8LUb74,Female,Primary,Adult
+ACH-003191,Bone,Giant Cell Tumor of Bone,Giant Cell Tumor of Bone,GCTB,PT-B8KJKw,Male,Primary,Adult
+ACH-003273,Myeloid,Acute Myeloid Leukemia,Acute Myeloid Leukemia,AML,PT-44yhk7,Male,Primary,Pediatric
+ACH-003410,Bone,Chordoma,Dedifferentiated Chordoma,DDCHDM,PT-Dz7ENW,Male,Metastatic,Pediatric
+ACH-003573,Bone,Osteosarcoma,Osteosarcoma,OS,PT-s4DSO4,Unknown,,Unknown
+ACH-003587,Bone,Osteosarcoma,Osteosarcoma,OS,PT-g8kcwe,Female,Metastatic,Adult
+ACH-003590,Lymphoid,B-Cell Acute Lymphoblastic Leukemia,B-Cell Acute Lymphoblastic Leukemia,BALL,PT-JkwieL,Male,Recurrent,Pediatric
